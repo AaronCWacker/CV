@@ -1,6 +1,6 @@
 # Aaron Wacker - Curriculum Vitae (CV)
 
-Senior Principal Engineer with over 30 years experience leading architecture and development teams focusing on AI delivery last 5 years delivering AI Assessment, Care Plan, Triage, Behavioral Health, Medical Inpatient, Outpatient, SNF provider recommendation systems for Clinical business and technology.  Nearly every review since 2010, I scored 5/5 exceeding expectations for review scores.  During UHCMV contract from 
+Senior Principal Engineer with over **30 years** experience leading architecture and development teams focusing on AI delivery last 5 years delivering AI Assessment, Care Plan, Triage, Behavioral Health, Medical Inpatient, Outpatient, SNF provider recommendation systems for Clinical business and technology.  Nearly every review since 2010, I scored 5/5 exceeding expectations for review scores.  During UHCMV contract from 
 
 As an AI teacher on a weekly basis with AI Zero to Hero lecture course and annual global Hackathon leader, helped train over 2300 engineers per year for Hackathon and over 400 engineers per year in weekly AI Zero to Hero class, while maintaining a near perfect Net Promoter Score of **97.7% promoters**.  My own growth in AI development saw increases from up to ten programs per year (2021), to 200 per year in 2022, then over 578 total within Q1 2023 showing over 100x increase in productivity using AI pair programming and learning techniques.
 
