@@ -11,7 +11,7 @@ In the last ten years as well
 
 Years        | Position-Company           |   Notable Achievements & Links
 -------------|----------------------------|-----------------------------------
-2020 - 2023  | Senior Principal Engineer  |                                     
+2020 - 2023  | Senior Principal Engineer  |  Delivery of AI Assessment, AI Care Plan, Intelligent Data Recommender
 2020 - 2023  |                            |                                
 2020 - 2023  |                            |                                    
 2017 - 2020  |                            |                              
@@ -24,49 +24,11 @@ Years        | Position-Company           |   Notable Achievements & Links
 2011 - 2014  |                            |                                         
 2011 - 2014  |                            |                                         
 2008 - 2011  |                            |                                         
-2005 - 2008  |                            |                                        
-2000 - 2005  |                            |                                       
-2000 - 2005  |                            |                                       
-1999 - 2002  |                            |                                        
-1996 - 1999  |                            |                                       
 1995 - 2010  | President/CEO Evolvable Corporation  | S-Corp Entrepreneur in consulting and product development with 8 employees             
 1994 - 1995  | Intern - UnitedHealth      |  QA Test Automation Lead SQA Teamtest for Sales Support System SSS
 1989 - 1994  | U of MN Consultant for EE/CSCI, Physics, MechE, Walter   | Consultant for U of M at 4 Labs
 1989 - 1994  | U of MN - BIS - CSCI, PSY & JPN   | Philanthropy Chair, Scholarship Chair, JPN fluency           
       
-
-
-
-
-Year  | Position-Company  |   Notable Achievements   |   Links
-------|-------------------|--------------------------|---------
-2023  |                   |                          |               
-2022  |                   |                          |               
-2021  |                   |                          |               
-2020  |                   |                          |               
-2019  |                   |                          |               
-2018  |                   |                          |               
-2017  |                   |                          |               
-2016  |                   |                          |               
-2015  |                   |                          |               
-2014  |                   |                          |               
-2013  |                   |                          |               
-2012  |                   |                          |               
-2011  |                   |                          |               
-2010  |                   |                          |               
-2009  |                   |                          |               
-2008  |                   |                          |               
-2007  |                   |                          |               
-2006  |                   |                          |               
-2005  |                   |                          |               
-2004  |                   |                          |               
-2003  |                   |                          |               
-2002  |                   |                          |               
-2001  |                   |                          |               
-2000  |                   |                          |               
-1999  |                   |                          |               
-1998  |                   |                          |               
-
 
 # Videos Supporting Body of Work:
 
@@ -81,38 +43,19 @@ https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology 2. LOIN
 AI Zero to Hero - 2023 03 09 08 02 - 100x Plan Using AI Pair Programming
 https://optum.video.uhc.com/media/AI%20Zero%20to%20Hero%20-%202023%2003%2009%2008%2002%20-%20100x%20Plan%20Using%20AI%20Pair%20Programming/1_pte6htm0
 
-👋 Multiply your productivity by 100 times today using AI:🌐 Required Tools: HuggingFace, Gradio, Streamlit, ChatGPT,and HTML/Javascript My Progression:2021 - With AI Coding From Scratch 10 AI programs per year = 1 AI Program per 36.5 days.2022 - Discovered HF Spaces. 200 AI Programs = a little over .5 Programs per day.2023 - New process - AI Pair Programming ChatGPT+HF = 266 in Q1 (1064 programs per year)🌐 New Process for AI Pair ProgrammingOpen 2 Browsers on left and right side of screen:🌐 Left - ChatGPT URL or URL2 and🌐 Right - Huggingface URL in separate browser windows.🤖 Use prompts to generate a streamlit program. Test on Huggingface (public, open source, SSL on web) or locally to test it.🔧 For advanced work, add Python 3.10 and VSCode locally, and then debug as gradio or streamlit apps.🚀 Use these two superpower processes to reduce the time it takes you to make a new AI program! ⏱️🌐 Conclusion: Over 100x in 2023 using this simple recipe.
-
-
 
 AI Zero to Hero 2023.03.02 - awacke1/ExamplesOfAI-2 - https://huggingface.co/spaces/awacke1/ExamplesOfAI-2
 https://optum.video.uhc.com/media/AI%20Zero%20to%20Hero%202023.03.02%20-%20awacke1_ExamplesOfAI-2%20-%20https%3A__huggingface.co_spaces_awacke1_ExamplesOfAI-2/1_k7mprkxp
 
-Examples of AI 2 awacke1/ExamplesOfAI-2 - https://huggingface.co/spaces/awacke1/ExamplesOfAI-2 In this episode: 🌐 AI Pair Programming 🎥 YouTube University Method 🎥 2023 AI/ML Advanced Learning Playlists Cognitive AI with Human Feedback (CAHF) Example 🩺⚕️ 📚 Clinical Terminology and Ontologies Example 🩺⚕️NLP Clinical Ontology Biomedical NER 📚Natural Language Processing🔤 - 🗣️🤖💭💬🌍🔍 Advanced NLP ASR Examples:1. 🩺⚕️ https://huggingface.co/spaces/awacke1/ASR-High-Accuracy-Test 2. https://huggingface.co/spaces/awacke1/ASRGenerateStory 3. 🩺⚕️ https://huggingface.co/spaces/awacke1/TTS-STT-Blocks 4. 🩺⚕️ https://huggingface.co/spaces/awacke1/CloneAnyVoice 5. https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla --- Additional Content in Examples: 🔮Generative AI💭 (🎨Images and 📝Text) - 🎵🧩🔄📊🌌 📷Image Recognition🏞️ 🗣️Speech Recognition💬 Reinforcement Learning 🎲Game Theory🎲 – Traditional AI processes Future of AILarge Language Model - Human Feedback Metrics: 🩺⚕️ ROUGE🩺⚕️ BLEU 🩺⚕️ Reinforcement Learning from Human Feedback (RLHF) 🩺⚕️ Hospital Visualizations GraphViz - Knowledge Graphs as Code 🤖🔥 Knowledge Graphs 🎥🎼🌟💡🎨🔍🌟📈🤖💻🌟🎭🎥🎼🧑‍🎓🧪🧑‍💼🩺🛠️🌳🏛️
 
 
 
-
-
-Feedback on AI Zero to Hero Recurring Thursday 1 Hour Class:
-
-NPS score results for my AI Zero to Hero Courses on Thursdays.
-97.7% NPS Promoter Score
-
-17 perfect 10's
-5 9's promoter
-
-NPS Score for AI Zero to Hero is 
-
-Below are recent ones- nearly all perfect scores with some great feedback:
+Below are recent NPS scores - nearly all perfect scores with some great feedback:
 classid	Score	Additional Question: Why did you attend this training/event?	Do you feel this course/event was effective in meeting the stated learning objectives?	Please share your comments regarding this learning experience: 
 20230323	10	New Skills or Technology	Agree	very interesting!
 20230323	10	New Skills or Technology, Refresh Skills	Strongly Agree	This class is excellent, Aaron provided the necessary tools and now we have to experience the tools and apply them to our ideas.
 20230316	10	New Skills or Technology	Strongly Agree	
 20230316	10	New Skills or Technology, Refresh Skills	Strongly Agree	Aaron is amazing! his demo is on point, and he always update his material! You consistently learn something new with every session that you attend!
-
-
-
 And love that Aaron is sharing his 30 years of experience and kepe improving our data culture! Thank you again Aaron! 
 20230316	9	New Skills or Technology	Agree	
 20230316	9	Recommended/Required by Manager	Agree	Great class to learn more about AI models and ML. Learned more on how to make dashboards for HuggingFace and excited to learn more in the future!
