@@ -1,30 +1,19 @@
 # Aaron Wacker CV - Curriculum Vitae / Course of Life
 
-Senior Principal Engineer with over 30 years experience leading architecture and development teams focusing on AI delivery last 5 years delivering AI Assessment, Care Plan, Triage, Behavioral Health, Medical Inpatient, Outpatient, SNF provider recommendation systems for Clinical business and technology.
+Senior Principal Engineer with over 30 years experience leading architecture and development teams focusing on AI delivery last 5 years delivering AI Assessment, Care Plan, Triage, Behavioral Health, Medical Inpatient, Outpatient, SNF provider recommendation systems for Clinical business and technology.  Nearly every review since 2010, I scored 5/5 exceeding expectations for review scores.  During UHCMV contract from 
 
 As an AI teacher on a weekly basis with AI Zero to Hero lecture course and annual global Hackathon leader, helped train over 2300 engineers per year for Hackathon and over 400 engineers per year in weekly AI Zero to Hero class, while maintaining a near perfect Net Promoter Score of **97.7% promoters**.  My own growth in AI development saw increases from up to ten programs per year (2021), to 200 per year in 2022, then over 578 total within Q1 2023 showing over 100x increase in productivity using AI pair programming and learning techniques.
 
-With product engineering and delivery I have led delivery of at least three large AI oriented projects per year since 2018 including notable successes suchs as over 12 IP disclosure submissions in last 5 years with one successful patent covering over 32 features for automating prior auth determinations using decision trees and AI.  Patent Link: https://assignment.uspto.gov/patent/index.html#/patent/search/resultAssignment?id=51748-479
-
-In the last ten years as well 
-
+With product engineering and delivery I have led delivery of at least three large AI oriented projects per year since 2018 including notable successes 12 IP disclosure submissions with one successful patent covering 32 features for automating prior auth determinations using decision trees and AI.  Patent Link: https://assignment.uspto.gov/patent/index.html#/patent/search/resultAssignment?id=51748-479
 
 Years        | Position-Company           |   Notable Achievements & Links
 -------------|----------------------------|-----------------------------------
 2020 - 2023  | Senior Principal Engineer  |  Delivery of AI Assessment, AI Care Plan, Intelligent Data Recommender
-2020 - 2023  |                            |                                
-2020 - 2023  |                            |                                    
-2017 - 2020  |                            |                              
-2017 - 2020  |                            |                           
-2017 - 2020  |                            |                                
-2014 - 2017  |                            |                                   
-2014 - 2017  |                            |                                
-2014 - 2017  |                            |                                         
-2011 - 2014  |                            |                                         
-2011 - 2014  |                            |                                         
-2011 - 2014  |                            |                                         
-2008 - 2011  |                            |                                         
-1995 - 2010  | President/CEO Evolvable Corporation  | S-Corp Entrepreneur in consulting and product development with 8 employees             
+2017 - 2020  | Senior Principal Engineer  |  Accredited as Senior Principal Engineer, Deployed 4 solutions within ICUE to production that use AI to recommend providers, automate approvals for prior authorization, and review and make recommendations on clinical documents.
+2016 - 2017  | Director Architecture      |  Moved from UHCMV to leading Clinical Architecture **team of 14** reporting to VP Clinical Technology                                      
+2012 - 2016  | Director Applications Development |  Hired and managed **team of 36** for UHCMV contract with $13M A/D annual leading CareOne and MVPega                                     
+2009 - 2012  | Senior Development Manager | Converted team from contractors to full time employees in 2009 working on CareOne and ICUE as technology leader focused on design and development                                        
+1995 - 2009  | President/CEO Evolvable Corporation  | S-Corp Entrepreneur in consulting and product development with 8 employees with Travelers Express, UTV/Fox, US Bank, Best Buy, Target, UHG, and other clients.
 1994 - 1995  | Intern - UnitedHealth      |  QA Test Automation Lead SQA Teamtest for Sales Support System SSS
 1989 - 1994  | U of MN Consultant for EE/CSCI, Physics, MechE, Walter   | Consultant for U of M at 4 Labs
 1989 - 1994  | U of MN - BIS - CSCI, PSY & JPN   | Philanthropy Chair, Scholarship Chair, JPN fluency           
@@ -50,7 +39,8 @@ https://optum.video.uhc.com/media/AI%20Zero%20to%20Hero%202023.03.02%20-%20awack
 
 
 
-Below are recent NPS scores - nearly all perfect scores with some great feedback:
+Example recent NPS scores - nearly all perfect with great feedback:
+
 classid	Score	Additional Question: Why did you attend this training/event?	Do you feel this course/event was effective in meeting the stated learning objectives?	Please share your comments regarding this learning experience: 
 20230323	10	New Skills or Technology	Agree	very interesting!
 20230323	10	New Skills or Technology, Refresh Skills	Strongly Agree	This class is excellent, Aaron provided the necessary tools and now we have to experience the tools and apply them to our ideas.
