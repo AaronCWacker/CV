@@ -1,5 +1,4 @@
-# Aaron Wacker CV
-## Curriculum Vitae - Course of Life
+# Aaron Wacker CV - Curriculum Vitae / Course of Life
 
 
 Years        | Position-Company           |   Notable Achievements & Links
