@@ -1,6 +1,7 @@
 # Aaron Wacker CV
 ## Curriculum Vitae - Course of Life
 
+
 Year  | Position-Company  |   Notable Achievements   |   Links
 ------|-------------------|--------------------------|---------
 2023  |                   |                          |               
