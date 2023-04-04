@@ -6,24 +6,24 @@ Years        | Position-Company           |   Notable Achievements & Links
 2020 - 2023  | Senior Principal Engineer  |                                     
 2020 - 2023  |                            |                                
 2020 - 2023  |                            |                                    
-2020 - 2023  |                            |                                 
-2020 - 2023  |                            |                              
 2017 - 2020  |                            |                              
 2017 - 2020  |                            |                           
 2017 - 2020  |                            |                                
-2017 - 2020  |                            |                             
 2014 - 2017  |                            |                                   
 2014 - 2017  |                            |                                
 2014 - 2017  |                            |                                         
 2011 - 2014  |                            |                                         
 2011 - 2014  |                            |                                         
-2007 - 2011  |                            |                                         
-2005 - 2007  |                            |                                        
-2002 - 2005  |                            |                                       
+2011 - 2014  |                            |                                         
+2008 - 2011  |                            |                                         
+2005 - 2008  |                            |                                        
+2000 - 2005  |                            |                                       
+2000 - 2005  |                            |                                       
 1999 - 2002  |                            |                                        
 1996 - 1999  |                            |                                       
-1995 - 1996  | President/CEO Evolvable Corporation  | Entrepreneur - 8 employees             
-1994 - 1995  | Intern - UnitedHealth      |  QA Test Automation Lead - Sales Support System
+1995 - 2000  | President/CEO Evolvable Corporation  | Entrepreneur - 8 employees             
+1994 - 1995  | Intern - UnitedHealth      |  QA Test Automation Lead SQA Teamtest for Sales Support System SSS
+1989 - 1994  | U of MN Consultant for EE/CSCI, Physics, MechE, Walter   | Consultant for U of M at 4 Labs
 1989 - 1994  | U of MN - BIS - CSCI, PSY & JPN   | Philanthropy Chair, Scholarship Chair, JPN fluency           
       
 
