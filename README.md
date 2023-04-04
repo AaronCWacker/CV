@@ -53,33 +53,30 @@ Years        | Position-Company           |   Notable Achievements & Links
 
 
 
-# Recent NPS Feedback:
+# Recent NPS Feedback Scores and Comments
 classid	Score	Additional Question: Why did you attend this training/event?	Do you feel this course/event was effective in meeting the stated learning objectives?	Please share your comments regarding this learning experience: 
-20230323	10	New Skills or Technology	Agree	very interesting!
-20230323	10	New Skills or Technology, Refresh Skills	Strongly Agree	This class is excellent, Aaron provided the necessary tools and now we have to experience the tools and apply them to our ideas.
-20230316	10	New Skills or Technology	Strongly Agree	
-20230316	10	New Skills or Technology, Refresh Skills	Strongly Agree	Aaron is amazing! his demo is on point, and he always update his material! You consistently learn something new with every session that you attend!
-And love that Aaron is sharing his 30 years of experience and kepe improving our data culture! Thank you again Aaron! 
-20230316	9	New Skills or Technology	Agree	
-20230316	9	Recommended/Required by Manager	Agree	Great class to learn more about AI models and ML. Learned more on how to make dashboards for HuggingFace and excited to learn more in the future!
-20230309	10	Recommended/Required by Manager	Agree	Great examples and easy to follow. Might be a little quick for people without much experience, but having the sessions recorded gives them a chance to look back if needed.
-20230309	9	New Skills or Technology, Recommended by Co-Worker	Strongly Agree	Excellent session by Aaron. Got good ways and tips to improve productivity by 100x
-20230309	10	Recommended by Co-Worker	Strongly Agree	
-20230309	10	Refresh Skills	Strongly Agree	Aaron is a great presenter and teacher. Both classes so far have been top notch. Thank you very much for motivating me to learn hugging face.
-20230309	9	New Skills or Technology	Strongly Agree	Aaron packed into 1 hour an entire day's worth of amazing and practical content for me to watch again -- at a much slower pace so I can absorb and learn and practice. THANK YOU!
-20230309	9	New Skills or Technology	Agree	
-20230309	9	New Skills or Technology, Recommended by Co-Worker	Agree	
-20230309	10	New Skills or Technology	Strongly Agree	really well explained session ! Would love to attend and explore more classes by Aaron !
-20230309	10	New Skills or Technology	Agree	It appears it met the objective, but the class moved so fast I was unable to keep up with watching and doing at the same time so learning and copying/pasting examples run was not possible for me. I look forward to going through the video and watching more intently and following the examples to learn more. It appears to be thorough and something I will definitely be able to use.
-20230302	10	New Skills or Technology	Strongly Agree	Like to participate and contribute to UHG AI platform models and learn more
-20230302	10	New Skills or Technology, Recommended/Required by Manager	Agree	Although the main goal was to show how easy and fast it is to build AI apps, there were many dependencies and technical skills referenced and/or required for deeper knowledge (ChatGPT prompts, Python, GitHub, Streamlit, MarkDown). With inspired passion, I'll now go learn and practice those skills so I can apply them to building new apps with HuggingFace. I needed to watch the replay with frequent pauses, to allow it all to sink in. 
-20230302	10	New Skills or Technology	Strongly Agree	Thank you, Aaron, for the great session. 
-
-Aaron was very detailed and clear while presenting the information.
-20230302	10	New Skills or Technology	Strongly Agree	Amazing initiative.
-20230302	10	New Skills or Technology, Refresh Skills	Strongly Agree	It was excellent , effective and good as a starter to get into AI
-20230302	10	Refresh Skills	Strongly Agree	
-20230302	10	New Skills or Technology, Refresh Skills	Strongly Agree	Learned how quickly use hugging face to create AI apps at great speed
-20230302	10	Other (just trying to learn more about huggingface)	Strongly Agree	
+1. 20230323	10	New Skills or Technology	Agree	very interesting!
+2. 20230323	10	New Skills or Technology, Refresh Skills	Strongly Agree	This class is excellent, Aaron provided the necessary tools and now we have to experience the tools and apply them to our ideas.
+3. 20230316	10	New Skills or Technology	Strongly Agree	
+4. 20230316	10	New Skills or Technology, Refresh Skills	Strongly Agree	Aaron is amazing! his demo is on point, and he always update his material! You consistently learn something new with every session that you attend! And love that Aaron is sharing his 30 years of experience and kepe improving our data culture! Thank you again Aaron! 
+5. 20230316	9	New Skills or Technology	Agree	
+6. 20230316	9	Recommended/Required by Manager	Agree	Great class to learn more about AI models and ML. Learned more on how to make dashboards for HuggingFace and excited to learn more in the future!
+7. 20230309	10	Recommended/Required by Manager	Agree	Great examples and easy to follow. Might be a little quick for people without much experience, but having the sessions recorded gives them a chance to look back if needed.
+8. 20230309	9	New Skills or Technology, Recommended by Co-Worker	Strongly Agree	Excellent session by Aaron. Got good ways and tips to improve productivity by 100x
+9. 20230309	10	Recommended by Co-Worker	Strongly Agree	
+10. 20230309	10	Refresh Skills	Strongly Agree	Aaron is a great presenter and teacher. Both classes so far have been top notch. Thank you very much for motivating me to learn hugging face.
+11. 20230309	9	New Skills or Technology	Strongly Agree	Aaron packed into 1 hour an entire day's worth of amazing and practical content for me to watch again -- at a much slower pace so I can absorb and learn and practice. THANK YOU!
+12. 20230309	9	New Skills or Technology	Agree	
+13. 20230309	9	New Skills or Technology, Recommended by Co-Worker	Agree	
+14. 20230309	10	New Skills or Technology	Strongly Agree	really well explained session ! Would love to attend and explore more classes by Aaron !
+15. 20230309	10	New Skills or Technology	Agree	It appears it met the objective, but the class moved so fast I was unable to keep up with watching and doing at the same time so learning and copying/pasting examples run was not possible for me. I look forward to going through the video and watching more intently and following the examples to learn more. It appears to be thorough and something I will definitely be able to use.
+16. 20230302	10	New Skills or Technology	Strongly Agree	Like to participate and contribute to UHG AI platform models and learn more
+17. 20230302	10	New Skills or Technology, Recommended/Required by Manager	Agree	Although the main goal was to show how easy and fast it is to build AI apps, there were many dependencies and technical skills referenced and/or required for deeper knowledge (ChatGPT prompts, Python, GitHub, Streamlit, MarkDown). With inspired passion, I'll now go learn and practice those skills so I can apply them to building new apps with HuggingFace. I needed to watch the replay with frequent pauses, to allow it all to sink in. 
+18. 20230302	10	New Skills or Technology	Strongly Agree	Thank you, Aaron, for the great session.  Aaron was very detailed and clear while presenting the information.
+19. 20230302	10	New Skills or Technology	Strongly Agree	Amazing initiative.
+20. 20230302	10	New Skills or Technology, Refresh Skills	Strongly Agree	It was excellent , effective and good as a starter to get into AI
+21. 20230302	10	Refresh Skills	Strongly Agree	
+22. 20230302	10	New Skills or Technology, Refresh Skills	Strongly Agree	Learned how quickly use hugging face to create AI apps at great speed
+23. 20230302	10	Other (just trying to learn more about huggingface)	Strongly Agree	
 
 # Huggingface Organizations and Classrooms: ![image](https://user-images.githubusercontent.com/30595158/229934298-b6924d64-73ac-4b06-87e5-39682b99c3b6.png)
