@@ -4,7 +4,7 @@ Senior Principal Engineer with over 30 years experience leading architecture and
 
 As an AI teacher on a weekly basis with AI Zero to Hero lecture course and annual global Hackathon leader, helped train over 2300 engineers per year for Hackathon and over 400 engineers per year in weekly AI Zero to Hero class, while maintaining a near perfect Net Promoter Score of **97.7% promoters**.  My own growth in AI development saw increases from up to ten programs per year (2021), to 200 per year in 2022, then over 578 total within Q1 2023 showing over 100x increase in productivity using AI pair programming and learning techniques.
 
-With product engineering and delivery I have led delivery of at least three large AI oriented projects per year since 2018 including notable successes suchs as over 12 IP disclosure submissions in last 5 years with one successful patent covering over 32 features for automating prior auth determinations using decision trees and AI.
+With product engineering and delivery I have led delivery of at least three large AI oriented projects per year since 2018 including notable successes suchs as over 12 IP disclosure submissions in last 5 years with one successful patent covering over 32 features for automating prior auth determinations using decision trees and AI.  Patent Link: https://assignment.uspto.gov/patent/index.html#/patent/search/resultAssignment?id=51748-479
 
 In the last ten years as well 
 
