@@ -1,5 +1,12 @@
 # Aaron Wacker - Curriculum Vitae (CV)
 
+![image](https://user-images.githubusercontent.com/30595158/229933783-b62223b7-eed5-44e9-ad89-5b0d6d9bd361.png)
+Aaron Wacker - Senior Principal Engineer, Optum Health Incubator
+HuggingFace: https://huggingface.co/awacke1
+Github: https://github.com/AaronCWacker/
+Research Interests: AGI and ML Pipelines, Ambient IoT AI, Behavior Cognitive and Memory AI, Clinical Medical and Nursing AI, Genomics AI, GAN Gaming GAIL AR VR XR and Simulation AI, Graph Ontology KR KE AI, Languages and NLP AI, Quantum Compute GPU TPU NPU AI, Vision Image Document and Audio/Video AI, RLHF, InstructGPT, GPT4, Human Feedback Systems and Datasets
+
+
 Senior Principal Engineer with over **30 years** experience leading architecture and development teams focusing on AI delivery last 5 years delivering AI Assessment, Care Plan, Triage, Behavioral Health, Medical Inpatient, Outpatient, SNF provider recommendation systems for Clinical business and technology.  
 
 Nearly every review since 2010, I scored **5/5 exceeding expectations** for review scores.
@@ -23,28 +30,30 @@ Years        | Position-Company           |   Notable Achievements & Links
 1989 - 1994  | U of MN - BIS - CSCI, PSY & JPN   | Philanthropy Chair, Scholarship Chair, JPN fluency           
       
 
-# Videos Supporting Body of Work:
+# Recent Videos Supporting Body of Work:
 
-# 4/2023:
-Daily OH AI Standup - AI Assessment and Care Plan - 20230403_090209
+# 2022-2023 AI Assessments:
+1. https://optum.video.uhc.com/media/AI%20Assessment%20NER%20and%20CT%20-%20Review%20with%20Clinical%20-%20PR%20w%20Feature%20List/1_aksjd3dq
+2. https://optum.video.uhc.com/media/Daily%20OH%20AI%20Standup-20230210_090326-Meeting%20Recording.mp4/1_jehc1xng
+3. https://optum.video.uhc.com/media/NLP%20Clinical%20Ontology%20Biomedical%20NER%20Model/1_r5bt1hwt
+4. https://optum.video.uhc.com/media/AI%20UI_UX%20Using%20Gradio%20and%20Streamlit%20-%20ASR%2C%20Speech%20In_Out%2C%20Chatbot%2C%20Clinical%20Biomedical%20NER%2C%20and%20Clinical%20Terminology%20Recognition/1_bvw180fc
+5. https://optum.video.uhc.com/media/NLP%20Fact%20Extraction%20Pipeline%20DataRobot%20AI%20Model%20using%20ADT%20Datasets%20Light%20Gradient%20Boost%20Model%20w%20DataRobot%20AI%20Assessment%20Datasets%20and%20Clinical%20Terminology%20for%20Clinical%20NLP/1_hdynasdo
+6. https://optum.video.uhc.com/media/Aaron%20Wacker%20and%20Mohamed%20Ali%20Demonstrate%20AI%20Pipeline%20for%20Clinical%20Medical%20and%20Behavioral%20Assessments/1_6wgj7d86
+7. https://optum.video.uhc.com/media/AI%20Assessment%20Workflow/1_k085g84n
 
-Demonstration of AI Assessment - 4 Parts: 1. Clinical Named Entity Recognition (NER): https://optum.video.uhc.com/media/Daily%20OH%20AI%20Standup%20-%20AI%20Assessment%20and%20Care%20Plan%20-%2020230403_090209/1_d89xl2oi
-
-https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology 2. LOINC Panel Questions Extraction: https://huggingface.co/spaces/awacke1/Assess.LOINC.Panel.Extractor 3. SMART FHIR Exercise Panel: https://huggingface.co/spaces/awacke1/Assessment.SMART.FHIR.Exercise.Panel 4. SMART FHIR Blood Pressure Assess: https://huggingface.co/spaces/awacke1/SMART-FHIR-Assessment-Blood-Pressure
-
-
-AI Zero to Hero - 2023 03 09 08 02 - 100x Plan Using AI Pair Programming
-https://optum.video.uhc.com/media/AI%20Zero%20to%20Hero%20-%202023%2003%2009%2008%2002%20-%20100x%20Plan%20Using%20AI%20Pair%20Programming/1_pte6htm0
-
-
-AI Zero to Hero 2023.03.02 - awacke1/ExamplesOfAI-2 - https://huggingface.co/spaces/awacke1/ExamplesOfAI-2
-https://optum.video.uhc.com/media/AI%20Zero%20to%20Hero%202023.03.02%20-%20awacke1_ExamplesOfAI-2%20-%20https%3A__huggingface.co_spaces_awacke1_ExamplesOfAI-2/1_k7mprkxp
+# 2022-2023 AI Zero to Hero Course Recordings:
+1. https://optum.video.uhc.com/media/AI%20Zero%20to%20Hero%20-%202023%2003%2009%2008%2002%20-%20100x%20Plan%20Using%20AI%20Pair%20Programming/1_pte6htm0
+2. https://optum.video.uhc.com/media/AI%20Zero%20to%20Hero%202023.03.02%20-%20awacke1_ExamplesOfAI-2%20-%20https%3A__huggingface.co_spaces_awacke1_ExamplesOfAI-2/1_k7mprkxp
+3. https://optum.video.uhc.com/media/%F0%9F%A9%BA%E2%9A%95%EF%B8%8F%F0%9F%A7%ACAI%20Zero%20to%20Hero%20-%20Fast%20AI%20by%20Example%20-%20Classroom%20Thursdays%208AM%20Central%20%E2%9A%97%EF%B8%8F%F0%9F%A7%A0%F0%9F%94%AC-20221215_080149-Meeting%20Recording/1_s665sj2o
+4. https://optum.video.uhc.com/media/%F0%9F%A9%BA%E2%9A%95%EF%B8%8F%F0%9F%A7%ACAI%20Zero%20to%20Hero%20-%20Fast%20AI%20by%20Example%20-%20Classroom%20Thursdays%208AM%20Central%20%E2%9A%97%EF%B8%8F%F0%9F%A7%A0%F0%9F%94%AC-20221110_080347/1_duhggnoj
+5. https://optum.video.uhc.com/media/AI%20Zero%20to%20Hero%20For%20Health%20-%2011_3_2022/1_781lwlv8
+6. https://optum.video.uhc.com/media/AI%20Zero%20to%20Hero%20-%20Fast%20AI%20by%20Example%20-%2010202022/1_97xcph0j
+7. https://optum.video.uhc.com/media/AI%20Zero%20to%20Hero%209_30%20-%20Fast%20Open%20Source%20AI%20by%20Example/1_a9ahbk2p
+8. https://optum.video.uhc.com/media/AI%20Zero%20to%20Hero%209_23%20-%20Fast%20Open%20Source%20AI%20by%20Example/1_5ts0j8j3
 
 
 
-
-Example recent NPS scores - nearly all perfect with great feedback:
-
+# Recent NPS Feedback:
 classid	Score	Additional Question: Why did you attend this training/event?	Do you feel this course/event was effective in meeting the stated learning objectives?	Please share your comments regarding this learning experience: 
 20230323	10	New Skills or Technology	Agree	very interesting!
 20230323	10	New Skills or Technology, Refresh Skills	Strongly Agree	This class is excellent, Aaron provided the necessary tools and now we have to experience the tools and apply them to our ideas.
@@ -72,3 +81,5 @@ Aaron was very detailed and clear while presenting the information.
 20230302	10	Refresh Skills	Strongly Agree	
 20230302	10	New Skills or Technology, Refresh Skills	Strongly Agree	Learned how quickly use hugging face to create AI apps at great speed
 20230302	10	Other (just trying to learn more about huggingface)	Strongly Agree	
+
+# Huggingface Organizations and Classrooms: ![image](https://user-images.githubusercontent.com/30595158/229934298-b6924d64-73ac-4b06-87e5-39682b99c3b6.png)
