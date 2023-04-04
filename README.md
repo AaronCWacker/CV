@@ -29,7 +29,7 @@ Years        | Position-Company           |   Notable Achievements & Links
 2000 - 2005  |                            |                                       
 1999 - 2002  |                            |                                        
 1996 - 1999  |                            |                                       
-1995 - 2000  | President/CEO Evolvable Corporation  | Entrepreneur - 8 employees             
+1995 - 2010  | President/CEO Evolvable Corporation  | S-Corp Entrepreneur in consulting and product development with 8 employees             
 1994 - 1995  | Intern - UnitedHealth      |  QA Test Automation Lead SQA Teamtest for Sales Support System SSS
 1989 - 1994  | U of MN Consultant for EE/CSCI, Physics, MechE, Walter   | Consultant for U of M at 4 Labs
 1989 - 1994  | U of MN - BIS - CSCI, PSY & JPN   | Philanthropy Chair, Scholarship Chair, JPN fluency           
