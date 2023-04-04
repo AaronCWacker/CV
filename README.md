@@ -1,4 +1,4 @@
-# Aaron Wacker CV - Curriculum Vitae / Course of Life
+# Aaron Wacker - Curriculum Vitae (CV)
 
 Senior Principal Engineer with over 30 years experience leading architecture and development teams focusing on AI delivery last 5 years delivering AI Assessment, Care Plan, Triage, Behavioral Health, Medical Inpatient, Outpatient, SNF provider recommendation systems for Clinical business and technology.  Nearly every review since 2010, I scored 5/5 exceeding expectations for review scores.  During UHCMV contract from 
 
