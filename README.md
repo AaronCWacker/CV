@@ -1,21 +1,21 @@
 # Aaron Wacker - Curriculum Vitae (CV)
 
 ![image](https://user-images.githubusercontent.com/30595158/229933783-b62223b7-eed5-44e9-ad89-5b0d6d9bd361.png)
-Aaron Wacker - Senior Principal Engineer, Optum Health Incubator
-HuggingFace: https://huggingface.co/awacke1
-Github: https://github.com/AaronCWacker/
-Research Interests: AGI and ML Pipelines, Ambient IoT AI, Behavior Cognitive and Memory AI, Clinical Medical and Nursing AI, Genomics AI, GAN Gaming GAIL AR VR XR and Simulation AI, Graph Ontology KR KE AI, Languages and NLP AI, Quantum Compute GPU TPU NPU AI, Vision Image Document and Audio/Video AI, RLHF, InstructGPT, GPT4, Human Feedback Systems and Datasets
 
+# Aaron Wacker - Senior Principal Engineer, Optum Health Incubator
+**HuggingFace**: https://huggingface.co/awacke1
+**Github**: https://github.com/AaronCWacker/   Arctic Code Vault contributor for Machine Learning: https://github.com/AaronCWacker?achievement=arctic-code-vault-contributor&tab=achievements
+**Research Interests**: AGI and ML Pipelines, Ambient IoT AI, Behavior Cognitive and Memory AI, Clinical Medical and Nursing AI, Genomics AI, GAN Gaming GAIL AR VR XR and Simulation AI, Graph Ontology KR KE AI, Languages and NLP AI, Quantum Compute GPU TPU NPU AI, Vision Image Document and Audio/Video AI, RLHF, InstructGPT, GPT4, Human Feedback Systems and Datasets
 
-Senior Principal Engineer with over **30 years** experience leading architecture and development teams focusing on AI delivery last 5 years delivering AI Assessment, Care Plan, Triage, Behavioral Health, Medical Inpatient, Outpatient, SNF provider recommendation systems for Clinical business and technology.  
+**Senior Principal Engineer** with over **30 years** experience leading architecture and development teams focusing on AI delivery last 5 years delivering AI Assessment, Care Plan, Triage, Behavioral Health, Medical Inpatient, Outpatient, SNF provider recommendation systems for Clinical business and technology.  
 
 Nearly every review since 2010, I scored **5/5 exceeding expectations** for review scores.
 
-As an AI teacher on a weekly basis with AI Zero to Hero lecture course and annual global Hackathon leader, I helped train over 2300 engineers per year running the Global Hackathon since 2019 and also over 400 engineers per year in weekly AI Zero to Hero class through Optum Technology University, while maintaining a near perfect Net Promoter Score of **97.7% promoters**.  
+As an **AI teacher** on a weekly basis with AI Zero to Hero lecture course and annual global Hackathon leader, I helped train over 2300 engineers per year running Optum's Global Hackathon since 2019 with also over 400 engineers per year attending my weekly AI Zero to Hero class through **Optum Technology University**, while maintaining a near perfect **Net Promoter Score of 97.7% promoters**.  
 
 My own growth in AI development productivity has increased from up to ten programs per year (2021), to 200 per year in 2022, and over 578 total within Q1 2023 showing **over 100x** increase in productivity by using and teaching AI pair programming and learning techniques.
 
-With product engineering and delivery I have led delivery of at least three large AI oriented projects per year since 2018 including notable successes 12 IP disclosure submissions with one successful patent covering 32 features for automating prior auth determinations using decision trees and AI, also serving as a patent mentor.  **Patent Link**: https://assignment.uspto.gov/patent/index.html#/patent/search/resultAssignment?id=51748-479
+With product engineering and delivery I have led delivery of at least three large AI oriented projects per year since 2018 including notable successes such as 12 IP disclosure submissions with one successful patent covering 32 features for automating prior auth determinations using decision trees and AI, also serving as a patent mentor.  **Patent Link**: https://assignment.uspto.gov/patent/index.html#/patent/search/resultAssignment?id=51748-479
 
 Years        | Position-Company           |   Notable Achievements & Links
 -------------|----------------------------|-----------------------------------
