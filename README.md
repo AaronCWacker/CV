@@ -3,11 +3,11 @@
 ![image](https://user-images.githubusercontent.com/30595158/229933783-b62223b7-eed5-44e9-ad89-5b0d6d9bd361.png)
 
 # Aaron Wacker - Senior Principal Engineer, Optum Health Incubator
-**HuggingFace**: https://huggingface.co/awacke1
-**Github**: https://github.com/AaronCWacker/   Arctic Code Vault contributor for Machine Learning: https://github.com/AaronCWacker?achievement=arctic-code-vault-contributor&tab=achievements
-**Research Interests**: AGI and ML Pipelines, Ambient IoT AI, Behavior Cognitive and Memory AI, Clinical Medical and Nursing AI, Genomics AI, GAN Gaming GAIL AR VR XR and Simulation AI, Graph Ontology KR KE AI, Languages and NLP AI, Quantum Compute GPU TPU NPU AI, Vision Image Document and Audio/Video AI, RLHF, InstructGPT, GPT4, Human Feedback Systems and Datasets
+- **HuggingFace**: https://huggingface.co/awacke1
+- **Github**: https://github.com/AaronCWacker/   Arctic Code Vault contributor for Machine Learning: https://github.com/AaronCWacker?achievement=arctic-code-vault-contributor&tab=achievements
+- **Research Interests**: AGI and ML Pipelines, Ambient IoT AI, Behavior Cognitive and Memory AI, Clinical Medical and Nursing AI, Genomics AI, GAN Gaming GAIL AR VR XR and Simulation AI, Graph Ontology KR KE AI, Languages and NLP AI, Quantum Compute GPU TPU NPU AI, Vision Image Document and Audio/Video AI, RLHF, InstructGPT, GPT4, Human Feedback Systems and Datasets
 
-**Senior Principal Engineer** with over **30 years** experience leading architecture and development teams focusing on AI delivery last 5 years delivering AI Assessment, Care Plan, Triage, Behavioral Health, Medical Inpatient, Outpatient, SNF provider recommendation systems for Clinical business and technology.  
+## **Senior Principal Engineer** with over **30 years** experience leading architecture and development teams focusing on AI delivery last 5 years delivering AI Assessment, Care Plan, Triage, Behavioral Health, Medical Inpatient, Outpatient, SNF provider recommendation systems for Clinical business and technology.  
 
 Nearly every review since 2010, I scored **5/5 exceeding expectations** for review scores.
 
