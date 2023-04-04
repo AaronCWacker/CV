@@ -2,6 +2,34 @@
 ## Curriculum Vitae - Course of Life
 
 
+Years        | Position-Company           |   Notable Achievements   |   Links
+-------------|----------------------------|--------------------------|---------
+2020 - 2023  | Senior Principal Engineer  |                          |               
+2020 - 2023  |                            |                          |               
+2020 - 2023  |                            |                          |               
+2020 - 2023  |                            |                          |               
+2020 - 2023  |                            |                          |               
+2017 - 2020  |                            |                          |               
+2017 - 2020  |                            |                          |               
+2017 - 2020  |                            |                          |               
+2017 - 2020  |                            |                          |               
+2014 - 2017  |                            |                          |               
+2014 - 2017  |                            |                          |               
+2014 - 2017  |                            |                          |               
+2011 - 2014  |                            |                          |               
+2011 - 2014  |                            |                          |               
+2007 - 2011  |                            |                          |               
+2005 - 2007  |                            |                          |               
+2002 - 2005  |                            |                          |               
+1999 - 2002  |                            |                          |               
+1996 - 1999  |                            |                          |               
+1995 - 1996  | President/CEO Evolvable Corporation  | Entrepreneur - 8 employees |               
+1989 - 1995  | U of MN - CSCI, PSY, JPN   | Philanthropy Chair, Scholarship Chair, JPN fluency |               
+      
+
+
+
+
 Year  | Position-Company  |   Notable Achievements   |   Links
 ------|-------------------|--------------------------|---------
 2023  |                   |                          |               
