@@ -14,7 +14,7 @@ Nearly every review since 2010, I scored **5/5 exceeding expectations** for revi
 
 As an **AI teacher** on a weekly basis with AI Zero to Hero lecture course and annual global Hackathon leader, I helped train over 2300 engineers per year running Optum's Global Hackathon since 2019 with also over 400 engineers per year attending my weekly AI Zero to Hero class through **Optum Technology University**, while maintaining a near perfect **Net Promoter Score of 97.7% promoters**.  
 
-My own growth in AI development productivity has increased from up to ten programs per year (2021), to 200 per year in 2022, and over 578 total within Q1 2023 showing **over 100x** increase in productivity by using and teaching AI pair programming and learning techniques.
+My own growth in AI development productivity has increased from up to ten programs per year (2021), to 200 per year in 2022, and over 578 total within Q1 2023 showing **over 100x** increase in productivity by using and teaching AI pair programming and learning techniques.  This included AI/ML platform technologies of: Azure, Torch, Tensorflow, Streamlit, Gradio, Docker, Terraform, Python, Github and VSCode.
 
 With product engineering and delivery I have led delivery of at least three large AI oriented projects per year since 2018 including notable successes such as 12 IP disclosure submissions with one successful patent covering 32 features for automating prior auth determinations using decision trees and AI, also serving as a patent mentor.  **Patent Link**: https://assignment.uspto.gov/patent/index.html#/patent/search/resultAssignment?id=51748-479
 
