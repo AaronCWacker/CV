@@ -8,11 +8,11 @@
 - **Research Interests**: AGI and ML Pipelines, Ambient IoT AI, Behavior Cognitive and Memory AI, Clinical Medical and Nursing AI, Genomics AI, GAN Gaming GAIL AR VR XR and Simulation AI, Graph Ontology KR KE AI, Languages and NLP AI, Quantum Compute GPU TPU NPU AI, Vision Image Document and Audio/Video AI, RLHF, InstructGPT, GPT4, Human Feedback Systems and Datasets
 
 ## **Senior Principal Engineer** 
-Over **30 years** experience leading architecture and development teams focusing on AI delivery last 5 years delivering AI Assessment, Care Plan, Triage, Behavioral Health, Medical Inpatient, Outpatient, SNF provider recommendation systems for Clinical business and technology.  I am a technical leader for two production products in Optum Health for **Triage** and **Patient Check In** health care processes.  
+Over **30 years** experience leading architecture and development teams focusing on AI delivery last 5 years delivering AI Assessment, Care Plan, Triage, Behavioral Health, Medical Inpatient, Outpatient, SNF provider recommendation systems for Clinical business and technology.  I am a technical leader for two production products in Optum Health for **Triage** and **Patient Check In** EMR integrated health care processes used in U.S. care delivery organizations (CDOs).  
 
-Nearly every review since 2010, I scored **5/5 exceeding expectations** for review scores.
+Nearly every review since 2010, I have scored **5/5 exceeding expectations** for review scores.
 
-As an **AI teacher** on a weekly basis with AI Zero to Hero lecture course and annual global Hackathon leader, I helped train over 2300 engineers per year running Optum's Global Hackathon since 2019 with also over 400 engineers per year attending my weekly AI Zero to Hero class through **Optum Technology University**, while maintaining a near perfect **Net Promoter Score of 97.7% promoters**.  
+As an **AI teacher** on a weekly basis with my AI Zero to Hero course and annual global Hackathon leader, I have helped train over 3000 engineers on using AI for health care.  I've also run Optum's Global Hackathon since 2019-2022 with over 2500 engineers.  My weekly AI Zero to Hero class through **Optum Technology University** taught Generative AI, Streamlit, Python, Gradio, Huggingface Model, Dataset, and Space development.  As a teacher I've achieved a **Net Promoter Score of 97.7% promoters** by helping others learn to build AI apps quickly and comprehensively using the latest AI techniques.
 
 My own growth in AI development productivity has increased from up to ten programs per year (2021), to 200 per year in 2022, and over 578 total within Q1 2023 showing **over 100x** increase in productivity by using and teaching AI pair programming and learning techniques.  
 
@@ -25,12 +25,12 @@ Years        | Position-Company           |   Notable Achievements & Links
 2020 - 2023  | Senior Principal Engineer  |  Delivery of AI Assessment, AI Care Plan, Intelligent Data Recommender, Intelligent Nurse Triage, Ontology Manager
 2017 - 2020  | Senior Principal Engineer  |  Accredited as Senior Principal Engineer, Deployed 4 solutions within ICUE to production that use AI to recommend providers, automate approvals for prior authorization, and review and make recommendations on clinical documents.
 2016 - 2017  | Director Architecture      |  Moved from UHCMV to leading Clinical Architecture **team of 14** reporting to VP Clinical Technology                                      
-2012 - 2016  | Director Applications Development |  Hired and managed **team of 36** for UHCMV contract with $13M A/D annual leading CareOne and MVPega                                     
+2012 - 2016  | Director App. Development |  Hired and managed **team of 36** for UHCMV contract with $13M A/D annual leading CareOne and MVPega                                     
 2009 - 2012  | Senior Development Manager | Converted team from contractors to full time employees in 2009 working on CareOne and ICUE as technology leader focused on design and development                                        
-1995 - 2009  | President/CEO Evolvable Corporation  | S-Corp Entrepreneur in consulting and product development with 8 employees with Travelers Express, UTV/Fox, US Bank, Best Buy, Target, UHG, and other clients.
+1995 - 2009  | President/CEO Evolvable Corp.  | S-Corp Entrepreneur in consulting and product development with 8 employees with Travelers Express, UTV/Fox, US Bank, Best Buy, Target, UHG, and other clients.
 1994 - 1995  | Intern - UnitedHealth      |  QA Test Automation Lead SQA Teamtest for Sales Support System SSS
-1989 - 1994  | U of MN Consultant for EE/CSCI, Physics, MechE, Walter   | Consultant for U of M at 4 Labs
-1989 - 1994  | U of MN - BIS - CSCI, PSY & JPN   | Philanthropy Chair, Scholarship Chair, JPN fluency           
+1989 - 1994  | U of MN Consultant for EE/CSCI, Physics, MechE, Aerospace and Walter   | Consultant for U of M at 5 laboratories.
+1989 - 1994  | U of MN - BIS - CSCI, PSY & JPN   | Philanthropy Chair, Scholarship Chair, Japanese fluency           
       
 
 # Recent Videos Supporting Body of Work:
