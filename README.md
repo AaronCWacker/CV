@@ -22,7 +22,7 @@ With product engineering and delivery I have led delivery of at least three larg
 
 Years        | Position-Company           |   Notable Achievements & Links
 -------------|----------------------------|-----------------------------------
-2020 - 2023  | Senior Principal Engineer  |  Delivery of AI Assessment, AI Care Plan, Intelligent Data Recommender, Intelligent Nurse Triage, Ontology Manager
+2020 - 2023  | Senior Principal Engineer  |  Delivery of AI Assessment, AI Care Plan, Intelligent Data Recommender, Intelligent Nurse Triage, Ontology Manager, SympleNote for MA, SymptomSmart for WA, EasyCheck for CA
 2017 - 2020  | Senior Principal Engineer  |  Accredited as Senior Principal Engineer, Deployed 4 solutions within ICUE to production that use AI to recommend providers, automate approvals for prior authorization, and review and make recommendations on clinical documents.
 2016 - 2017  | Director Architecture      |  Moved from UHCMV to leading Clinical Architecture **team of 14** reporting to VP Clinical Technology                                      
 2012 - 2016  | Director App. Development |  Hired and managed **team of 36** for UHCMV contract with $13M A/D annual leading CareOne and MVPega                                     
