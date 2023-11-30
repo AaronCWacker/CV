@@ -1,11 +1,9 @@
 # Aaron Wacker - Curriculum Vitae (CV)
 
-![image](https://user-images.githubusercontent.com/30595158/229933783-b62223b7-eed5-44e9-ad89-5b0d6d9bd361.png)
-
 ![image](https://github.com/AaronCWacker/CV/assets/30595158/64e3dbd7-6921-478b-9917-b52a82bb7a7c)
 
 
-# Aaron Wacker - Senior Principal Engineer, Optum Health Incubator
+# Aaron Wacker - Senior Principal Engineer, Optum Health
 - **HuggingFace**: https://huggingface.co/awacke1
 - **Github**: https://github.com/AaronCWacker/   Arctic Code Vault contributor for Machine Learning: https://github.com/AaronCWacker?achievement=arctic-code-vault-contributor&tab=achievements
 - **Research Interests**: AGI and ML Pipelines, Ambient IoT AI, Behavior Cognitive and Memory AI, Clinical Medical and Nursing AI, Genomics AI, GAN Gaming GAIL AR VR XR and Simulation AI, Graph Ontology KR KE AI, Languages and NLP AI, Quantum Compute GPU TPU NPU AI, Vision Image Document and Audio/Video AI, RLHF, InstructGPT, GPT4, Human Feedback Systems and Datasets
