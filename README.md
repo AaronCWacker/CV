@@ -22,18 +22,17 @@ With product engineering and delivery I have led delivery of at least three larg
 
 Years        | Position-Company           |   Notable Achievements & Links
 -------------|----------------------------|-----------------------------------
-2023 - 2024  | Senior Principal Engineer  |  Delivery of AI Assessment, AI Care Plan, Intelligent Data Recommender, Intelligent Nurse Triage, Ontology Manager, SympleNote for MA, SymptomSmart for WA, EasyCheck for CA
+2023 - 2024  | Senior Principal Engineer  |  Delivery of AI and Azure based healthcare apps including 📊AI💡Service Now, 🗣️AI🤝NPS, GPT-4o📩Doc🗣️💬VoiceChat, AI Claims, AI PII Infoguard, AI CI/CD for Product Delivery Acceleration, SympleNote for MA, SymptomSmart for WA, EasyCheck for CA
 2020 - 2023  | Senior Principal Engineer  |  Delivery of AI Assessment, AI Care Plan, Intelligent Data Recommender, Intelligent Nurse Triage, Ontology Manager, SympleNote for MA, SymptomSmart for WA, EasyCheck for CA
 2017 - 2020  | Senior Principal Engineer  |  Accredited as Senior Principal Engineer, Deployed 4 solutions within ICUE to production that use AI to recommend providers, automate approvals for prior authorization, and review and make recommendations on clinical documents.
 2016 - 2017  | Director Architecture      |  Moved from UHCMV to leading Clinical Architecture **team of 14** reporting to VP Clinical Technology                                      
-2012 - 2016  | Director App. Development |  Hired and managed **team of 36** for UHCMV contract with $13M A/D annual leading CareOne and MVPega                                     
-2009 - 2012  | Senior Development Manager | Converted team from contractors to full time employees in 2009 working on CareOne and ICUE as technology leader focused on design and development                                        
+2012 - 2016  | Director App. Development  |  Hired and managed **new team of 36** on UHCMV contract with $13M A/D annual and $64M projects leading CareOne and MVPega                                     
+2009 - 2012  | Senior Development Manager | Converted team of contractors to full time employees in 2009 working on CareOne and ICUE as technology leader focused on design and development                                        
 1995 - 2009  | President/CEO Evolvable Corp.  | S-Corp Entrepreneur in consulting and product development with 8 employees with Travelers Express, UTV/Fox, US Bank, Best Buy, Target, UHG, and other clients.
-1994 - 1995  | Intern - UnitedHealth      |  QA Test Automation Lead SQA Teamtest for Sales Support System SSS
-1989 - 1994  | U of MN Consultant for EE/CSCI, Physics, MechE, Aerospace and Walter   | Consultant for U of M at 5 laboratories.
-1989 - 1994  | U of MN - BIS - CSCI, PSY & JPN   | Philanthropy Chair, Scholarship Chair, Japanese fluency           
+1994 - 1995  | Intern - UnitedHealth      |  QA Test Automation Lead SQA Team Test for Sales Support System SSS
+1989 - 1994  | U of MN Consultant for EE/CSCI, Physics, MechE, Aerospace and Walter Library   | Consultant for U of M at 5 laboratories.
+1989 - 1994  | U of MN - BIS - Computer Science, Psychology & Japanese   | Philanthropy Chairman of Chi/Psi, Scholarship Chair of Chi/Psi, Japanese fluency achieved.          
       
-
 # 2024 Update:
 ## 1.  Patents and Innovation
       1. Wrote patent disclosure for **Intelligent Data Recommender for Data Source Recommendation with Cognitive Architecture as Expert System**  and led development of a Cognitive AI Intelligent Dataset Ordering tool to optimize data acquisition process which completed in 2024.
@@ -47,6 +46,7 @@ Years        | Position-Company           |   Notable Achievements & Links
                3. How it works in method steps including Definitions, Method Steps, Inputs, Entity Specifications, and Actors and 6 Figures
                   - Inventors: Aaron Wacker, Sarah Scott, Nithya Sundararajan, Bryan Stearns, Sameer Gotkhindikar, Matthew Versaggi, Sean Oneil
                4. Served as patent mentor for AI patents for education, instruction, and clinical terminologies.
+
 ## 2. Mentoring and Teaching AI:
    - Individuals this year in weekly one on ones and also large forum presentations in AI development.
    - Co-Lead of Data Science Guild (DSG), a community of Data Scientists, Engineers, Business and Product leaders including many Clinician Leaders
@@ -100,26 +100,26 @@ Years        | Position-Company           |   Notable Achievements & Links
      - Delivery of reporting changes, PowerBI additions and enhancements, Azure changes, security changes, transitions of resources.
 
 ## 5. What did I learn in 2024?
-   ## 1. AI Development and Shipping - Product development at Scale and Speed
-   ## 2. Presentation skills and face to face coordination between different teams.  Ownership of refactoring and feature updates with Optum Global Advantage teams.
-   ## 3. Engagement with variety of product constituents.
+   1. AI Development and Shipping - Product development at Scale and Speed
+   2. Presentation skills and face to face coordination between different teams.  Ownership of refactoring and feature updates with Optum Global Advantage teams.
+   3. Engagement with variety of product constituents.
    
 ## 6. What support do I need in pursuit of goals in 2024?
-   ## 1. Coaching sessions help me reduce complexity of what I share with customers, especially advice on Machine Learning Evaluation and Review with advice to simplify and clarify.
-   ## 2. Coaching on how to mitigate burnout of high performers - advice on credit making and helping design for quality and efficiency.
-   ## 3. Sessions on vision for how we transform apps with AI moving from high cost applications with aging complex architecture to simplified, fully AI automated CI/CD flows - looking for vision and carefully articulated ideal state architectures with compelling CBA factors.
-   ## 4. Distinguished Principal Engineer accreditation.
+   1. Coaching sessions help me reduce complexity of what I share with customers, especially advice on Machine Learning Evaluation and Review with advice to simplify and clarify.
+   2. Coaching on how to mitigate burnout of high performers - advice on credit making and helping design for quality and efficiency.
+   3. Sessions on vision for how we transform apps with AI moving from high cost applications with aging complex architecture to simplified, fully AI automated CI/CD flows - looking for vision and carefully articulated ideal state architectures with compelling CBA factors.
+   4. Distinguished Principal Engineer accreditation.
 
 ## 7. What can I learn to do better?
-   ## 1. Being a better conduit between onshore product needs and global delivery.
-   ## 2. Playing a larger role in driving initiatives in AI across our division using Data Science, Engineering and AI at scale.  I feel I have this aligned through partnership with others with our AI platform where I work with partner division teams.
+   1. Being a better conduit between onshore product needs and global delivery.
+   2. Playing a larger role in driving initiatives in AI across our division using Data Science, Engineering and AI at scale.  I feel I have this aligned through partnership with others with our AI platform where I work with partner division teams.
       - This would involve driving product evolution for our 8 AI based apps and implementing them across our existing product markets to share in value.  Some groundwork is laid but I want to learn more on gaining cross department leadership buy in.
       - Appealing to potential customers interested in joint ownership of applying what we accomplished across divisions.
-   ## 3. Understanding how to appeal to leadership vision at VP/C level leadership level.  Working through MLRB and RUAI on further work and deeper understanding of how to craft and live up to value statements, CBA's and cost optimization through AI CI/CD automation and performance measurement.  
+   3. Understanding how to appeal to leadership vision at VP/C level leadership level.  Working through MLRB and RUAI on further work and deeper understanding of how to craft and live up to value statements, CBA's and cost optimization through AI CI/CD automation and performance measurement.  
       - Insight on how to present and tell clear quality and efficiency stories with strong CBA's.
 
 # Recent Videos Supporting Body of Work:
-   ## Internal
+   Internal (ask)
 
 ---
 
