@@ -22,6 +22,7 @@ With product engineering and delivery I have led delivery of at least three larg
 
 Years        | Position-Company           |   Notable Achievements & Links
 -------------|----------------------------|-----------------------------------
+2023 - 2024  | Senior Principal Engineer  |  Delivery of AI Assessment, AI Care Plan, Intelligent Data Recommender, Intelligent Nurse Triage, Ontology Manager, SympleNote for MA, SymptomSmart for WA, EasyCheck for CA
 2020 - 2023  | Senior Principal Engineer  |  Delivery of AI Assessment, AI Care Plan, Intelligent Data Recommender, Intelligent Nurse Triage, Ontology Manager, SympleNote for MA, SymptomSmart for WA, EasyCheck for CA
 2017 - 2020  | Senior Principal Engineer  |  Accredited as Senior Principal Engineer, Deployed 4 solutions within ICUE to production that use AI to recommend providers, automate approvals for prior authorization, and review and make recommendations on clinical documents.
 2016 - 2017  | Director Architecture      |  Moved from UHCMV to leading Clinical Architecture **team of 14** reporting to VP Clinical Technology                                      
@@ -33,30 +34,96 @@ Years        | Position-Company           |   Notable Achievements & Links
 1989 - 1994  | U of MN - BIS - CSCI, PSY & JPN   | Philanthropy Chair, Scholarship Chair, Japanese fluency           
       
 
+# 2024 Update:
+## 1.  Patents and Innovation
+      1. Wrote patent disclosure for **Intelligent Data Recommender for Data Source Recommendation with Cognitive Architecture as Expert System**  and led development of a Cognitive AI Intelligent Dataset Ordering tool to optimize data acquisition process which completed in 2024.
+            - U.S. Patent Appl. No. 18/817,704, entitled: “Systems and Methods for Using an Artificial Intelligence (AI) Model to Route Data.”
+            - (aka Data Source Recommendation with Cognitive Architecture as Expert System).
+            - Presented at Patent Review Board where it was unanimously approved.  I serve as a patent mentor.
+      2. Over 6 months worked with technical and patent attorney team ultimately completing the 51 page final patent submission filed August 28, 2024
+            - For Claims - Led each of the 20 of the Cognitive AI claims describing:
+               1. The problem addressed by the invention
+               2. How it solves the problem
+               3. How it works in method steps including Definitions, Method Steps, Inputs, Entity Specifications, and Actors and 6 Figures
+                  - Inventors: Aaron Wacker, Sarah Scott, Nithya Sundararajan, Bryan Stearns, Sameer Gotkhindikar, Matthew Versaggi, Sean Oneil
+               4. Served as patent mentor for AI patents for education, instruction, and clinical terminologies.
+## 2. Mentoring and Teaching AI:
+   - Individuals this year in weekly one on ones and also large forum presentations in AI development.
+   - Co-Lead of Data Science Guild (DSG), a community of Data Scientists, Engineers, Business and Product leaders including many Clinician Leaders
+   - Led large scale demonstration and daredevil demonstration sessions of how to create apps using AI pair programming to community of over 3000+ people receiving most video views, replays, and follow ups.
+   - Led State of the Art (SOTA) based innovative demo Sessions setting record of 23 app demonstration walkthroughs of AI in an hour demonstrating AI Pair Programming - increasing development speed and quality by 100x:
+      - Prompting with Mixture of Experts, Multiagent Systems, and Self Reward from research AI ensembles and pipelines.
+      - Classroom Syllabus of the 23 AI Demos: https://huggingface.co/Prompting-MoE-MaS-SeR
+      - https://optum.video.uhc.com/media/DSG%20Demo%20Day-20240724%20-%20Huggingface%20Transformers%20and%2023%20Demonstrations%20of%20AI/1_t3ximdhj
+      - Holder of most in demand / watched sessions and consistently in top 3 presenters throughout DSG.
+   - Weekly one on one mentoring and coaching meetings with AI development engineers, and team meets for individualized learning in AI for a large number of individuals on AI and MLRB knowledge including:
+      - Optum Pro team: Darshan Pathak, Harsh Patel, Brandon Torralba, Abdullah Qayam, Srikanth Vodapalli, Rajib Mondal, Akshay Sharma and more.
+      - EIS: Anne Jackson and team including recurring weekly meetings with individuals delivering new AI apps. (16 people)
+      - Large forum presentations and Talks for AI:
+         - UHC Tech Forum: Multiple large sessions on AI in Action and By The Rules for UHC TL&D Days
+         - Presented to large forum (Prep 4/3 - 5/1 with trainers, Two day sessions at Learning and Development days covering Onshore and Offshore)
+         - ACC Champions - Large forum presentation
+         - Cohosted Mentor Spotlight with Tamara Sipes for Education and Mentorship - Career Stories
+         - TLCP and AI Mentorship of individuals, Presentation for all TLCP on Patent Review Board and Machine Learning Review Board advice.
+         - Leading lessons OTU - Learning and Development: Topics: Social Learning Influencer roles, Collaborator Role and Offering Domains of AI & Data Science, Cloud, Cybersecurity, Data Engineering
+    - NPS Promoter Feedback verbatims from last few large forum sessions:
+         - Excellent tour of the latest greatest in AI through all your work you've created on HuggingFace (followed) Thankyou Aaron! 
+         - Awesome as always!
+         - Thankyou very much, Aaron!  You introduced latest AI capabilities in many aspects.  It is Really helpful.
+         - That was an amazing session, I remember I had that during my TDP Bootcamp last year and I was so much fascinated with the examples that Aaron walked over in Zero to Hero session!
+         - Amazing as always Aaron!  Your depth of knowledge is very inspiring
+         - Awesome Demos.. thanks again!
+         - This was so cool thank you Aaron!
+         - You making me want to figure out how to make VSCode for my work computer
+         - Awesome presentation as always
+         - Excellent technical skills and wonderful presentation! Thank you very much.
+         - Aaron - We love your passion for technology.  Thank you for sharing all the amazing things.  You are a genius ((no wonder an amazing inventor & a patent mentor).  Thank you for all you do.
+         - Thank you Wacker, Aaron C - I find your demo very detailed and easy to try out. Thanks a lot
+         - Thank you very much for another fantastic presentation and discussion.
+
+## 3. Improved Speed to Ship - AI for accelerating application development and AI architecture on Azure
+   - Developed and released daily 6 applications on Azure Container Apps using VSCode, Docker, ACR, ACAE, Python, Streamlit, Gradio, FastAPI, NodeJS, React, Typescript
+      1.📊AI💡Service Now
+      2.🗣️AI🤝NPS
+      3.GPT-4o📩Doc🗣️💬VoiceChat
+      4. AI Claims
+      5. AI Infoguard for PHI PII Detection and Deidentification using Presidio
+      6. AI CI/CD for Product Delivery Acceleration
+
+## 4. Daily work leading SympleNote/SymptomSmart Scrum daily synchronizing between offshore and onshore for two products with team of about 15 people.
+     - Technical Owner for two large clinical health care applications integrated with EMRs including Epic, MyChart and Touchworks/IDW.
+     - Security Platform fixes for products using AI to refactor and build defensive posture with over 80 engineered solutions that address Defender identified CVS potential issues.
+     - Weekly meetings and synchronization with business partners on SympleNote and EasyCheck
+     - Issue resolution research and remediation
+     - Onboarding of team members, decommission of old team, onboarding of new teams and product owners assisting with access and learning.
+     - Work on multiple app subscriptions as Owner and Contributor managing access, defect fixes and refactoring with feature additions.  Supporting offshore team and onshore business.
+     - Delivery of reporting changes, PowerBI additions and enhancements, Azure changes, security changes, transitions of resources.
+
+## 5. What did I learn in 2024?
+   ## 1. AI Development and Shipping - Product development at Scale and Speed
+   ## 2. Presentation skills and face to face coordination between different teams.  Ownership of refactoring and feature updates with Optum Global Advantage teams.
+   ## 3. Engagement with variety of product constituents.
+   
+## 6. What support do I need in pursuit of goals in 2024?
+   ## 1. Coaching sessions help me reduce complexity of what I share with customers, especially advice on Machine Learning Evaluation and Review with advice to simplify and clarify.
+   ## 2. Coaching on how to mitigate burnout of high performers - advice on credit making and helping design for quality and efficiency.
+   ## 3. Sessions on vision for how we transform apps with AI moving from high cost applications with aging complex architecture to simplified, fully AI automated CI/CD flows - looking for vision and carefully articulated ideal state architectures with compelling CBA factors.
+   ## 4. Distinguished Principal Engineer accreditation.
+
+## 7. What can I learn to do better?
+   ## 1. Being a better conduit between onshore product needs and global delivery.
+   ## 2. Playing a larger role in driving initiatives in AI across our division using Data Science, Engineering and AI at scale.  I feel I have this aligned through partnership with others with our AI platform where I work with partner division teams.
+      - This would involve driving product evolution for our 8 AI based apps and implementing them across our existing product markets to share in value.  Some groundwork is laid but I want to learn more on gaining cross department leadership buy in.
+      - Appealing to potential customers interested in joint ownership of applying what we accomplished across divisions.
+   ## 3. Understanding how to appeal to leadership vision at VP/C level leadership level.  Working through MLRB and RUAI on further work and deeper understanding of how to craft and live up to value statements, CBA's and cost optimization through AI CI/CD automation and performance measurement.  
+      - Insight on how to present and tell clear quality and efficiency stories with strong CBA's.
+
 # Recent Videos Supporting Body of Work:
+   ## Internal
 
-# 2022-2023 AI Assessments:
-1. https://optum.video.uhc.com/media/AI%20Assessment%20NER%20and%20CT%20-%20Review%20with%20Clinical%20-%20PR%20w%20Feature%20List/1_aksjd3dq
-2. https://optum.video.uhc.com/media/Daily%20OH%20AI%20Standup-20230210_090326-Meeting%20Recording.mp4/1_jehc1xng
-3. https://optum.video.uhc.com/media/NLP%20Clinical%20Ontology%20Biomedical%20NER%20Model/1_r5bt1hwt
-4. https://optum.video.uhc.com/media/AI%20UI_UX%20Using%20Gradio%20and%20Streamlit%20-%20ASR%2C%20Speech%20In_Out%2C%20Chatbot%2C%20Clinical%20Biomedical%20NER%2C%20and%20Clinical%20Terminology%20Recognition/1_bvw180fc
-5. https://optum.video.uhc.com/media/NLP%20Fact%20Extraction%20Pipeline%20DataRobot%20AI%20Model%20using%20ADT%20Datasets%20Light%20Gradient%20Boost%20Model%20w%20DataRobot%20AI%20Assessment%20Datasets%20and%20Clinical%20Terminology%20for%20Clinical%20NLP/1_hdynasdo
-6. https://optum.video.uhc.com/media/Aaron%20Wacker%20and%20Mohamed%20Ali%20Demonstrate%20AI%20Pipeline%20for%20Clinical%20Medical%20and%20Behavioral%20Assessments/1_6wgj7d86
-7. https://optum.video.uhc.com/media/AI%20Assessment%20Workflow/1_k085g84n
+---
 
-# 2022-2023 AI Zero to Hero Course Recordings:
-1. https://optum.video.uhc.com/media/AI%20Zero%20to%20Hero%20-%202023%2003%2009%2008%2002%20-%20100x%20Plan%20Using%20AI%20Pair%20Programming/1_pte6htm0
-2. https://optum.video.uhc.com/media/AI%20Zero%20to%20Hero%202023.03.02%20-%20awacke1_ExamplesOfAI-2%20-%20https%3A__huggingface.co_spaces_awacke1_ExamplesOfAI-2/1_k7mprkxp
-3. https://optum.video.uhc.com/media/%F0%9F%A9%BA%E2%9A%95%EF%B8%8F%F0%9F%A7%ACAI%20Zero%20to%20Hero%20-%20Fast%20AI%20by%20Example%20-%20Classroom%20Thursdays%208AM%20Central%20%E2%9A%97%EF%B8%8F%F0%9F%A7%A0%F0%9F%94%AC-20221215_080149-Meeting%20Recording/1_s665sj2o
-4. https://optum.video.uhc.com/media/%F0%9F%A9%BA%E2%9A%95%EF%B8%8F%F0%9F%A7%ACAI%20Zero%20to%20Hero%20-%20Fast%20AI%20by%20Example%20-%20Classroom%20Thursdays%208AM%20Central%20%E2%9A%97%EF%B8%8F%F0%9F%A7%A0%F0%9F%94%AC-20221110_080347/1_duhggnoj
-5. https://optum.video.uhc.com/media/AI%20Zero%20to%20Hero%20For%20Health%20-%2011_3_2022/1_781lwlv8
-6. https://optum.video.uhc.com/media/AI%20Zero%20to%20Hero%20-%20Fast%20AI%20by%20Example%20-%2010202022/1_97xcph0j
-7. https://optum.video.uhc.com/media/AI%20Zero%20to%20Hero%209_30%20-%20Fast%20Open%20Source%20AI%20by%20Example/1_a9ahbk2p
-8. https://optum.video.uhc.com/media/AI%20Zero%20to%20Hero%209_23%20-%20Fast%20Open%20Source%20AI%20by%20Example/1_5ts0j8j3
-
-
-
-# Recent NPS Feedback Scores and Comments
+# 2023 NPS Feedback Scores and Comments from AI Mentoring and Coaching sessions including Data Science Guild and AI Zero to Hero presentations and classroom forums.
 classid	Score	Additional Question: Why did you attend this training/event?	Do you feel this course/event was effective in meeting the stated learning objectives?	Please share your comments regarding this learning experience: 
 1. 20230323	10	New Skills or Technology	Agree	very interesting!
 2. 20230323	10	New Skills or Technology, Refresh Skills	Strongly Agree	This class is excellent, Aaron provided the necessary tools and now we have to experience the tools and apply them to our ideas.
