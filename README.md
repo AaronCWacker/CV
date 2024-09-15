@@ -123,6 +123,14 @@ Years        | Position-Company           |   Notable Achievements & Links
 
 ---
 
+# Sample:
+![image](https://github.com/user-attachments/assets/fe1a455a-e8ae-47d6-862f-29966866169b)
+
+
+
+
+
+# 2023:
 # 2023 NPS Feedback Scores and Comments from AI Mentoring and Coaching sessions including Data Science Guild and AI Zero to Hero presentations and classroom forums.
 classid	Score	Additional Question: Why did you attend this training/event?	Do you feel this course/event was effective in meeting the stated learning objectives?	Please share your comments regarding this learning experience: 
 1. 20230323	10	New Skills or Technology	Agree	very interesting!
