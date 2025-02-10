@@ -1,5 +1,64 @@
 # Aaron Wacker - Curriculum Vitae (CV)
 
+# This Python script prints a markdown outline of your merged skills.
+# Run this script to see the markdown-formatted skills listing.
+
+markdown_outline = """
+## 1. 📢 Community & Communication
+
+1. 📢 *Educating the community of ML practitioners on how they can benefit by accelerating their training and inference workloads*  
+2. 📢 *Working through strategic collaborations*  
+3. 📢 *Contributing documentation and code examples, speaking to business and technical audiences*  
+4. 📢 *Building and evangelizing demos, leading conversations with strategic partners demonstrating AI/ML*  
+5. 📢 *Hands on fast python AI development sharing code samples and demos that are easy to understand*  
+6. 📢 *Great communicator and educator, comfortable with public speaking to technical audiences*  
+7. 📢 *Engagement in social platforms (GitHub, LinkedIn, Twitter, Reddit) and other communication/education channels*  
+8. 📢 *Brings fresh ideas, demonstrates a unique and informed viewpoint, and enjoys collaborating with a progressive, nimble, and decentralized approach to develop real-world solutions and positive user experiences*  
+9. 📢 *Write technical documentation, examples, and notebooks to demonstrate new features*  
+10. 📢 *Write clear documentation, examples, and definitions across the full product development lifecycle*  
+11. 📢 *Contribute to open‑source libraries, such as Transformers, Datasets, or Accelerate*  
+12. 📢 *Communicate via GitHub, forums, or Slack*  
+13. 📢 *Demonstrate an eye for art and creativity; passionate about making complex technology more accessible to engineers and artists*  
+
+---
+
+## 2. 🛠️ AI/ML Engineering & Product Development
+
+1. 🛠️ *Senior principal engineer designing AI & ML solutions by building practical AI applications, putting them in production, and accelerating them to their utmost potential*  
+2. 🛠️ *Creating great Python and JavaScript/HTML libraries highly focused on real-world ML use cases*  
+3. 🛠️ *Developing specialized software for specific machine learning (ML) use cases with broad applications*  
+4. 🛠️ *Utilizing existing library frameworks to create scalable software solutions for healthcare*  
+5. 🛠️ *Writing apps daily using Python, Rust, CUDA, Transformers, Keras, and other libraries and frameworks*  
+6. 🛠️ *Building AI and machine learning solutions for healthcare workers using open‑source libraries (Transformers, Diffusers) and Azure‑based SaaS solutions (Docker, ACR, ACAE, KEDA)*  
+7. 🛠️ *Designing and developing easy‑to‑use, secure, and robust apps & APIs using Streamlit, Gradio, MSAL, MS Entity, OAUTH2, FastAPI, Hugging Face Hub, Transformers, Torch, scikit‑learn, pandas, and NumPy*  
+8. 🛠️ *Expertise with tools and frameworks: Transformers, Diffusers, Accelerate, PEFT, Datasets, Deep Learning Frameworks, PyTorch, XLA, and cloud platforms (AWS, Amazon SageMaker, EC2, S3, CloudWatch, Azure, GCP)*  
+
+---
+
+## 3. ⚙️ MLOps, Cloud, & Production Infrastructure
+
+1. ⚙️ *Enhancing reliability, quality, and time‑to‑market by measuring and optimizing performance to drive innovation*  
+2. ⚙️ *Managing production environments by monitoring availability and ensuring overall system health using Azure, VSCode, Datadog, Qualtrics, ServiceNow, and custom tools*  
+3. ⚙️ *Building MLOps pipelines for containerizing models and solutions with Docker, TypeScript, Rust, MongoDB, Svelte, TailwindCSS, and Kubernetes*  
+
+---
+
+## 4. 🌐 Specialized Techniques & Web AI/ML Innovations
+
+1. 🌐 *At the forefront of Generative AI using Python, Streamlit, Gradio, Torch, and Transformers open source*  
+2. 🌐 *Developing Web AI solutions with JavaScript/TypeScript, transformers.js, and huggingface.js to bridge web development and machine learning*  
+3. 🌐 *Creating WebML applications that run models locally in the browser via on‑device machine learning APIs for low‑latency, interactive, and privacy‑focused experiences*  
+4. 🌐 *Building JS/TS machine learning libraries enabling in‑browser inference (ONNX, quantization) with near‑native speeds using WebGPU, WebNN, and WASM*  
+5. 🌐 *Driving forward quantization in the open‑source ecosystem with techniques using Transformers, Accelerate, PEFT, Diffusers, Bitsandbytes, AWQ, AutoGPTQ, and benchmarks*  
+6. 🌐 *Designing modern search solutions that combine semantic search via dense bi‑encoder (Sentence Transformer) models with lexical search using sparse models (SPLADE, BM25)*  
+7. 🌐 *Training or fine‑tuning neural sparse models with architectures integrated into the Sentence Transformers library for ease of use*  
+8. 🌐 *Leveraging chain‑of‑thought techniques in small models to outperform larger models with higher‑quality outputs*  
+9. 🌐 *Addressing hardware acceleration, numerical precision challenges, common ML caveats, and writing scalable software*  
+"""
+
+print(markdown_outline)
+
+
 # skills merge
 1. educating the community of ML practitioners on how they can benefit by accelerating their training and inference workloads
 2. working through strategic collaborations
