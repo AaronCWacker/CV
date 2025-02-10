@@ -1,5 +1,30 @@
 # Aaron Wacker - Curriculum Vitae (CV)
 
+# skills merge
+1. educating the community of ML practitioners on how they can benefit by accelerating their training and inference workloads
+2. working through strategic collaborations
+3. Contributing documentation and code examples, speaking to business and technical audiences
+4. Building and evangelizing demos, leading conversations with strategic partners demonstrating AI/ML
+5. At the forefront of Generative AI (with python, streamlit, gradio, torch and transformers open source).
+6. Senior principal engineer designing AI & ML Engineering solutions by building practical AI applications, putting them in production, and accelerating them to the best of ability.
+7. Hands on fast python AI development sharing code samples and demos that are easy to understand.
+8. Great communicator and educator, comfortable with public speaking to technical audiences.
+9. Engagement in social platforms (GitHub, LinkedIn, Twitter, Reddit) and other communication/education channels.
+10. Creating great python and Javascript/HTML libraries highly focused on real world ML use cases.
+11. Brings fresh ideas, demonstrates a unique and informed viewpoint, and enjoys collaborating with a progressive, nimble and decentralized approach to develop real-world solutions and positive user experiences at every interaction.
+12. Develop specialized software for specific machine learning (ML) use cases that have broad applications.
+13. Utilize existing library frameworks to create scalable software solutions for health care.
+14. Enhance reliability, quality, and time-to-market of our software.  Measure and optimize performance to stay ahead of customer needs and drive innovation.
+15. Manage the production environment by monitoring availability and ensuring overall system health by running Azure, VSCode, Datadog, Qualtrics, ServiceNow and own tools.
+16. Write apps daily using Python, Rust, Cuda, transformers, keras, and other libraries and frameworks.
+17. Build AI and machine learning solutions used by health care workers using open-source libraries transformers and diffusers, with Azure and Azure SaaS solutions Docker, ACR, ACAE, and KEDA.
+18. Design & Develop easy-to-use, secure, and robust apps & APIs using streamlit, gradio, msal, MS Entity, OAUTH2, fastapi, huggingface_hub, transformers, torch, sklearn, pandas, numpy.
+19. Write technical documentation, examples and notebooks to demonstrate new features.
+20. Transformers, Diffusers, Accelerate, PEFT, Datasets,  Deep Learning Framework, PyTorch, XLA, cloud platforms, AWS, Amazon SageMaker, EC2, S3, CloudWatch, Azure and GCP equivalents.
+21. Building MLOps pipelines for containerizing models and solutions with Docker, Typescript, Rust, MongoDB, Svelte, TailwindCSS, and Kubernetes
+22. Write clear documentation, examples and definition and work across the full product development lifecycle
+
+
 ![image](https://github.com/AaronCWacker/CV/assets/30595158/64e3dbd7-6921-478b-9917-b52a82bb7a7c)
 
 # Aaron Wacker - Senior Principal Engineer, Optum Health
