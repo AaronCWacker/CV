@@ -33,7 +33,7 @@
 30. Modern search solutions combining semantic search (e.g. similar meaning)  via a dense bi-encoder (a.k.a. Sentence Transformer) model and lexical search (e.g. exact keyword) with sparse (e.g. SPLADE, BM25) model or algorithm.
 31. Training or fine-tuning neural sparse models with a neural sparse model architecture and a matching trainer into Sentence Transformers library, prioritizing ease of use.
 32. Small models using techniques like chain of thought can outperform much larger models, extract a higher-quality output from existing small-sized pre-trained models.
-33. 
+33. hardware acceleration, numerical precision problems, common machine learning caveats, and writing scalable software
 
 ![image](https://github.com/AaronCWacker/CV/assets/30595158/64e3dbd7-6921-478b-9917-b52a82bb7a7c)
 
