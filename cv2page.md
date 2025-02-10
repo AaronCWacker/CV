@@ -23,7 +23,17 @@
 20. Transformers, Diffusers, Accelerate, PEFT, Datasets,  Deep Learning Framework, PyTorch, XLA, cloud platforms, AWS, Amazon SageMaker, EC2, S3, CloudWatch, Azure and GCP equivalents.
 21. Building MLOps pipelines for containerizing models and solutions with Docker, Typescript, Rust, MongoDB, Svelte, TailwindCSS, and Kubernetes
 22. Write clear documentation, examples and definition and work across the full product development lifecycle
-
+23. open-source libraries, such as Transformers, Datasets, or Accelerate.
+24. Communicate GitHub, our forums, or slack.
+25. Web AI using JavaScript/TypeScrip, transformers.js, huggingface.js bridging the gap between web development and machine learning.
+26. WebML (Web Machine Learning) building web applications by enabling models to run locally in the browser using on-device machine learning APIs browsers provide, to develop low-latency, interactive, and privacy-focused apps with scale and reach without needing to install anything.
+27. JS/TS machine learning libraries. in-browser inference (ONNX, quantization).  near-native speeds (WebGPU, WebNN, WASM).
+28. eye for art and creativity, are passionate about making complex technology more accessible to engineers and artists
+29. Quantization using transformers, accelerate, peft, diffusers, bitsandbytes, awq, autogptq, benchmarks to drive forward quantization in the open source ecosystem
+30. Modern search solutions combining semantic search (e.g. similar meaning)  via a dense bi-encoder (a.k.a. Sentence Transformer) model and lexical search (e.g. exact keyword) with sparse (e.g. SPLADE, BM25) model or algorithm.
+31. Training or fine-tuning neural sparse models with a neural sparse model architecture and a matching trainer into Sentence Transformers library, prioritizing ease of use.
+32. Small models using techniques like chain of thought can outperform much larger models, extract a higher-quality output from existing small-sized pre-trained models.
+33. 
 
 ![image](https://github.com/AaronCWacker/CV/assets/30595158/64e3dbd7-6921-478b-9917-b52a82bb7a7c)
 
