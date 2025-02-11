@@ -1,7 +1,63 @@
 # Aaron Wacker - Curriculum Vitae (CV) MoE - Skills Research AI to Advance ML and Generative AI
 
+# Mermaid Graph - MoE of MoE's
+
+```mermaid
+graph TD
+    A[🔧 Systems, Infrastructure & Low‑Level Engineering (40)]
+    B[💻 Software, Cloud, MLOps & Infrastructure (45)]
+    C[🤖 Machine Learning, AI & Model Development (66)]
+    D[📊 Data Engineering, Analytics & Data Governance (19)]
+    E[🔒 Security, Compliance & Reliability (29)]
+    F[👥 Leadership, Management & Collaboration (33)]
+    G[💻 Full‑Stack, UI, Mobile & Product Development (47)]
+    H[🎯 Specialized Domains & Emerging Technologies (42)]
+    I[📢 Community, Open‑Source & Communication (13)]
+
+    A --> A1[HuggingFace Systems]
+    A --> A2[OpenAI HPC & Distributed]
+    A --> A3[Anthropic Distributed Systems]
+    A --> A4[NVIDIA IT Operations]
+
+    B --> B1[HuggingFace Software Engineering]
+    B --> B2[OpenAI Cloud & DevOps]
+    B --> B3[Anthropic Cloud & Data Engineering]
+    B --> B4[NVIDIA MLOps Infrastructure]
+
+    C --> C1[HuggingFace ML & Optimization]
+    C --> C2[OpenAI ML & LLM Development]
+    C --> C3[Anthropic Research & Experimentation]
+    C --> C4[NVIDIA AI Inference & DL Productization]
+    C --> C5[NVIDIA Web AI/ML Innovations]
+
+    D --> D1[OpenAI Data Engineering & Analytics]
+    D --> D2[NVIDIA Data Pipelines]
+
+    E --> E1[OpenAI Security & Compliance]
+    E --> E2[Anthropic Security, Compliance & Reliability]
+    E --> E3[NVIDIA Data Governance & Security]
+
+    F --> F1[OpenAI Leadership & Collaboration]
+    F --> F2[Anthropic Leadership & Collaboration]
+
+    G --> G1[OpenAI Mobile & Full‑Stack]
+    G --> G2[Anthropic Software Engineering, UI & Full‑Stack]
+    G --> G3[NVIDIA AI/ML Product Development]
+
+    H --> H1[🎥 Computer Vision, Graphics & Video]
+    H --> H2[⚙️ Advanced System Design & Prototyping]
+    H --> H3[🚗 Autonomous Vehicles & Robotics]
+    H --> H4[🎮 Reinforcement Learning & Simulation]
+    H --> H5[🌐 Networking & Hardware Verification]
+    H --> H6[🌐 Web AI/ML Innovations]
+
+    I --> I1[Community, Open‑Source & Communication]
+```
+
+
 # MoE of MoE's - Skill Tree for MVP MoE SuperAI
 
+```python
 1. 🔧 Systems, Infrastructure & Low-Level Engineering (40 skills)
    1.1. [HuggingFace Systems]
        1.1.1. Low‑level system integrations (compilers, C++)
@@ -385,6 +441,8 @@
 
 **Total Skills Count: 334**
 #
+
+```
 
 
 
