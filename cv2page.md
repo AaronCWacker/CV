@@ -1,8 +1,4 @@
-# Aaron Wacker - Curriculum Vitae (CV)
-
-# This Python script prints a markdown outline of your merged skills.
-# Run this script to see the markdown-formatted skills listing.
-
+# Aaron Wacker - Curriculum Vitae (CV) MoE - Skills Research AI to Advance ML and Generative AI
 
 # 1. Skills MoE For HuggingFace
 
