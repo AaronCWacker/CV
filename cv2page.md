@@ -2,6 +2,7 @@
 
 # Consolidated Outline on ML Industry MoE
 
+```python
 🔧 **Systems, Infrastructure & Low-Level Engineering**
 
 🔧 1. Low-level system integrations compilers Cplusplus
@@ -360,7 +361,7 @@
 📢 11. Contributing to open-source libraries Transformers Datasets Accelerate
 📢 12. Communicating via GitHub forums or Slack
 📢 13. Demonstrating creativity to make complex technology accessible
-
+```
 
 
 
