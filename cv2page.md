@@ -560,32 +560,37 @@ AI/ML platform technologies I am familiar with include Huggingface, Transformers
 
 With product engineering and delivery I have led delivery of at least three large AI oriented projects per year since 2018 including notable successes such as 12 IP disclosure submissions with one successful patent covering 32 features for automating prior auth determinations using decision trees and AI, also serving as a patent mentor.  **Patent Link**: https://assignment.uspto.gov/patent/index.html#/patent/search/resultAssignment?id=51748-479
 
+# Work Experience
 Years        | Position-Company           |   Notable Achievements & Links
--------------|----------------------------|-----------------------------------
-2023 - 2024  | Senior Principal Engineer  |  Delivery of AI and Azure based healthcare apps including 📊AI💡Service Now, 🗣️AI🤝NPS, GPT-4o📩Doc🗣️💬VoiceChat, AI Claims, AI PII Infoguard, AI CI/CD for Product Delivery Acceleration, SympleNote for MA, SymptomSmart for WA, EasyCheck for CA
-2020 - 2023  | Senior Principal Engineer  |  Delivery of AI Assessment, AI Care Plan, Intelligent Data Recommender, Intelligent Nurse Triage, Ontology Manager, SympleNote for MA, SymptomSmart for WA, EasyCheck for CA
-2017 - 2020  | Senior Principal Engineer  |  Accredited as Senior Principal Engineer, Deployed 4 solutions within ICUE to production that use AI to recommend providers, automate approvals for prior authorization, and review and make recommendations on clinical documents.
-2016 - 2017  | Director Architecture      |  Moved from UHCMV to leading Clinical Architecture **team of 14** reporting to VP Clinical Technology                                      
-2012 - 2016  | Director App. Development  |  Hired and managed **new team of 36** on UHCMV contract with $13M A/D annual and $64M projects leading CareOne and MVPega                                     
-2009 - 2012  | Senior Development Manager | Converted team of contractors to full time employees in 2009 working on CareOne and ICUE as technology leader focused on design and development                                        
-1995 - 2009  | President/CEO Evolvable Corp.  | S-Corp Entrepreneur in consulting and product development with 8 employees with Travelers Express, UTV/Fox, US Bank, Best Buy, Target, UHG, and other clients.
-1994 - 1995  | Intern - UnitedHealth      |  QA Test Automation Lead SQA Team Test for Sales Support System SSS
-1989 - 1994  | U of MN Consultant for EE/CSCI, Physics, MechE, Aerospace and Walter Library   | Consultant for U of M at 5 laboratories.
-1989 - 1994  | U of MN - BIS - Computer Science, Psychology & Japanese   | Philanthropy Chairman of Chi/Psi, Scholarship Chair of Chi/Psi, Japanese fluency achieved.          
-      
+----------------|----------------------------|-----------------------------------
+2023 - Current  | Senior Principal Engineer  |  Delivery of AI and Azure based healthcare apps including 📊AI💡Service Now, 🗣️AI🤝NPS, GPT-4o📩Doc🗣️💬VoiceChat, AI Claims, AI PII Infoguard, AI CI/CD for Product Delivery Acceleration, SympleNote for MA, SymptomSmart for WA, EasyCheck for CA
+2020 - 2023     | Senior Principal Engineer  |  Delivery of AI Assessment, AI Care Plan, Intelligent Data Recommender, Intelligent Nurse Triage, Ontology Manager, SympleNote for MA, SymptomSmart for WA, EasyCheck for CA
+2017 - 2020     | Senior Principal Engineer  |  Accredited as Senior Principal Engineer, Deployed 4 solutions within ICUE to production that use AI to recommend providers, automate approvals for prior authorization, and review and make recommendations on clinical documents.
+2016 - 2017     | Director Architecture      |  Moved from UHCMV to leading Clinical Architecture **team of 14** reporting to VP Clinical Technology                                      
+2012 - 2016     | Director App. Development  |  Hired and managed **new team of 36** on UHCMV contract with $13M A/D annual and $64M projects leading CareOne and MVPega                                     
+2009 - 2012     | Senior Development Manager | Converted team of contractors to full time employees in 2009 working on CareOne and ICUE as technology leader focused on design and development                                        
+1995 - 2009     | President/CEO Evolvable Corporation  | Entrepreneur in software products, consulting, and software product development.  15 years led successful and profitable product development, service contract fulfillment and consulting contracts for hands on development with clients UHG, Travelers Express, United Television / Fox, US Bank, Best Buy, Target Corporation, A&A, Aon and other US clients.
+1994 - 1995     | Intern - United HealthCare |  QA Test Automation Lead SQA Team Test for Sales Support System SSS
+1989 - 1994     | U of MN Consultant for EE/CSCI, Physics, MechE, Aerospace and Walter Library   | Consultant for U of M at 5 laboratories.
+
+# Education:
+1989 - 1994     | U of MN - Bachelor of Independent Studies in Computer Science, Psychology & Japanese   | Scholarship Chairman, and Philanthropy Chairman of U of M Lodge - Chi/Psi Fraternity, Japanese fluency 1994.          
+
 # 2024 Update:
 ## 1.  Patents and Innovation
-      1. Wrote patent disclosure for **Intelligent Data Recommender for Data Source Recommendation with Cognitive Architecture as Expert System**  and led development of a Cognitive AI Intelligent Dataset Ordering tool to optimize data acquisition process which completed in 2024.
+      1. Patent Pending
+         **Intelligent Data Recommender for Data Source Recommendation with Cognitive Architecture as Expert System**  
+            - Led development of a Cognitive AI Intelligent Dataset Ordering tool to optimize data acquisition process which completed in 2024.
             - U.S. Patent Appl. No. 18/817,704, entitled: “Systems and Methods for Using an Artificial Intelligence (AI) Model to Route Data.”
             - (aka Data Source Recommendation with Cognitive Architecture as Expert System).
             - Presented at Patent Review Board where it was unanimously approved.  I serve as a patent mentor.
-      2. Over 6 months worked with technical and patent attorney team ultimately completing the 51 page final patent submission filed August 28, 2024
+            - Completed 51 page final patent submission filed August 28, 2024 in domain of Cognitive AI
             - For Claims - Led each of the 20 of the Cognitive AI claims describing:
                1. The problem addressed by the invention
                2. How it solves the problem
                3. How it works in method steps including Definitions, Method Steps, Inputs, Entity Specifications, and Actors and 6 Figures
-                  - Inventors: Aaron Wacker, Sarah Scott, Nithya Sundararajan, Bryan Stearns, Sameer Gotkhindikar, Matthew Versaggi, Sean Oneil
-               4. Served as patent mentor for AI patents for education, instruction, and clinical terminologies.
+                  - Co-Inventors: Aaron Wacker, Sarah Scott, Nithya Sundararajan, Bryan Stearns, Sameer Gotkhindikar, Matthew Versaggi, Sean Oneil
+               4. Served on Patent Review Board as patent mentor for AI patent in patient education, instruction, and clinical terminologies.
 
 ## 2. Mentoring and Teaching AI:
    - Individuals this year in weekly one on ones and also large forum presentations in AI development.
@@ -631,10 +636,17 @@ Years        | Position-Company           |   Notable Achievements & Links
       6. AI CI/CD for Product Delivery Acceleration
 
 ## 4. Daily work leading SympleNote/SymptomSmart Scrum daily synchronizing between offshore and onshore for two products with team of about 15 people.
+      1. Created Symptom Smart Technology Roadmap
+      2. Created Business and Technical Architecture, Design and Code
+      3. Lead technical issue and support resolution for onshore hours.
+      4. Complete hands on development with Python, HTML, C#, MS Azure Functions, MS Azure Cosmos DB, MS Azure App Insights, MS PowerApps, Azure Container Registry, Azure Container Apps Environment, Azure Dev Pipelines, Github
+      5. Create strategy, approach, and plan for scaling National.
+
+      ### Symptom Smart / SympleNote 
      - Technical Owner for two large clinical health care applications integrated with EMRs including Epic, MyChart and Touchworks/IDW.
      - Security Platform fixes for products using AI to refactor and build defensive posture with over 80 engineered solutions that address Defender identified CVS potential issues.
      - Weekly meetings and synchronization with business partners on SympleNote and EasyCheck
-     - Issue resolution research and remediation
+     - Daily scrum and issue resolution research and remediation
      - Onboarding of team members, decommission of old team, onboarding of new teams and product owners assisting with access and learning.
      - Work on multiple app subscriptions as Owner and Contributor managing access, defect fixes and refactoring with feature additions.  Supporting offshore team and onshore business.
      - Delivery of reporting changes, PowerBI additions and enhancements, Azure changes, security changes, transitions of resources.
