@@ -5,21 +5,31 @@
 ```mermaid
 graph LR
     R[🔧 Systems Infrastructure LowLevel Engineering]
+    R --> SILE2[🔧🔧 Linux or embedded systems experience]
+    R --> SILE7[🔧🔧 Cross-layer performance tuning hardware plus software]
+    R --> SILE8[🔧🔧 Data-center scale HPC or ML deployment]
+    R --> SILE15[🔧🔧 HPC or large-batch evaluations]
+    R --> SILE26[🔧🔧 Building and optimizing distributed backend systems]
+    R --> SILE27[🔧🔧 Distributed system debugging and optimization]
+    R --> SILE30[🔧🔧 Implementing quantitative models of system throughput]
+    R --> SILE31[🔧🔧 Load balancing and high-availability design]
+    R --> SILE34[🔧🔧 Python-driven distributed training pipelines]
+    R --> SILE36[🔧🔧 Cross-team platform innovation and proactive ML based resolution]
+    R --> SILE37[🔧🔧 Distributed systems design and scalable architectures]
+    R --> SILE38[🔧🔧 Observability anomaly detection and automated triage AIOps Python Go]
+    R --> SILE39[🔧🔧 ServiceNow expansions AIOps and AI automation]
+    R --> SILE40[🔧🔧 User-centric IT workflows and design integration]
     R --> S1[🔧 Low-level system integrations compilers Cplusplus]
-    R --> S2[🔧 Linux or embedded systems experience]
     R --> S3[🔧 Hardware acceleration]
     R --> S4[🔧 Accelerating ML training inference across AI hardware]
     R --> S5[🔧 CUDA kernels]
     R --> S6[🔧 Optimum integration for specialized AI hardware]
-    R --> S7[🔧 Cross-layer performance tuning hardware plus software]
-    R --> S8[🔧 Data-center scale HPC or ML deployment]
     R --> S9[🔧 GPU accelerator architecture and CUDA kernel optimization]
     R --> S10[🔧 GPU kernel design and HPC concurrency]
     R --> S11[🔧 GPU cluster configuration and job scheduling]
     R --> S12[🔧 HPC provisioning and GPU cluster orchestration]
     R --> S13[🔧 HPC training pipeline and multi-GPU scheduling]
     R --> S14[🔧 HPC scheduling and multi-node debugging]
-    R --> S15[🔧 HPC or large-batch evaluations]
     R --> S16[🔧 Hybrid on-premise and cloud HPC setups]
     R --> S17[🔧 Large-scale distributed computing and HPC performance]
     R --> S18[🔧 Low-level HPC code Cplusplus Triton and parallel programming]
@@ -30,25 +40,15 @@ graph LR
     R --> S23[🔧 Python and low-level matrix operations custom CUDA kernels]
     R --> S24[🔧 Python Cplusplus tooling for robust model tests]
     R --> S25[🔧 Stress-testing frontier LLMs and misuse detection]
-    R --> S26[🔧 Building and optimizing distributed backend systems]
-    R --> S27[🔧 Distributed system debugging and optimization]
     R --> S28[🔧 Distributed system design and MLOps best practices]
     R --> S29[🔧 High-performance optimization for ML training and inference]
-    R --> S30[🔧 Implementing quantitative models of system throughput]
-    R --> S31[🔧 Load balancing and high-availability design]
     R --> S32[🔧 Optimizing system performance under heavy ML loads]
     R --> S33[🔧 Performance optimization for LLM inference]
-    R --> S34[🔧 Python-driven distributed training pipelines]
     R --> S35[🔧 Throughput and performance optimization]
-    R --> S36[🔧 Cross-team platform innovation and proactive ML based resolution]
-    R --> S37[🔧 Distributed systems design and scalable architectures]
-    R --> S38[🔧 Observability anomaly detection and automated triage AIOps Python Go]
-    R --> S39[🔧 ServiceNow expansions AIOps and AI automation]
-    R --> S40[🔧 User-centric IT workflows and design integration]
 ```
 
 ```mermaid
-graph TD
+graph LR
     R[💻 Software Cloud MLOps Infrastructure]
     R --> SW1[💻 Python APIs and framework optimizations tokenizers datasets]
     R --> SW2[💻 Python programming]
@@ -98,7 +98,7 @@ graph TD
 ```
 
 ```mermaid
-graph TD
+graph LR
     R[🤖 Machine Learning AI Model Development]
     R --> ML1[🤖 Performance tuning for Transformers in NLP CV and Speech]
     R --> ML2[🤖 Industrial-level ML for text generation inference]
@@ -169,7 +169,7 @@ graph TD
 ```
 
 ```mermaid
-graph TD
+graph LR
     R[📊 Data Engineering Analytics Data Governance]
     R --> D1[📊 Advanced analytics and forecasting using Python R]
     R --> D2[📊 Alerting systems and dashboards Grafana etc]
@@ -193,7 +193,7 @@ graph TD
 ```
 
 ```mermaid
-graph TD
+graph LR
     R[🔒 Security Compliance Reliability]
     R --> SEC1[🔒 Attack simulations and detection pipelines]
     R --> SEC2[🔒 Automation with Python and Bash]
@@ -227,7 +227,7 @@ graph TD
 ```
 
 ```mermaid
-graph TD
+graph LR
     R[👥 Leadership Management Collaboration]
     R --> L1[👥 Coordinating engineering design and research teams]
     R --> L2[👥 Cross-functional leadership for platform roadmaps]
@@ -265,7 +265,7 @@ graph TD
 ```
 
 ```mermaid
-graph TD
+graph LR
     R[📱 FullStack UI Mobile Product Development]
     R --> M1[📱 Building internal AI automation tools]
     R --> M2[📱 CI CD automation and testing frameworks]
@@ -315,7 +315,7 @@ graph TD
 ```
 
 ```mermaid
-graph TD
+graph LR
     R[🎯 Specialized Domains Emerging Technologies]
     R --> SP1[🎯 3D computer vision and neural rendering radiance fields]
     R --> SP2[🎯 Advanced 3D reconstruction techniques Gaussian splatting NERF]
@@ -362,7 +362,7 @@ graph TD
 ```
 
 ```mermaid
-graph TD
+graph LR
     R[📢 Community OpenSource Communication]
     R --> C1[📢 Educating the ML community on accelerating training and inference workloads]
     R --> C2[📢 Working through strategic collaborations]
