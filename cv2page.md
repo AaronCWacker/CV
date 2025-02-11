@@ -1,18 +1,65 @@
 # Aaron Wacker - Curriculum Vitae (CV) MoE - Skills Research AI to Advance ML and Generative AI
 
+
+
+
+
+
+
+# Next
+
+```python
+1. The outline should be valid markdown and every line needs to start with an emoji in the outline.  2. For sub numbering start at 1 everytime.  Dont do multipart naming - instead just use branches and consistent emojis for skill groups.  3. In mermaid model the () paranethesis characters are not allowed so it errors.  Make sure labels dont have non ascii letter characters yet have the best representative emoji at the front so easily to sight read fast.  4.  For the mermaid graph I expect that to be multi model, multi graph.  Maybe make one per branch and show each one with seperate mermaid blocks of markdown that begin with code block markers ```mermaid to start and ``` to stop on lines of their own.   Shown full code listing and include as code inside app.py of python streamlit app.py  5. Create a requirements.txt for every python library related to the skills even individual ones.  also use Usage comments like example I show below.     Make sure to add any python library for any skill mentioning a tool or technology which has one or more python libraries, and also sort them in requirements.txt   Here is a sample:  # requirements.txt
+
+streamlit        # Core web app - st.write("Hello"), st.button("Click"), st.selectbox("Choose", opts)
+Pillow          # Image tools - Image.open("pic.jpg"), img.resize((100,100)), img.save("out.png") 
+plotly          # Plots - px.scatter(df, x="a", y="b"), px.line(df), fig.show()
+opencv-python   # Vision - cv2.imread("img.jpg"), cv2.resize(img, (w,h)), cv2.imwrite("out.jpg", img)
+moviepy         # Video - VideoFileClip("vid.mp4"), clip.resize(0.5), clip.write_videofile("out.mp4")
+python-dotenv   # Env vars - load_dotenv(), os.getenv("KEY"), dotenv_values()
+pytz            # Time - timezone('US/Pacific'), dt.astimezone(tz), utc.localize(dt)
+requests        # HTTP - requests.get(url), r.json(), r.raise_for_status()
+openai          # AI API - client.chat.complete(), client.images.create(), client.audio.transcribe()
+beautifulsoup4  # HTML - BeautifulSoup(html), soup.find("div"), soup.find_all("p")
+PyPDF2          # PDF - PdfReader("doc.pdf"), reader.pages[0].extract_text(), writer.write(f)
+textract        # Extract - process("doc.pdf"), process("doc.docx"), process("text.txt")
+gradio-client   # Gradio - client.predict(text), interface.launch(), client.submit(inputs)
+huggingface-hub # Models - from_pretrained("model"), list_models(), push_to_hub()
+audio-recorder-streamlit # Audio - audio_recorder(), get_audio_data(), save_recording()
+xmltodict       # XML - parse(xml_str), unparse(dict_obj), parse(f.read())
+mistune         # Markdown - markdown(text), escape(html), renderer.render(tokens)
+python-docx     # Word - Document(), doc.add_paragraph(), doc.save("out.docx") 
+faiss-cpu       # Vectors - IndexFlatL2(d), index.add(vecs), D,I = index.search(q,k)
+scikit-learn    # ML - fit(X,y), predict(X), train_test_split(X,y)
+langchain       # LLM - load_chain(), chain.run(input), memory.save_context()
+tiktoken        # Tokens - encode(text), decode(tokens), num_tokens = len(tokens)  
+anthropic       # Claude - client.messages.create(), client.complete()
+edge-tts        # TTS - communicate.run(text), save_to_file(), stream_to_speaker()
+streamlit-marquee # Scroll - streamlit_marquee(text), set_speed(), set_style()
+extra-streamlit-components>=0.1.60  # Import stx; cookie_mgr=stx.CookieManager(); cookie_mgr.get()
+nest_asyncio # allows nested async calls - this was a move 37
+
+```
+
+
+
+
+
+
+
 # Mermaid Graph - MoE of MoE's
 
 ```mermaid
 graph TD
-    A[🔧 Systems, Infrastructure & Low‑Level Engineering (40)]
-    B[💻 Software, Cloud, MLOps & Infrastructure (45)]
-    C[🤖 Machine Learning, AI & Model Development (66)]
-    D[📊 Data Engineering, Analytics & Data Governance (19)]
-    E[🔒 Security, Compliance & Reliability (29)]
-    F[👥 Leadership, Management & Collaboration (33)]
-    G[💻 Full‑Stack, UI, Mobile & Product Development (47)]
-    H[🎯 Specialized Domains & Emerging Technologies (42)]
-    I[📢 Community, Open‑Source & Communication (13)]
+    A[🔧 Systems, Infrastructure & Low‑Level Engineering]
+    B[💻 Software, Cloud, MLOps & Infrastructure]
+    C[🤖 Machine Learning, AI & Model Development]
+    D[📊 Data Engineering, Analytics & Data Governance]
+    E[🔒 Security, Compliance & Reliability]
+    F[👥 Leadership, Management & Collaboration]
+    G[💻 Full‑Stack, UI, Mobile & Product Development]
+    H[🎯 Specialized Domains & Emerging Technologies]
+    I[📢 Community, Open‑Source & Communication]
 
     A --> A1[HuggingFace Systems]
     A --> A2[OpenAI HPC & Distributed]
