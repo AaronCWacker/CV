@@ -3,7 +3,7 @@
 # Mermaid Graph Models - ML State of Art
 
 ```mermaid
-graph TD
+graph LR
     R[🔧 Systems Infrastructure LowLevel Engineering]
     R --> S1[🔧 Low-level system integrations compilers Cplusplus]
     R --> S2[🔧 Linux or embedded systems experience]
