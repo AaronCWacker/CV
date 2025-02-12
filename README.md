@@ -15,15 +15,15 @@ As an **AI teacher** on a weekly basis with my AI Zero to Hero course and annual
 **
 
 # Overall Skills Assessment for AI (OTU Teacher & Contributor)
-🔧 Systems Infrastructure: Hardware, OS, and distributed HPC deployments.  9/10
-💻 Software Cloud MLOps: Cloud infrastructure, ML frameworks, and automation.  8/10
-🤖 Machine Learning AI: Large–scale architectures, distributed training, and inference.  8/10
-📊 Data Engineering: Data processing, analytics, and governance.  10/10
-🔒 Security & Compliance: Security operations, compliance, and system hardening.  9/10
-👥 Leadership & Collaboration: Strategic leadership and team management.  9/10
-📱 FullStack UI Mobile: Mobile and web app development with ML integration.  9/10
-🎯 Specialized Domains: Healthcare & Clinical, Behavioral Health, Advanced CV, Robotics, HPC, and AI quantization.  8/10
-📢 Community OpenSource: Community engagement, documentation, and collaboration.  10/10
+1. 🔧 Systems Infrastructure: Hardware, OS, and distributed HPC deployments.  9/10
+2. 💻 Software Cloud MLOps: Cloud infrastructure, ML frameworks, and automation.  8/10
+3. 🤖 Machine Learning AI: Large–scale architectures, distributed training, and inference.  8/10
+4. 📊 Data Engineering: Data processing, analytics, and governance.  10/10
+5. 🔒 Security & Compliance: Security operations, compliance, and system hardening.  9/10
+6. 👥 Leadership & Collaboration: Strategic leadership and team management.  9/10
+7. 📱 FullStack UI Mobile: Mobile and web app development with ML integration.  9/10
+8. 🎯 Specialized Domains: Healthcare & Clinical, Behavioral Health, Advanced CV, Robotics, HPC, and AI quantization.  8/10
+9. 📢 Community OpenSource: Community engagement, documentation, and collaboration.  10/10
 
 # Social Links
 - **HuggingFace**: https://huggingface.co/awacke1
