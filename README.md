@@ -3,22 +3,37 @@
 ![image](https://github.com/AaronCWacker/CV/assets/30595158/64e3dbd7-6921-478b-9917-b52a82bb7a7c)
 
 # Aaron Wacker - Senior Principal Engineer, Optum Health
+**## **Senior Principal Engineer, Optum Clinical Technology**
+
+Over **30 years** experience leading development and architecture focusing on AI delivery last 5 years delivering AI Assessment, Care Plan, Triage, Behavioral Health, Medical Inpatient, Outpatient, SNF provider recommendation systems for Clinical business and technology.  I am a technical leader for two production products in Optum Health for **Triage** and **Patient Check In** EMR integrated health care processes used in U.S. care delivery organizations (CDOs).  Nearly every review since 2010, I have scored **5/5 exceeding expectations** for review scores.
+
+As an **AI teacher** on a weekly basis with my AI Zero to Hero course and annual global Hackathon leader, I have helped train over 3000 engineers on using AI for health care.  I've also run Optum's Global Hackathon since 2019-2022 with over 2500 engineers.  My weekly AI Zero to Hero class through **Optum Technology University** taught Generative AI, Streamlit, Python, Gradio, Huggingface Model, Dataset, and Space development.  As a teacher I've achieved a **Net Promoter Score of 97.7% promoters** by helping others learn to build AI apps quickly and comprehensively using the latest AI techniques.
+**
+
+# Overall Skills Assessment for AI (OTU Teacher & Contributor)
+🔧 Systems Infrastructure: Hardware, OS, and distributed HPC deployments.  9/10
+💻 Software Cloud MLOps: Cloud infrastructure, ML frameworks, and automation.  8/10
+🤖 Machine Learning AI: Large–scale architectures, distributed training, and inference.  8/10
+📊 Data Engineering: Data processing, analytics, and governance.  10/10
+🔒 Security & Compliance: Security operations, compliance, and system hardening.  9/10
+👥 Leadership & Collaboration: Strategic leadership and team management.  9/10
+📱 FullStack UI Mobile: Mobile and web app development with ML integration.  9/10
+🎯 Specialized Domains: Healthcare & Clinical, Behavioral Health, Advanced CV, Robotics, HPC, and AI quantization.  8/10
+📢 Community OpenSource: Community engagement, documentation, and collaboration.  10/10
+
+# Social Links
 - **HuggingFace**: https://huggingface.co/awacke1
 - **Github**: https://github.com/AaronCWacker/   Arctic Code Vault contributor for Machine Learning: https://github.com/AaronCWacker?achievement=arctic-code-vault-contributor&tab=achievements
 - **Research Interests**: AGI and ML Pipelines, Ambient IoT AI, Behavior Cognitive and Memory AI, Clinical Medical and Nursing AI, Genomics AI, GAN Gaming GAIL AR VR XR and Simulation AI, Graph Ontology KR KE AI, Languages and NLP AI, Quantum Compute GPU TPU NPU AI, Vision Image Document and Audio/Video AI, RLHF, InstructGPT, GPT4, Human Feedback Systems and Datasets
 
-## **Senior Principal Engineer** 
-Over **30 years** experience leading architecture and development teams focusing on AI delivery last 5 years delivering AI Assessment, Care Plan, Triage, Behavioral Health, Medical Inpatient, Outpatient, SNF provider recommendation systems for Clinical business and technology.  I am a technical leader for two production products in Optum Health for **Triage** and **Patient Check In** EMR integrated health care processes used in U.S. care delivery organizations (CDOs).  
-
-Nearly every review since 2010, I have scored **5/5 exceeding expectations** for review scores.
-
-As an **AI teacher** on a weekly basis with my AI Zero to Hero course and annual global Hackathon leader, I have helped train over 3000 engineers on using AI for health care.  I've also run Optum's Global Hackathon since 2019-2022 with over 2500 engineers.  My weekly AI Zero to Hero class through **Optum Technology University** taught Generative AI, Streamlit, Python, Gradio, Huggingface Model, Dataset, and Space development.  As a teacher I've achieved a **Net Promoter Score of 97.7% promoters** by helping others learn to build AI apps quickly and comprehensively using the latest AI techniques.
-
+# AI/ML Development Expert
 My own growth in AI development productivity has increased from up to ten programs per year (2021), to 200 per year in 2022, and over 578 total within Q1 2023 showing **over 100x** increase in productivity by using and teaching AI pair programming and learning techniques.  
 
 AI/ML platform technologies I am familiar with include Huggingface, Transformers, Keras, Jupyter, Scikit-learn, OpenCV, Fast.ai, GPT-3, DataRobot, Azure, Torch, Tensorflow, Streamlit, Gradio, Docker, Terraform, Python, Github and VSCode.
 
-With product engineering and delivery I have led delivery of at least three large AI oriented projects per year since 2018 including notable successes such as 12 IP disclosure submissions with one successful patent covering 32 features for automating prior auth determinations using decision trees and AI, also serving as a patent mentor.  **Patent Link**: https://assignment.uspto.gov/patent/index.html#/patent/search/resultAssignment?id=51748-479
+With product engineering and delivery I have led delivery of at least three large AI oriented projects per year since 2018 including notable successes such as 12 IP disclosure submissions with one successful patent covering 32 features for automating prior auth determinations using decision trees and AI, also serving as a patent mentor with 3 Patents in Artificial Intelligence and Clinical Healthcare Process.
+
+**Patent Link**: https://assignment.uspto.gov/patent/index.html#/patent/search/resultAssignment?id=51748-479
 
 Years        | Position-Company           |   Notable Achievements & Links
 -------------|----------------------------|-----------------------------------
@@ -127,11 +142,7 @@ Years        | Position-Company           |   Notable Achievements & Links
 ![image](https://github.com/user-attachments/assets/fe1a455a-e8ae-47d6-862f-29966866169b)
 
 
-
-
-
-# 2023:
-# 2023 NPS Feedback Scores and Comments from AI Mentoring and Coaching sessions including Data Science Guild and AI Zero to Hero presentations and classroom forums.
+# NPS Feedback Scores and Comments from AI Mentoring and Coaching sessions including Data Science Guild and AI Zero to Hero presentations and classroom forums.
 classid	Score	Additional Question: Why did you attend this training/event?	Do you feel this course/event was effective in meeting the stated learning objectives?	Please share your comments regarding this learning experience: 
 1. 20230323	10	New Skills or Technology	Agree	very interesting!
 2. 20230323	10	New Skills or Technology, Refresh Skills	Strongly Agree	This class is excellent, Aaron provided the necessary tools and now we have to experience the tools and apply them to our ideas.
