@@ -2,10 +2,14 @@
 
 ![image](https://github.com/AaronCWacker/CV/assets/30595158/64e3dbd7-6921-478b-9917-b52a82bb7a7c)
 
-# Aaron Wacker - Senior Principal Engineer, Optum Health
-**## **Senior Principal Engineer, Optum Clinical Technology**
+# Senior Principal Engineer, Optum Clinical Technology
 
-Over **30 years** experience leading development and architecture focusing on AI delivery last 5 years delivering AI Assessment, Care Plan, Triage, Behavioral Health, Medical Inpatient, Outpatient, SNF provider recommendation systems for Clinical business and technology.  I am a technical leader for two production products in Optum Health for **Triage** and **Patient Check In** EMR integrated health care processes used in U.S. care delivery organizations (CDOs).  Nearly every review since 2010, I have scored **5/5 exceeding expectations** for review scores.
+Over **30 years** experience leading development and architecture as Director of Applications Development, Director of Architecture, and Senior Principal Engineer focusing on AI architecture, design, development, and delivery last 5 years delivering at least 5 major AI apps annually in areas of Assessment, Care Planning, Triage, Behavioral Health, Medical Inpatient, Outpatient, SNF provider recommendation systems for Clinical business and technology.  
+
+I am a technical leader/owner for two production products in Optum Clinical for:
+1. **Triage** application called "SympleNote & Symptom Smart", An AI Led Medical Interview, Medical KB and Differential Diagnosis AI/NLP application that schedules appointments and integrates with Epic and Mychart using SMART/FHIR and Azure patterns.  This serves three CDO networks in WA, and MA.
+2. **Patient Check In** application called "EasyCheck" is an AI IVR/SMS integrated application to optimize patient check in process EMR integrated health care appointment check in application in U.S. care delivery organizations (CDOs).  This serves over 400 locations in state of CA with over 48k appts per month.
+3. Nearly every review since 2010, I have scored **5/5 exceeding expectations** for review scores.
 
 As an **AI teacher** on a weekly basis with my AI Zero to Hero course and annual global Hackathon leader, I have helped train over 3000 engineers on using AI for health care.  I've also run Optum's Global Hackathon since 2019-2022 with over 2500 engineers.  My weekly AI Zero to Hero class through **Optum Technology University** taught Generative AI, Streamlit, Python, Gradio, Huggingface Model, Dataset, and Space development.  As a teacher I've achieved a **Net Promoter Score of 97.7% promoters** by helping others learn to build AI apps quickly and comprehensively using the latest AI techniques.
 **
