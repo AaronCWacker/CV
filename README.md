@@ -40,17 +40,17 @@ With product engineering and delivery I have led delivery of at least three larg
 
 Years        | Position-Company           |   Notable Achievements & Links
 -------------|----------------------------|-----------------------------------
-2023 - 2024  | Senior Principal Engineer  |  Delivery of AI and Azure based healthcare apps including 📊AI💡Service Now, 🗣️AI🤝NPS, GPT-4o📩Doc🗣️💬VoiceChat, AI Claims, AI PII Infoguard, AI CI/CD for Product Delivery Acceleration, SympleNote for MA, SymptomSmart for WA, EasyCheck for CA
-2020 - 2023  | Senior Principal Engineer  |  Delivery of AI Assessment, AI Care Plan, Intelligent Data Recommender, Intelligent Nurse Triage, Ontology Manager, SympleNote for MA, SymptomSmart for WA, EasyCheck for CA
-2017 - 2020  | Senior Principal Engineer  |  Accredited as Senior Principal Engineer, Deployed 4 solutions within ICUE to production that use AI to recommend providers, automate approvals for prior authorization, and review and make recommendations on clinical documents.
-2016 - 2017  | Director Architecture      |  Moved from UHCMV to leading Clinical Architecture **team of 14** reporting to VP Clinical Technology                                      
-2012 - 2016  | Director App. Development  |  Hired and managed **new team of 36** on UHCMV contract with $13M A/D annual and $64M projects leading CareOne and MVPega                                     
-2009 - 2012  | Senior Development Manager | Converted team of contractors to full time employees in 2009 working on CareOne and ICUE as technology leader focused on design and development                                        
-1995 - 2009  | President/CEO Evolvable Corp.  | S-Corp Entrepreneur in consulting and product development with 8 employees with Travelers Express, UTV/Fox, US Bank, Best Buy, Target, UHG, and other clients.
-1994 - 1995  | Intern - UnitedHealth      |  QA Test Automation Lead SQA Team Test for Sales Support System SSS
-1989 - 1994  | U of MN Consultant for EE/CSCI, Physics, MechE, Aerospace and Walter Library   | Consultant for U of M at 5 laboratories.
-1989 - 1994  | U of MN - BIS - Computer Science, Psychology & Japanese   | Philanthropy Chairman of Chi/Psi, Scholarship Chair of Chi/Psi, Japanese fluency achieved.          
-      
+2023 - 2024  | Senior Principal Engineer, UnitedHealth (UNH)  |  Delivery of AI and Azure based healthcare apps including 📊AI💡Service Now, 🗣️AI🤝NPS, GPT-4o📩Doc🗣️💬VoiceChat, AI Claims, AI PII Infoguard, AI CI/CD for Product Delivery Acceleration, SympleNote for MA, SymptomSmart for WA, EasyCheck for CA
+2020 - 2023  | Senior Principal Engineer, UnitedHealth (UNH)  |  Delivery of AI Assessment, AI Care Plan, Intelligent Data Recommender, Intelligent Nurse Triage, Ontology Manager, SympleNote for MA, SymptomSmart for WA, EasyCheck for CA
+2017 - 2020  | Senior Principal Engineer, UnitedHealth (UNH)  |  Accredited as Senior Principal Engineer, Deployed 4 solutions within ICUE to production that use AI to recommend providers, automate approvals for prior authorization, and review and make recommendations on clinical documents.
+2016 - 2017  | Director Architecture, UnitedHealth (UNH)      |  Moved from UHCMV to leading Clinical Architecture **team of 14** reporting to VP Clinical Technology                                      
+2012 - 2016  | Director Apps Development, UnitedHealth (UNH)  |  Hired and managed **new team of 36** on large scale UHC Military and Veterans contract leading Clinical Apps Dev with budget of $13M A/D annual and $64M across enterprise leading CareOne and MVPega app design and development.                                     
+2009 - 2012  | Senior Development Manager, UnitedHealth (UNH) | Converted team of contractors to full time employees in 2009 working on CareOne and ICUE as technology leader focused on design and development                                        
+1995 - 2009  | President/CEO Evolvable Corporation  | S-Corp Entrepreneur in consulting and product development with 8 employees with UnitedHealth, Travelers Express, United Television/Fox, US Bank, Best Buy, Target, A&A, Aon Risk Services and other US clients.
+1994 - 1995  | Intern, UnitedHealth (UNH)     |  QA Test Automation Lead SQA Team Test for Sales Support System SSS
+1989 - 1994  | Consultant, University of Minnesota |  EE/CSCI, Physics, MechE, Aerospace and Walter Laboratories.
+1989 - 1994  | U of MN Bachelors of Independent Studies | Computer Science, Psychology & Japanese pursuing AI, VR, and advanced technologies and learning and perception theory | Philanthropy Chairman and Scholarship Chairman of Chi/Psi, Japanese fluency achieved.      
+
 # 2024 Update:
 ## 1.  Patents and Innovation
       1. Wrote patent disclosure for **Intelligent Data Recommender for Data Source Recommendation with Cognitive Architecture as Expert System**  and led development of a Cognitive AI Intelligent Dataset Ordering tool to optimize data acquisition process which completed in 2024.
