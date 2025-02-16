@@ -114,62 +114,66 @@ Years        | Position-Company           |   Notable Achievements & Links
       5. AI Infoguard for PHI PII Detection and Deidentification using Presidio
       6. AI CI/CD for Product Delivery Acceleration
 
-## 4. Daily work leading SympleNote/SymptomSmart Scrum daily synchronizing between offshore and onshore for two products with team of about 15 people.
-     - Technical Owner for two large clinical health care applications integrated with EMRs including Epic, MyChart and Touchworks/IDW.
-     - Security Platform fixes for products using AI to refactor and build defensive posture with over 80 engineered solutions that address Defender identified CVS potential issues.
-     - Weekly meetings and synchronization with business partners on SympleNote and EasyCheck
-     - Issue resolution research and remediation
-     - Onboarding of team members, decommission of old team, onboarding of new teams and product owners assisting with access and learning.
-     - Work on multiple app subscriptions as Owner and Contributor managing access, defect fixes and refactoring with feature additions.  Supporting offshore team and onshore business.
-     - Delivery of reporting changes, PowerBI additions and enhancements, Azure changes, security changes, transitions of resources.
+## 4. Daily work leading global teams, daily standup, and growth for production applications.
+     1. Technology Roadmap
+     2. Business and Technology Architecture
+     3. Technical Issues Research and Remediation including Production Product Support
+     4. Hands on Python, C#, Java, Javascript, C/C++, Reactive, and Mobile Development
+     5. Strategy, Approach, and Plan for Product Growth and Expansion
+     6. Technical Owner for two large clinical health care applications integrated with EMRs including Epic, MyChart and Touchworks/IDW.
+     7. Security Platform fixes for products using AI to refactor and build defensive posture with over 80 engineered solutions that address Defender identified CVS potential issues.
+     8. Weekly meetings for Leadership and Collaboration with business and product stakeholders for SympleNote and EasyCheck
+     9. Onboarding team members, lead transition of consulting teams, and onboarding of new global teams and product owners coaching and mentoring and assisting with access and learning.
+     10. Cloud Technology Owner for multiple Azure based large scale applications and Contributor managing access, feature adds, and refactoring for growth, security and scaling.  Supporting global advantage offshore teams and onshore business stateholders.
+     11. Delivery of technology development changes, PowerBI analytics, NPS, Qualtrics, and Servicenow ownership as well as Secure management with additions and enhancements, Azure changes, security changes, and transitions of resources.
 
-## 5. What did I learn in 2024?
+## 5. Focus
    1. AI Development and Shipping - Product development at Scale and Speed
-   2. Presentation skills and face to face coordination between different teams.  Ownership of refactoring and feature updates with Optum Global Advantage teams.
-   3. Engagement with variety of product constituents.
+   2. Presentation and face to face coordination between interdisciplinary teams.  Ownership of refactoring and feature updates with Optum Global Advantage teams.
+   3. Engagement with variety of business and technology stakeholders and product constituents.
    
-## 6. What support do I need in pursuit of goals in 2024?
-   1. Coaching sessions help me reduce complexity of what I share with customers, especially advice on Machine Learning Evaluation and Review with advice to simplify and clarify.
-   2. Coaching on how to mitigate burnout of high performers - advice on credit making and helping design for quality and efficiency.
-   3. Sessions on vision for how we transform apps with AI moving from high cost applications with aging complex architecture to simplified, fully AI automated CI/CD flows - looking for vision and carefully articulated ideal state architectures with compelling CBA factors.
-   4. Distinguished Principal Engineer accreditation.
+## 6. Development Goals
+   1. Reduce complexity of what we share with customers, Analytics Leadership in Machine Learning Evaluation and Review with advice to simplify and clarify.
+   2. Mitigating burnout amongst high performers by credit making and leadership in design for quality and efficiency.
+   3. Vision for transforming apps with AI from high cost / high complexity applications with aging overly complex architecture and discouraged technologies to simplified, fully AI automated CI/CD DevOps and MLOps flows. Developing vision and carefully articulated ideal state architectures with compelling CBA factors.
+   4. Distinguished Engineer accreditation.
 
-## 7. What can I learn to do better?
-   1. Being a better conduit between onshore product needs and global delivery.
-   2. Playing a larger role in driving initiatives in AI across our division using Data Science, Engineering and AI at scale.  I feel I have this aligned through partnership with others with our AI platform where I work with partner division teams.
-      - This would involve driving product evolution for our 8 AI based apps and implementing them across our existing product markets to share in value.  Some groundwork is laid but I want to learn more on gaining cross department leadership buy in.
-      - Appealing to potential customers interested in joint ownership of applying what we accomplished across divisions.
-   3. Understanding how to appeal to leadership vision at VP/C level leadership level.  Working through MLRB and RUAI on further work and deeper understanding of how to craft and live up to value statements, CBA's and cost optimization through AI CI/CD automation and performance measurement.  
-      - Insight on how to present and tell clear quality and efficiency stories with strong CBA's.
+## 7. Learning Goals
+   1. Being an optimal conduit between onshore product needs and global product design, development and delivery.
+   2. Driving initiatives in AI across to solve payer, provider, and patient problems using Data Engineering and AI/MLOps at scale.  Align through partnerships with our UAIS platform.
+   3. Driving product evolution for AI based apps and implementing them across product markets to share in value.  Gaining cross department leadership buy in.
+   3. Leadership and Collaboration vision at VP/C level leadership.  Collaborate with MLRB and RUAI teams for AI safety, legal, privacy and compliance on how we use AI.
+   4. Deep understanding of how to craft and live up to value statements, CBA's and cost optimization through AI CI/CD and MLOps automation, and performance evaluation and measurement.
+   5. Present and tell clear product quality and efficiency stories with strong CBA's which daily review pain of problems, joy of solutions, with product press releases.
 
 # Videos and Presentations Body of Work:
    (ask)
 
-# NPS Feedback Scores and Comments from AI Teaching for Data Science Guild, OTU, and AI Zero to Hero classroom forums.
+# NPS Feedback Scores and Comments Sample - AI Teaching for Data Science Guild, OTU, and AI Zero to Hero classroom forums.
 Score	Additional Question: Why did you attend this training/event?	Do you feel this course/event was effective in meeting the stated learning objectives?	Please share your comments regarding this learning experience: 
 1. 10	New Skills or Technology	Agree	very interesting!
 2. 10	New Skills or Technology, Refresh Skills	Strongly Agree	This class is excellent, Aaron provided the necessary tools and now we have to experience the tools and apply them to our ideas.
 3. 10	New Skills or Technology	Strongly Agree	
 4. 10	New Skills or Technology, Refresh Skills	Strongly Agree	Aaron is amazing! his demo is on point, and he always update his material! You consistently learn something new with every session that you attend! And love that Aaron is sharing his 30 years of experience and kepe improving our data culture! Thank you again Aaron! 
-5. 9	New Skills or Technology	Agree	
-6. 9	Recommended/Required by Manager	Agree	Great class to learn more about AI models and ML. Learned more on how to make dashboards for HuggingFace and excited to learn more in the future!
-7. 10	Recommended/Required by Manager	Agree	Great examples and easy to follow. Might be a little quick for people without much experience, but having the sessions recorded gives them a chance to look back if needed.
-8. 9	New Skills or Technology, Recommended by Co-Worker	Strongly Agree	Excellent session by Aaron. Got good ways and tips to improve productivity by 100x
-9. 10	Recommended by Co-Worker	Strongly Agree	
-10. 10	Refresh Skills	Strongly Agree	Aaron is a great presenter and teacher. Both classes so far have been top notch. Thank you very much for motivating me to learn hugging face.
-11. 9	New Skills or Technology	Strongly Agree	Aaron packed into 1 hour an entire day's worth of amazing and practical content for me to watch again -- at a much slower pace so I can absorb and learn and practice. THANK YOU!
-12. 9	New Skills or Technology	Agree	
-13. 9	New Skills or Technology, Recommended by Co-Worker	Agree	
-14. 10	New Skills or Technology	Strongly Agree	really well explained session ! Would love to attend and explore more classes by Aaron !
-15. 10	New Skills or Technology	Agree	It appears it met the objective, but the class moved so fast I was unable to keep up with watching and doing at the same time so learning and copying/pasting examples run was not possible for me. I look forward to going through the video and watching more intently and following the examples to learn more. It appears to be thorough and something I will definitely be able to use.
-16. 10	New Skills or Technology	Strongly Agree	Like to participate and contribute to UHG AI platform models and learn more
-17. 10	New Skills or Technology, Recommended/Required by Manager	Agree	Although the main goal was to show how easy and fast it is to build AI apps, there were many dependencies and technical skills referenced and/or required for deeper knowledge (ChatGPT prompts, Python, GitHub, Streamlit, MarkDown). With inspired passion, I'll now go learn and practice those skills so I can apply them to building new apps with HuggingFace. I needed to watch the replay with frequent pauses, to allow it all to sink in. 
-18. 10	New Skills or Technology	Strongly Agree	Thank you, Aaron, for the great session.  Aaron was very detailed and clear while presenting the information.
-19. 10	New Skills or Technology	Strongly Agree	Amazing initiative.
-20. 10	New Skills or Technology, Refresh Skills	Strongly Agree	It was excellent , effective and good as a starter to get into AI
-21. 10	Refresh Skills	Strongly Agree	
-22. 10	New Skills or Technology, Refresh Skills	Strongly Agree	Learned how quickly use hugging face to create AI apps at great speed
-23. 10	Other (just trying to learn more about huggingface)	Strongly Agree	
+5. 10	Recommended/Required by Manager	Agree	Great examples and easy to follow. Might be a little quick for people without much experience, but having the sessions recorded gives them a chance to look back if needed.
+6. 10	Recommended by Co-Worker	Strongly Agree	
+7. 10	Refresh Skills	Strongly Agree	Aaron is a great presenter and teacher. Both classes so far have been top notch. Thank you very much for motivating me to learn hugging face.
+8. 10	New Skills or Technology	Strongly Agree	really well explained session ! Would love to attend and explore more classes by Aaron !
+9. 10	New Skills or Technology	Agree	It appears it met the objective, but the class moved so fast I was unable to keep up with watching and doing at the same time so learning and copying/pasting examples run was not possible for me. I look forward to going through the video and watching more intently and following the examples to learn more. It appears to be thorough and something I will definitely be able to use.
+10. 10	New Skills or Technology	Strongly Agree	Like to participate and contribute to UHG AI platform models and learn more
+11. 10	New Skills or Technology, Recommended/Required by Manager	Agree	Although the main goal was to show how easy and fast it is to build AI apps, there were many dependencies and technical skills referenced and/or required for deeper knowledge (ChatGPT prompts, Python, GitHub, Streamlit, MarkDown). With inspired passion, I'll now go learn and practice those skills so I can apply them to building new apps with HuggingFace. I needed to watch the replay with frequent pauses, to allow it all to sink in. 
+12. 10	New Skills or Technology	Strongly Agree	Thank you, Aaron, for the great session.  Aaron was very detailed and clear while presenting the information.
+13. 10	New Skills or Technology	Strongly Agree	Amazing initiative.
+14. 10	New Skills or Technology, Refresh Skills	Strongly Agree	It was excellent , effective and good as a starter to get into AI
+15. 10	Refresh Skills	Strongly Agree	
+16. 10	New Skills or Technology, Refresh Skills	Strongly Agree	Learned how quickly use hugging face to create AI apps at great speed
+17. 10	Other (just trying to learn more about huggingface)	Strongly Agree	
+18. 9	New Skills or Technology	Agree	
+19. 9	Recommended/Required by Manager	Agree	Great class to learn more about AI models and ML. Learned more on how to make dashboards for HuggingFace and excited to learn more in the future!
+20. 9	New Skills or Technology, Recommended by Co-Worker	Strongly Agree	Excellent session by Aaron. Got good ways and tips to improve productivity by 100x
+21. 9	New Skills or Technology	Strongly Agree	Aaron packed into 1 hour an entire day's worth of amazing and practical content for me to watch again -- at a much slower pace so I can absorb and learn and practice. THANK YOU!
+22. 9	New Skills or Technology	Agree	
+23. 9	New Skills or Technology, Recommended by Co-Worker	Agree	
 
 # Open Source Teaching Organizations and Classrooms on [HuggingFace.co](https://huggingface.co/awacke1):
 ![image](https://github.com/user-attachments/assets/7bccd677-cc37-46e9-9df1-d7c56c310572)
