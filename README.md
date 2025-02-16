@@ -8,7 +8,7 @@ Over **36 years** experience leading development and architecture.  Past 10 year
 
 Inventor of three healthcare solutions with patents in field of AI.  Hands on development leader for major healthcare apps in clinical areas of Applied AI for Health Care, Assessment, NER of Clinical Terminology, Care Planning, Family Health, Intelligent Triage, Behavioral Health Prior Authorization, Medical Inpatient/Outpatient, Skilled Nursing Facility Recommendation, and provider matchmaking and recommendation systems for Clinical business and technology.  
 
-Former President/CEO of [Evolvable Corporation](https://web.archive.org/web/20250000000000*/www.evolvable.com).  History: [2017](https://web.archive.org/web/20170922154642/http://evolvable.com/), 
+Former President/CEO of [Evolvable Corporation](https://web.archive.org/web/20250000000000*/www.evolvable.com).  [History](https://web.archive.org/web/sitemap/www.evolvable.com/) 
 
 I am a technical leader/owner for two production products in Optum Clinical for:
 1. **Triage** application called "[SympleNote & Symptom Smart](https://optumwa.com/innovations/)", An AI Led Medical Interview with Appointments and level of care recommendation, Medical KB and Differential Diagnosis application that optimizes scheduling appointments and integrates with Epic Mychart using SMART/FHIR and Azure, serving three Care Delivery Organization (CDO) networks in WA, and MA.
