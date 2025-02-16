@@ -37,7 +37,7 @@ AI/ML platform technologies I am familiar with include Huggingface, Transformers
 
 With product engineering and delivery I have led delivery of at least three large AI oriented projects per year since 2018 including notable successes such as 12 IP disclosure submissions with one successful patent covering 32 features for automating prior auth determinations using decision trees and AI, also serving as a patent mentor with 3 Patents in Artificial Intelligence and Clinical Healthcare Process.
 
-**Patent Link**: https://assignment.uspto.gov/patent/index.html#/patent/search/resultAssignment?id=51748-479
+**Patent Link**: PROGRAMMATIC DETERMINATIONS USING DECISION TREES GENERATED FROM RELATIONAL DATABASE ENTRIES: https://assignment.uspto.gov/patent/index.html#/patent/search/resultAssignment?id=51748-479
 
 Years        | Position-Company           |   Notable Achievements & Links
 -------------|----------------------------|-----------------------------------
