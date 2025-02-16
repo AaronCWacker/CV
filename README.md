@@ -4,7 +4,7 @@
 
 # Senior Principal Engineer, Optum Clinical Technology
 
-Over **30 years** experience leading development and architecture as Director of Applications Development, Director of Architecture, and Senior Principal Engineer focusing on AI architecture, design, development, and delivery last 5 years delivering at least 5 major AI apps annually in areas of Assessment, Care Planning, Triage, Behavioral Health, Medical Inpatient, Outpatient, SNF provider recommendation systems for Clinical business and technology.  
+Over **30 years** experience leading development and architecture as Director of Applications Development, Director of Architecture, and Senior Principal Engineer focusing on AI architecture, design, development, and delivery.  Inventor for three healthcare and AI patents and leader for major healthcare apps in clinical areas of Applied AI for Health Care, Assessment, Clinical Terminology, Care Planning, Family Health, Intelligent Triage, Behavioral Health Prior Authorization, Medical Inpatient/Outpatient, Skilled Nursing Recommenders provider recommendation systems for Clinical business and technology.  
 
 I am a technical leader/owner for two production products in Optum Clinical for:
 1. **Triage** application called "[SympleNote & Symptom Smart](https://optumwa.com/innovations/)", An AI Led Medical Interview, Medical KB and Differential Diagnosis AI/NLP application that schedules appointments and integrates with Epic and Mychart using SMART/FHIR and Azure patterns.  This serves three CDO networks in WA, and MA.
@@ -14,7 +14,7 @@ I am a technical leader/owner for two production products in Optum Clinical for:
 As an **AI teacher** on a weekly basis with my AI Zero to Hero course and annual global Hackathon leader, I have helped train over 3000 engineers on using AI for health care.  I've also run Optum's Global Hackathon since 2019-2022 with over 2500 engineers.  My weekly AI Zero to Hero class through **Optum Technology University** taught Generative AI, Streamlit, Python, Gradio, Huggingface Model, Dataset, and Space development.  As a teacher I've achieved a **Net Promoter Score of 97.7% promoters** by helping others learn to build AI apps quickly and comprehensively using the latest AI techniques.
 **
 
-# Overall Skills Assessment for AI (OTU Teacher & Contributor)
+# Overall Skills Assessment for AI - Optum Technology University (OTU) Teacher & Contributor
 1. 🔧 Systems Infrastructure: Hardware, OS, and distributed HPC deployments.  9/10
 2. 💻 Software Cloud MLOps: Cloud infrastructure, ML frameworks, and automation.  8/10
 3. 🤖 Machine Learning AI: Large–scale architectures, distributed training, and inference.  8/10
