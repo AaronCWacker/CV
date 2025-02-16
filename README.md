@@ -140,7 +140,7 @@ Years        | Position-Company           |   Notable Achievements & Links
 # Recent Videos and Presentations Supporting Body of Work:
    Internal (ask)
 
-# NPS Feedback Scores and Comments from AI Mentoring and Coaching sessions including Data Science Guild and AI Zero to Hero presentations and classroom forums.
+# NPS Feedback Scores and Comments from AI Teaching sessions for Data Science Guild, OTU, and AI Zero to Hero classroom forums.
 classid	Score	Additional Question: Why did you attend this training/event?	Do you feel this course/event was effective in meeting the stated learning objectives?	Please share your comments regarding this learning experience: 
 1. 20230323	10	New Skills or Technology	Agree	very interesting!
 2. 20230323	10	New Skills or Technology, Refresh Skills	Strongly Agree	This class is excellent, Aaron provided the necessary tools and now we have to experience the tools and apply them to our ideas.
