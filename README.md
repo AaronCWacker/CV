@@ -25,7 +25,7 @@ As an **AI teacher** with my "AI Zero to Hero" course and annual global Hackatho
 5. 🔒 Security & Compliance: Security operations, compliance, and system hardening.  9/10
 6. 👥 Leadership & Collaboration: Strategic leadership and team management.  9/10
 7. 📱 FullStack UI Mobile: Mobile and web app development with ML integration.  9/10
-8. 🎯 Specialized Domains: Healthcare & Clinical, Behavioral Health, Advanced CV, Robotics, HPC, and AI quantization.  8/10
+8. 🎯 Specialized Domains: Healthcare & Clinical, Behavioral Health, Advanced CV, VR Piloted Robotics and Telepresence, HPC, and AI quantization.  8/10
 9. 📢 Community OpenSource: Community engagement, documentation, and collaboration.  10/10
 
 # Social Links
