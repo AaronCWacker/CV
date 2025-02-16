@@ -43,6 +43,8 @@ With product engineering and delivery I have led delivery of at least three larg
 
 **Patent Link**: PROGRAMMATIC DETERMINATIONS USING DECISION TREES GENERATED FROM RELATIONAL DATABASE ENTRIES: https://assignment.uspto.gov/patent/index.html#/patent/search/resultAssignment?id=51748-479
 
+# Work Experience
+
 Years        | Position-Company           |   Notable Achievements & Links
 -------------|----------------------------|-----------------------------------
 2023 - 2025  | Senior Principal Engineer, UnitedHealth (UNH)  |  Delivery of AI and Azure based healthcare apps including 1. 📊AI💡Service Now, 2. 🗣️AI🤝NPS, 3. GPT-4o📩Doc🗣️💬VoiceChat, 4. AI Claims, 5. AI PHI/PII Detection, 6. AI CI/CD for Product Delivery Acceleration, 7. SympleNote for MA, 8. SymptomSmart for WA OR National, and 9.EasyCheck for CA.
@@ -54,7 +56,7 @@ Years        | Position-Company           |   Notable Achievements & Links
 1995 - 2009  | President/CEO Evolvable Corporation  | S-Corp Entrepreneur in consulting and product development with 8 employees with UnitedHealth, Travelers Express, United Television/Fox, US Bank, Best Buy, Target, A&A, Aon Risk Services and other US clients.
 1994 - 1995  | Intern, UnitedHealth (UNH)     |  QA Test Automation Lead SQA Team Test for Sales Support System SSS
 1989 - 1994  | Consultant, University of Minnesota |  EE/CSCI, Physics, MechE, Aerospace and Walter Laboratories.
-1989 - 1994  | U of MN Bachelors of Independent Studies | Computer Science, Psychology & Japanese pursuing AI, VR, and advanced technologies and learning and perception theory | Philanthropy Chairman and Scholarship Chairman of Chi/Psi, Japanese fluency achieved.      
+1989 - 1994  | U of MN Bachelors of Independent Studies | Computer Science, Psychology & Japanese pursuing AI, VR, and advanced technologies and learning and perception theory | Philanthropy Chairman and Scholarship Chairman of Chi/Psi, Japanese fluency achieved.
 
 # 2024 Update:
 ## 1.  Patents and Innovation
@@ -62,13 +64,13 @@ Years        | Position-Company           |   Notable Achievements & Links
             - U.S. Patent Appl. No. 18/817,704, entitled: “Systems and Methods for Using an Artificial Intelligence (AI) Model to Route Data.”
             - (aka Data Source Recommendation with Cognitive Architecture as Expert System).
             - Presented at Patent Review Board where it was unanimously approved.  I serve as a patent mentor.
-      2. Over 6 months worked with technical and patent attorney team ultimately completing the 51 page final patent submission filed August 28, 2024
-            - For Claims - Led each of the 20 of the Cognitive AI claims describing:
-               1. The problem addressed by the invention
+      2. Leadership and Collaboration with Technical teams, Patent attorneys, General Counsel teams
+            - Intelligent Data Recommender with 20 Cognitive AI claims.
+            - 14 Patent innovation disclosures covering:
+               1. Problem addressed by the invention
                2. How it solves the problem
-               3. How it works in method steps including Definitions, Method Steps, Inputs, Entity Specifications, and Actors and 6 Figures
-                  - Inventors: Aaron Wacker, Sarah Scott, Nithya Sundararajan, Bryan Stearns, Sameer Gotkhindikar, Matthew Versaggi, Sean Oneil
-               4. Served as patent mentor for AI patents for education, instruction, and clinical terminologies.
+               3. How it works in documented method steps including 1. Definitions, 2. Method Steps, 3. Inputs, 4. Entity Specifications, 5. Actors and 6. Figures
+            - Patent mentor on Patent Review Board coaching and guiding creation of AI patent for patient education and instruction with clinical terminologies, controlled vocabularies and ontologies.
 
 ## 2. Mentoring and Teaching AI:
    - Individuals this year in weekly one on ones and also large forum presentations in AI development.
@@ -76,12 +78,11 @@ Years        | Position-Company           |   Notable Achievements & Links
    - Led large scale demonstration and daredevil demonstration sessions of how to create apps using AI pair programming to community of over 3000+ people receiving most video views, replays, and follow ups.
    - Led State of the Art (SOTA) based innovative demo Sessions setting record of 23 app demonstration walkthroughs of AI in an hour demonstrating AI Pair Programming - increasing development speed and quality by 100x:
       - Prompting with Mixture of Experts, Multiagent Systems, and Self Reward from research AI ensembles and pipelines.
-      - Classroom Syllabus of the 23 AI Demos: https://huggingface.co/Prompting-MoE-MaS-SeR
+      - Example Classroom Syllabus of the 23 AI Demos: https://huggingface.co/Prompting-MoE-MaS-SeR
       - https://optum.video.uhc.com/media/DSG%20Demo%20Day-20240724%20-%20Huggingface%20Transformers%20and%2023%20Demonstrations%20of%20AI/1_t3ximdhj
-      - Holder of most in demand / watched sessions and consistently in top 3 presenters throughout DSG.
-   - Weekly one on one mentoring and coaching meetings with AI development engineers, and team meets for individualized learning in AI for a large number of individuals on AI and MLRB knowledge including:
-      - Optum Pro team: Darshan Pathak, Harsh Patel, Brandon Torralba, Abdullah Qayam, Srikanth Vodapalli, Rajib Mondal, Akshay Sharma and more.
-      - EIS: Anne Jackson and team including recurring weekly meetings with individuals delivering new AI apps. (16 people)
+      - Holder of most in demand / watched video sessions.  Consistently in top 3 presenters throughout Data Science Guild (DSG).
+   - Weekly one on one mentor and coach leading meetings with development engineers, and individualized teaching and mentoring in AI at scale.
+      - Collaboration with Optum Pro team, Enterprise Security, and AI app development.
       - Large forum presentations and Talks for AI:
          - UHC Tech Forum: Multiple large sessions on AI in Action and By The Rules for UHC TL&D Days
          - Presented to large forum (Prep 4/3 - 5/1 with trainers, Two day sessions at Learning and Development days covering Onshore and Offshore)
