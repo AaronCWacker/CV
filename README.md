@@ -171,4 +171,5 @@ Score	Additional Question: Why did you attend this training/event?	Do you feel t
 22. 10	New Skills or Technology, Refresh Skills	Strongly Agree	Learned how quickly use hugging face to create AI apps at great speed
 23. 10	Other (just trying to learn more about huggingface)	Strongly Agree	
 
-# Huggingface Organizations and Classrooms: ![image](https://user-images.githubusercontent.com/30595158/229934298-b6924d64-73ac-4b06-87e5-39682b99c3b6.png)
+# Open Source Teaching Organizations and Classrooms on HuggingFace:
+![image](https://github.com/user-attachments/assets/7bccd677-cc37-46e9-9df1-d7c56c310572)
