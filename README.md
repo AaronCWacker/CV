@@ -13,7 +13,7 @@ I am a technical leader/owner for two production products in Optum Clinical for:
 As an **AI teacher** with my "AI Zero to Hero" course and annual global Hackathon leader, I have helped train over 3000 engineers on using AI for health care.  I also ran Optum's Global Hackathon 2019-2022 annual event with 2500+ engineers.  With my weekly AI Zero to Hero class for **Optum Technology University** I have taught Generative AI, Streamlit, Python, Gradio, Huggingface, ML Model Design and Build, Data Engineering, and advanced Python development using AI Pair Programming (AIPP).  As a teacher of AI through my hands on development approach I achieved a **Net Promoter Score of 97.7% promoters** by helping others learn to build AI apps quickly using the latest AI techniques.
 **
 
-# I'm an Expert in the Following Skills for AI Design and Development and an Optum Technology University (OTU) Teacher & Contributor
+# Expert in Skills for AI Design and Development, Optum Technology University (OTU) Teacher & Contributor
 1. 🔧 Systems Infrastructure: Hardware, OS, and distributed HPC deployments.  9/10
 2. 💻 Software Cloud MLOps: Cloud infrastructure, ML frameworks, and automation.  8/10
 3. 🤖 Machine Learning AI: Large–scale architectures, distributed training, and inference.  8/10
