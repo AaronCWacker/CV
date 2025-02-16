@@ -142,8 +142,8 @@ Years        | Position-Company           |   Notable Achievements & Links
    3. Understanding how to appeal to leadership vision at VP/C level leadership level.  Working through MLRB and RUAI on further work and deeper understanding of how to craft and live up to value statements, CBA's and cost optimization through AI CI/CD automation and performance measurement.  
       - Insight on how to present and tell clear quality and efficiency stories with strong CBA's.
 
-# Recent Videos and Presentations Supporting Body of Work:
-   Internal (ask)
+# Videos and Presentations Body of Work:
+   (ask)
 
 # NPS Feedback Scores and Comments from AI Teaching for Data Science Guild, OTU, and AI Zero to Hero classroom forums.
 Score	Additional Question: Why did you attend this training/event?	Do you feel this course/event was effective in meeting the stated learning objectives?	Please share your comments regarding this learning experience: 
