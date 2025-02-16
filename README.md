@@ -9,12 +9,11 @@ Over **30 years** experience leading development and architecture as Director of
 I am a technical leader/owner for two production products in Optum Clinical for:
 1. **Triage** application called "[SympleNote & Symptom Smart](https://optumwa.com/innovations/)", An AI Led Medical Interview, Medical KB and Differential Diagnosis AI/NLP application that schedules appointments and integrates with Epic and Mychart using SMART/FHIR and Azure patterns.  This serves three CDO networks in WA, and MA.
 2. **Patient Check In** application called "[EasyCheck](https://easycheck-ca.optum.com/)" is an AI IVR/SMS integrated application to optimize patient check in process EMR integrated health care appointment check in application in U.S. care delivery organizations (CDOs).  This serves over 400 locations in state of CA with over 48k appts per month.
-3. Nearly every review since 2010, I have scored **5/5 exceeding expectations** for review scores.
 
-As an **AI teacher** on a weekly basis with my AI Zero to Hero course and annual global Hackathon leader, I have helped train over 3000 engineers on using AI for health care.  I've also run Optum's Global Hackathon since 2019-2022 with over 2500 engineers.  My weekly AI Zero to Hero class through **Optum Technology University** taught Generative AI, Streamlit, Python, Gradio, Huggingface Model, Dataset, and Space development.  As a teacher I've achieved a **Net Promoter Score of 97.7% promoters** by helping others learn to build AI apps quickly and comprehensively using the latest AI techniques.
+As an **AI teacher** with my "AI Zero to Hero" course and annual global Hackathon leader, I have helped train over 3000 engineers on using AI for health care.  I also ran Optum's Global Hackathon 2019-2022 annual event with 2500+ engineers.  With my weekly AI Zero to Hero class for **Optum Technology University** I have taught Generative AI, Streamlit, Python, Gradio, Huggingface, ML Model Design and Build, Data Engineering, and advanced Python development using AI Pair Programming (AIPP).  As a teacher of AI through my hands on development approach I achieved a **Net Promoter Score of 97.7% promoters** by helping others learn to build AI apps quickly using the latest AI techniques.
 **
 
-# Overall Skills Assessment for AI - Optum Technology University (OTU) Teacher & Contributor
+# I'm an Expert in the Following Skills for AI Design and Development and an Optum Technology University (OTU) Teacher & Contributor
 1. 🔧 Systems Infrastructure: Hardware, OS, and distributed HPC deployments.  9/10
 2. 💻 Software Cloud MLOps: Cloud infrastructure, ML frameworks, and automation.  8/10
 3. 🤖 Machine Learning AI: Large–scale architectures, distributed training, and inference.  8/10
