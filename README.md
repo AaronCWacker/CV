@@ -26,6 +26,7 @@ As an **AI teacher** with my "AI Zero to Hero" course and annual global Hackatho
 
 # Social Links
 - **HuggingFace**: https://huggingface.co/awacke1
+- **LinkedIn**: https://www.linkedin.com/in/aaron-wacker-1823885/
 - **Github**: https://github.com/AaronCWacker/   Arctic Code Vault contributor for Machine Learning: https://github.com/AaronCWacker?achievement=arctic-code-vault-contributor&tab=achievements
 - **Research Interests**: AGI and ML Pipelines, Ambient IoT AI, Behavior Cognitive and Memory AI, Clinical Medical and Nursing AI, Genomics AI, GAN Gaming GAIL AR VR XR and Simulation AI, Graph Ontology KR KE AI, Languages and NLP AI, Quantum Compute GPU TPU NPU AI, Vision Image Document and Audio/Video AI, RLHF, InstructGPT, GPT4, Human Feedback Systems and Datasets
 
