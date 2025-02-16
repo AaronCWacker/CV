@@ -87,10 +87,10 @@ Years        | Position-Company           |   Notable Achievements & Links
          - UHC Tech Forum: Multiple large sessions on AI in Action and By The Rules for UHC TL&D Days
          - Presented to large forum (Prep 4/3 - 5/1 with trainers, Two day sessions at Learning and Development days covering Onshore and Offshore)
          - ACC Champions - Large forum presentation
-         - Cohosted Mentor Spotlight with Tamara Sipes for Education and Mentorship - Career Stories
-         - TLCP and AI Mentorship of individuals, Presentation for all TLCP on Patent Review Board and Machine Learning Review Board advice.
-         - Leading lessons OTU - Learning and Development: Topics: Social Learning Influencer roles, Collaborator Role and Offering Domains of AI & Data Science, Cloud, Cybersecurity, Data Engineering
-    - NPS Promoter Feedback verbatims from last few large forum sessions:
+         - Cohosted Mentor Spotlight for Education and Mentorship - Career Stories
+         - TLCP and AI Mentorship and group Presentations for TLCP on Patent Review Board, Innovation Disclosure and State of the Art (SOTA) Machine Learning.
+         - Leading Lessons OTU - AI, Leadership Learning and Development for Teaching Tracts: Social Learning Influencer, Collaborator Role, Domains of AI & Data Science, Cloud, Cybersecurity, and Data Engineering
+    - NPS Promoter Feedback sample verbatims from large forum classes and sessions:
          - Excellent tour of the latest greatest in AI through all your work you've created on HuggingFace (followed) Thankyou Aaron! 
          - Awesome as always!
          - Thankyou very much, Aaron!  You introduced latest AI capabilities in many aspects.  It is Really helpful.
@@ -101,7 +101,7 @@ Years        | Position-Company           |   Notable Achievements & Links
          - You making me want to figure out how to make VSCode for my work computer
          - Awesome presentation as always
          - Excellent technical skills and wonderful presentation! Thank you very much.
-         - Aaron - We love your passion for technology.  Thank you for sharing all the amazing things.  You are a genius ((no wonder an amazing inventor & a patent mentor).  Thank you for all you do.
+         - Aaron - We love your passion for technology.  Thank you for sharing all the amazing things.  You are a genius (no wonder an amazing inventor & a patent mentor).  Thank you for all you do.
          - Thank you Wacker, Aaron C - I find your demo very detailed and easy to try out. Thanks a lot
          - Thank you very much for another fantastic presentation and discussion.
 
