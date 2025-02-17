@@ -61,7 +61,7 @@ flowchart TD
     T3D -->|Generates Unconventional Forms ✨| GE
 ```
 
-# AI Pipeline for Multi-modal Agents
+# 2. AI Pipeline for Multi-modal Agents
 ```mermaid
 flowchart TD
     %% Nodes (redeclared for completeness)
@@ -131,7 +131,7 @@ flowchart TD
 ```
 
 
-# Omni Modal MoE Models Representing different Areas of the Brain per DRE
+# 3. Omni Modal MoE Models Representing different Areas of the Brain per DRE
 ```mermaid
 flowchart TD
     %% Nodes
@@ -241,7 +241,7 @@ flowchart TD
 ```
 
 
-# MoE Skill Tree for AI/ML ASI Technology
+# 4. MoE Skill Tree for AI/ML ASI Technology
 
 
 | Number | **Company & Focus** | **Company & Focus** |
@@ -259,3 +259,67 @@ flowchart TD
 8. Cloud platforms.  Top 3 in order for ML:  1. Azure, 2. AWS, 3. GCP
 9. Linux/OS/MLOps.  Dockerfile to spin up replica instances.  Making it easy is SOTA.
 10. 3D Computer Vision.
+
+# 5. Asynchronous High Performance Compute (HPC) Patterns
+```mermaid
+flowchart TD
+    %% Central theme
+    A["Asynchronous<br>High-Performance<br>Patterns"]
+        %% HPC and MPI-based technologies
+        --> B["MPI4Dask / UCX /<br>MVAPICH2-GDR /<br>OMB-Py Benchmarks"]
+
+    %% HPC clusters and GPU/FPGA/Neuromorphic
+    B --> C["GPU-Accelerated HPC<br>(CUDA, FPGA, Neuromorphic,<br>SYCL-DNN, Dragon-Alpha)"]
+    C --> D["Core HPC Patterns:<br>AllReduce, GPU-Aware<br>Communication, Low-Latency IO"]
+
+    %% Python-based async & dataflow
+    A --> E["Async Python &<br>Web-Scale Frameworks"]
+    E --> F["Dask & Distributed<br>Futures (MPI4Dask,<br>UCX-Py, HPC)"]
+    F --> G["TensAIR /<br>FFCV /<br>VDMS-Async"]
+
+    %% Large-scale inference & cluster mgmt
+    E --> H["High-Throughput Web<br>Inference: JIZHI,<br>Model-as-a-Service"]
+    H --> I["Dynamic Scheduling,<br>Load Balancing,<br>K8s-like HPC Orchestration"]
+
+    %% Parallel + Decentralized learning
+    A --> J["Parallel /<br>Decentralized Learning"]
+    J --> K["BlueFog (Decentralized),<br>POLO (Optimization),<br>Parallel RL Actors"]
+    K --> L["Policy-based Parallel<br>Optimization & Communication<br>(Replay Buffers, etc.)"]
+
+    %% IoT, Edge, and hardware-software synergy
+    A --> M["IoT, Edge, &<br>Device-Cloud ML"]
+    M --> N["SamurAI IoT Node<br>(Event-driven wake-up,<br>Embedded ML)"]
+    N --> O["Walle End-to-End<br>Device-Cloud System"]
+    O --> P["Scheduling & Pipeline<br>for Hybrid Edge/HPC Workloads"]
+
+    %% Additional specialized frameworks
+    A --> Q["DeepSpark &<br>Caffe HPC (GPI-2)"]
+    Q --> R["Distributed DNN<br>Training /<br>Dataflow /<br>Synchronization"]
+
+    %% Neuromorphic multi-core + HPC correctness
+    A --> S["Neuromorphic /<br>Multi-Core Asynch"]
+    S --> T["Asynchronous Routing,<br>Arbitration,<br>Core Interface Optimization"]
+    T --> U["Resources / CAM Memory /<br>Event-Driven SNNs"]
+
+    %% Formal proof and visual programming
+    A --> V["Developer Tools"]
+    V --> W["Isabelle/jEdit (PIDE)<br>Prover Integration"]
+    V --> X["ROS & VPL<br>(Visual Programming)<br>for Robot HPC Education"]
+
+    %% HPC synergy arrows to show cross-connection
+    B -->|Accelerates / Offloads| F
+    F -->|Async| K
+    K -->|Distributed HPC Patterns| D
+    Q -->|Parallel HPC synergy| D
+    Q -->|Spark bridging| F
+    H -->|Dynamic HPC clusters| I
+    I -->|Feeds| D
+    N -->|IoT Edge data| O
+    O -->|Hybrid scaling| D
+    S -->|Novel HPC hardware| D
+
+    %% Summaries or final synergy points
+    D --> Y["Intelligent<br>Dynamic Clusters"]
+    Y --> Z["State-of-the-Art<br>Async HPC Web Scaling"]
+```
+
