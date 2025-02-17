@@ -41,7 +41,6 @@ AI/ML platform technologies I am familiar with include Huggingface, Transformers
 
 With product engineering and delivery I have led delivery of at least three large AI oriented projects per year since 2018 including notable successes such as 12 IP disclosure submissions with one successful patent covering 32 features for automating prior auth determinations using decision trees and AI, also serving as a patent mentor with 3 Patents in Artificial Intelligence and Clinical Healthcare Process.
 
-**Patent Link**: PROGRAMMATIC DETERMINATIONS USING DECISION TREES GENERATED FROM RELATIONAL DATABASE ENTRIES: https://assignment.uspto.gov/patent/index.html#/patent/search/resultAssignment?id=51748-479
 
 # Work Experience
 
@@ -60,13 +59,14 @@ Years        | Position-Company           |   Notable Achievements & Links
 
 # 2024 Update:
 ## 1.  Patents and Innovation
-      1. Wrote patent disclosure for **Intelligent Data Recommender for Data Source Recommendation with Cognitive Architecture as Expert System**  and led development of a Cognitive AI Intelligent Dataset Ordering tool to optimize data acquisition process which completed in 2024.
+      1. Patent: **Intelligent Data Recommender for Data Source Recommendation with Cognitive Architecture as Expert System**  and led development of a Cognitive AI Intelligent Dataset Ordering tool to optimize data acquisition process which completed in 2024.
             - U.S. Patent Appl. No. 18/817,704, entitled: “Systems and Methods for Using an Artificial Intelligence (AI) Model to Route Data.”
             - (aka Data Source Recommendation with Cognitive Architecture as Expert System).
             - Presented at Patent Review Board where it was unanimously approved.  I serve as a patent mentor.
-      2. Leadership and Collaboration with Technical teams, Patent attorneys, General Counsel teams
             - Intelligent Data Recommender with 20 Cognitive AI claims.
-            - 14 Patent innovation disclosures covering:
+      2. Patent: **PROGRAMMATIC DETERMINATIONS USING DECISION TREES GENERATED FROM RELATIONAL DATABASE ENTRIES**: https://assignment.uspto.gov/patent/index.html#/patent/search/resultAssignment?id=51748-479
+      3. Patent: **MACHINE-LEARNED MODEL ARCHITECTURE FOR GENERATING INDIVIDUAL-SPECIFIC INSTRUCTIONS**
+      4. 14 Total Innovation Disclosures / Patent Submissions Covering:
                1. Problem addressed by the invention
                2. How it solves the problem
                3. How it works in documented method steps including 1. Definitions, 2. Method Steps, 3. Inputs, 4. Entity Specifications, 5. Actors and 6. Figures
