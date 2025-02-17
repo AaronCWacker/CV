@@ -89,7 +89,10 @@ Nineteen icons of iconic performance and sleek dynamism, driving high-impact, me
 💵 Twenty Dollar Bill
 Twenty tokens of tangible value, linking economic symbolism with enduring recall.
 
-# 2. First to the Key, First to the Egg
+
+
+
+# First to the Key, First to the Egg
 
 # 🖼 Picture Mnemonic Outline: Expanded Image Generation Prompts
 
@@ -102,6 +105,15 @@ Twenty tokens of tangible value, linking economic symbolism with enduring recall
 
 - **Triadic Insight 🌟:**  
   Imagine the lighthouse as a three-fold symbol: the pain of uncertainty, the joy of newfound direction, and the superhero power of enlightened vision. Each facet of its design represents a critical element in the mnemonic system, echoing the principles of understanding, alleviating challenges, and empowering breakthroughs. The composition serves as a robust metaphor for strategic clarity.
+
+# Krea
+![image](https://github.com/user-attachments/assets/6b6e28b4-eafc-42b8-8063-3ba42ca8be6c)
+
+# Magnific
+
+# Midjourney
+![image](https://github.com/user-attachments/assets/dec1d0df-4663-471e-8bc4-c4d14aeca12d)
+
 
 ---
 
