@@ -269,12 +269,12 @@ flowchart TD
         --> B["MPI4Dask / UCX /<br>MVAPICH2-GDR /<br>OMB-Py Benchmarks"]
 
     %% HPC clusters and GPU/FPGA/Neuromorphic
-    B --> C["GPU-Accelerated HPC<br>(CUDA, FPGA, Neuromorphic,<br>SYCL-DNN, Dragon-Alpha)"]
+    B --> C["GPU-Accelerated HPC<br>CUDA, FPGA, Neuromorphic,<br>SYCL-DNN, Dragon-Alpha"]
     C --> D["Core HPC Patterns:<br>AllReduce, GPU-Aware<br>Communication, Low-Latency IO"]
 
     %% Python-based async & dataflow
     A --> E["Async Python &<br>Web-Scale Frameworks"]
-    E --> F["Dask & Distributed<br>Futures (MPI4Dask,<br>UCX-Py, HPC)"]
+    E --> F["Dask & Distributed<br>Futures MPI4Dask,<br>UCX-Py, HPC"]
     F --> G["TensAIR /<br>FFCV /<br>VDMS-Async"]
 
     %% Large-scale inference & cluster mgmt
@@ -283,12 +283,12 @@ flowchart TD
 
     %% Parallel + Decentralized learning
     A --> J["Parallel /<br>Decentralized Learning"]
-    J --> K["BlueFog (Decentralized),<br>POLO (Optimization),<br>Parallel RL Actors"]
-    K --> L["Policy-based Parallel<br>Optimization & Communication<br>(Replay Buffers, etc.)"]
+    J --> K["BlueFog Decentralized,<br>POLO Optimization,<br>Parallel RL Actors"]
+    K --> L["Policy-based Parallel<br>Optimization & Communication<br>Replay Buffers, etc."]
 
     %% IoT, Edge, and hardware-software synergy
     A --> M["IoT, Edge, &<br>Device-Cloud ML"]
-    M --> N["SamurAI IoT Node<br>(Event-driven wake-up,<br>Embedded ML)"]
+    M --> N["SamurAI IoT Node<br>Event-driven wake-up,<br>Embedded ML"]
     N --> O["Walle End-to-End<br>Device-Cloud System"]
     O --> P["Scheduling & Pipeline<br>for Hybrid Edge/HPC Workloads"]
 
@@ -303,8 +303,8 @@ flowchart TD
 
     %% Formal proof and visual programming
     A --> V["Developer Tools"]
-    V --> W["Isabelle/jEdit (PIDE)<br>Prover Integration"]
-    V --> X["ROS & VPL<br>(Visual Programming)<br>for Robot HPC Education"]
+    V --> W["Isabelle/jEdit PIDE<br>Prover Integration"]
+    V --> X["ROS & VPL<br>Visual Programming<br>for Robot HPC Education"]
 
     %% HPC synergy arrows to show cross-connection
     B -->|Accelerates / Offloads| F
