@@ -1076,7 +1076,7 @@ graph TD;
     A[Traditional AI Models 🤖] -->|Low Inference Compute ⚡| B[Fast Response Times];
     A -->|High Training Compute 🏗️| C[Heavy Pretraining Cost];
 
-    D[Reasoning Models (R1, O1) 🧠] -->|High Inference Compute 🔥| E[Deep Logical Processing];
+    D[Reasoning Models R1, O1 🧠] -->|High Inference Compute 🔥| E[Deep Logical Processing];
     D -->|Balanced Training & Inference 📊| F[More Complex Problem Solving];
 
     C -->|Shift Toward Reasoning AI 🚀| D;
