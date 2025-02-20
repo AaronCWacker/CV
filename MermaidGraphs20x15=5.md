@@ -1119,7 +1119,7 @@ graph TD;
     D[ARC-AGI Benchmark 🧠] -->|No Training Data 🚫| E[Tests Raw Intelligence];
     E -->|Humans Score ~85% ✅| F[AIs Score ~30% ❌];
 
-    G[OpenAI O3 🏗️] -->|1,000 Queries per Task 📊| H[Expensive Reasoning ($5-$20 per query) 💰];
+    G[OpenAI O3 🏗️] -->|1,000 Queries per Task 📊| H[Expensive Reasoning 5-20 USD per query 💰];
     H -->|AI Still Struggles on ARC Tasks 🚀| I[Need for More Efficient AGI];
 ```
 
