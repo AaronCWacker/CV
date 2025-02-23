@@ -46,7 +46,7 @@ With product engineering and delivery I have led delivery of at least three larg
 
 Years        | Position-Company           |   Notable Achievements & Links
 -------------|----------------------------|-----------------------------------
-2023 - 2025  | Senior Principal Engineer, UnitedHealth (UNH)  |  Delivery of AI and Azure based healthcare apps including 1. 📊AI💡Service Now, 2. 🗣️AI🤝NPS, 3. GPT-4o📩Doc🗣️💬VoiceChat, 4. AI Claims, 5. AI PHI/PII Detection, 6. AI CI/CD for Product Delivery Acceleration, 7. SympleNote for MA, 8. SymptomSmart for WA OR National, and 9.EasyCheck for CA.
+2023 - 2025  | Senior Principal Engineer, UnitedHealth (UNH)  |  Delivery of AI and Azure based healthcare apps including 1. 📊AI💡ServiceNow, 2. 🗣️AI🤝NPS, 3. GPT-4Omni 📩Doc🗣️💬VoiceChat, 4. AI PHI/PII Detection with MS Presidio NER, 5. SympleNote / Symptom Smart Expansion, 6.EasyCheck Patient Check In.
 2020 - 2023  | Senior Principal Engineer, UnitedHealth (UNH)  |  Delivery of AI Assessment, AI Care Plan, Intelligent Data Recommender, Intelligent Nurse Triage, Ontology Manager, SympleNote for MA, SymptomSmart for WA, EasyCheck for CA.
 2017 - 2020  | Senior Principal Engineer, UnitedHealth (UNH)  |  Accredited as **Senior Principal Engineer (Technical Leader Career Path)**, Led development of 4 solutions within Clinical division and was first to use AI and ML for provider recommendation, approval automation for prior authorization, and clinical recommendation systems.
 2016 - 2017  | Director Architecture, UnitedHealth (UNH)      |  Completed 4 Year contract leading development for UHC Military and Veterans, and Director of Clinical Architecture with a **team of 14** reporting to VP Clinical Technology.
