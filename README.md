@@ -9,7 +9,7 @@
 
 Over **36 years** experience leading development and architecture.  Past 10 years as Director of Applications Development, Director of Clinical Architecture, and Senior Principal Engineer focusing on AI/ML architecture, design, development, and delivery of HPC and cloud applications for health care.  
 
-Inventor of three healthcare solutions with patents in field of AI.  Hands on development leader for major healthcare apps in clinical areas of Applied AI for Health Care, Assessment, NER of Clinical Terminology, Care Planning, Family Health, Intelligent Triage, Behavioral Health Prior Authorization, Medical Inpatient/Outpatient Charts and SMART/FHIR EMR Apps, Skilled Nursing Facility Recommendation, and Provider matchmaking, appointment and recommendation systems for Clinical business and technology.  Analytics Leader and Technology Owner for AI/ML Apps at scale.  
+Inventor of three healthcare solutions with patents in field of AI.  Hands on development leader for major healthcare apps in clinical areas of applied AI for Health Care, Assessment, NER of Clinical Terminology, Care Planning, Family Health, Intelligent Triage, Behavioral Health Prior Authorization, Medical Inpatient/Outpatient Charts and SMART/FHIR EMR Apps, Skilled Nursing Facility Recommendation, and Provider matchmaking, appointment and recommendation systems for Clinical business and technology.  Analytics Leader and Technology Owner for AI/ML Apps at scale.  
 
 Former President/CEO of [Evolvable Corporation](https://web.archive.org/web/20250000000000*/www.evolvable.com).  [History](https://web.archive.org/web/sitemap/www.evolvable.com/) 
 
@@ -66,7 +66,6 @@ Years        | Position-Company           |   Notable Achievements & Links
 1989 - 1994  | Consultant, University of Minnesota |  EE/CSCI, Physics, MechE, Aerospace and Walter Laboratories.
 1989 - 1994  | U of MN Bachelors of Independent Studies | Computer Science, Psychology & Japanese pursuing AI, VR, and advanced technologies with learning, perception, and memory theory | Philanthropy Chairman and Scholarship Chairman of Chi/Psi, Japanese fluency achieved.
 
-# 2024 Update:
 ## 1.  Patents and Innovation
       1. Patent: **Intelligent Data Recommender for Data Source Recommendation with Cognitive Architecture as Expert System**  and led development of a Cognitive AI Intelligent Dataset Ordering tool to optimize data acquisition process which completed in 2024.
             - U.S. Patent Appl. No. 18/817,704, entitled: “Systems and Methods for Using an Artificial Intelligence (AI) Model to Route Data.”
