@@ -21,10 +21,10 @@ As an **AI teacher** with my "AI Zero to Hero" course and annual global Hackatho
 **
 
 # Expert Skills in AI Design and Development, Optum Technology University (OTU) Teacher & Contributor:
-1. 🔧 Systems Infrastructure: Hardware, OS, and distributed HPC deployments.  9/10
-2. 💻 Software Cloud MLOps: Cloud infrastructure, ML frameworks, and automation.  8/10
-3. 🤖 Machine Learning AI: Large–scale architectures, distributed training, and inference.  8/10
-4. 📊 Data Engineering: Data processing, analytics, and governance.  10/10
+1. 🔧 Systems Infrastructure: Hardware, OS, and cloud HPC deployments using GPU, CUDA, Python, RL, and M-LLMs for ML training and inference.
+2. 💻 Software Cloud MLOps: Cloud infrastructure, ML frameworks, and automation using MS Azure, GCP, AWS, HuggingFace, and Github.
+3. 🤖 Machine Learning AI: Large–scale architectures, distributed training, and inference using torch, transformers, streamlit and gradio.
+4. 📊 Data Engineering: Data processing, analytics, and governance using Azure CosmosDB, pandas, arrow, 
 5. 🔒 Security & Compliance: Security operations, compliance, and system hardening.  9/10
 6. 👥 Leadership & Collaboration: Strategic leadership and team management.  9/10
 7. 📱 FullStack UI Mobile: Mobile and web app development with ML integration.  9/10
