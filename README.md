@@ -9,7 +9,7 @@
 
 Over **36 years** experience leading development and architecture.  Past 10 years as Director of Applications Development, Director of Clinical Architecture, and Senior Principal Engineer focusing on AI/ML architecture, design, development, and delivery of HPC and cloud applications for health care.  
 
-Inventor of three healthcare solutions with patents in field of AI.  Hands on development leader for major healthcare apps in clinical areas of Applied AI for Health Care, Assessment, NER of Clinical Terminology, Care Planning, Family Health, Intelligent Triage, Behavioral Health Prior Authorization, Medical Inpatient/Outpatient, Skilled Nursing Facility Recommendation, and provider matchmaking and recommendation systems for Clinical business and technology.  
+Inventor of three healthcare solutions with patents in field of AI.  Hands on development leader for major healthcare apps in clinical areas of Applied AI for Health Care, Assessment, NER of Clinical Terminology, Care Planning, Family Health, Intelligent Triage, Behavioral Health Prior Authorization, Medical Inpatient/Outpatient Charts and SMART/FHIR EMR Apps, Skilled Nursing Facility Recommendation, and Provider matchmaking, appointment and recommendation systems for Clinical business and technology.  Analytics Leader and Technology Owner for Apps at scale.  
 
 Former President/CEO of [Evolvable Corporation](https://web.archive.org/web/20250000000000*/www.evolvable.com).  [History](https://web.archive.org/web/sitemap/www.evolvable.com/) 
 
