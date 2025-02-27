@@ -5,7 +5,7 @@
 | ![image](https://github.com/AaronCWacker/CV/assets/30595158/64e3dbd7-6921-478b-9917-b52a82bb7a7c) | ![image](https://github.com/user-attachments/assets/15ad671c-816c-4b32-b2e8-4aede0a32491)     | ![image](https://github.com/user-attachments/assets/94736117-d4c9-4613-a248-b849519a8fc5)
  |
 
-# Senior Principal Engineer, Optum Clinical Technology
+# Senior Principal Engineer
 
 Over **36 years** experience leading development and architecture.  Past 10 years as Director of Applications Development, Director of Clinical Architecture, and Senior Principal Engineer focusing on AI/ML architecture, design, development, and delivery of HPC and cloud applications for health care.  
 
@@ -13,9 +13,9 @@ Inventor of three healthcare solutions with patents in field of AI.  Hands on de
 
 Former President/CEO of [Evolvable Corporation](https://web.archive.org/web/20250000000000*/www.evolvable.com).  [History](https://web.archive.org/web/sitemap/www.evolvable.com/) 
 
-I am a technical leader/owner for two Optum products:
-1. **Triage** application "[SympleNote & Symptom Smart](https://optumwa.com/innovations/)", An AI Led Medical Interview with Appointments and level of care recommendation, Medical KB and Differential Diagnosis application that optimizes scheduling appointments and integrates with Epic Mychart using SMART/FHIR and Azure, serving three Care Delivery Organization (CDO) networks in WA, and MA.
-2. **Patient Check In** kiosk, mobile and conversational application called "[EasyCheck](https://easycheck-ca.optum.com/)", an intelligent bot application with Mobile app, Web, IVR and SMS capabilities.  EMR integrated mobile app optimizes patient check in process using EMR integrated health care appointment notification and management of check in information.  Used by CA, and serves location checkin intake for over 400 locations and over 48k patient appointments per month.
+I am a technical leader and owner for two assistive AI/ML products for patients and providers:
+1. **"[SympleNote & Symptom Smart](https://optumwa.com/innovations/)" - AI led medical interview and differential diagnosis** application , An AI Led Medical Interview with Appointments and level of care recommendation, Medical KB and Differential Diagnosis application that optimizes scheduling appointments and integrates with Epic Mychart using SMART/FHIR and Azure, serving three Care Delivery Organization (CDO) networks in WA, and MA.
+2. **"[EasyCheck](https://easycheck-ca.optum.com/)" - Patient Check In** kiosk, mobile and conversational application called , an intelligent bot application with Mobile app, Web, IVR and SMS capabilities.  EMR integrated mobile app optimizes patient check in process using EMR integrated health care appointment notification and management of check in information.  Used by CA, and serves location checkin intake for over 400 locations and over 48k patient appointments per month.
 
 As an **AI teacher** with my "AI Zero to Hero" course and annual global Hackathon leader, I have helped train over 3000 engineers on using AI for health care.  I also ran Optum's Global Hackathon 2019-2022 annual event with 2500+ engineers.  With my weekly AI Zero to Hero class for **Optum Technology University** I have taught Generative AI, Streamlit, Python, Gradio, Huggingface, ML Model Design and Build, Data Engineering, and advanced Python development using AI Pair Programming (AIPP).  As a teacher of AI through my hands on development approach I achieved a **Net Promoter Score (NPS) - 97.7% Promoters** by helping others learn to build AI apps quickly using the latest AI techniques.
 **
