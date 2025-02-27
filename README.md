@@ -6,7 +6,7 @@
 
 # Senior Principal Engineer, Optum Clinical Technology
 
-Over **36 years** experience leading development and architecture.  Past 10 years as Director of Applications Development, Director of Architecture, and Senior Principal Engineer focusing on AI architecture, design, development, and delivery.  
+Over **36 years** experience leading development and architecture.  Past 10 years as Director of Applications Development, Director of Clinical Architecture, and Senior Principal Engineer focusing on AI/ML architecture, design, development, and delivery of HPC and cloud applications for health care.  
 
 Inventor of three healthcare solutions with patents in field of AI.  Hands on development leader for major healthcare apps in clinical areas of Applied AI for Health Care, Assessment, NER of Clinical Terminology, Care Planning, Family Health, Intelligent Triage, Behavioral Health Prior Authorization, Medical Inpatient/Outpatient, Skilled Nursing Facility Recommendation, and provider matchmaking and recommendation systems for Clinical business and technology.  
 
