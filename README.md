@@ -44,6 +44,12 @@ AI/ML platform technologies I am familiar with include Huggingface, Transformers
 
 With product engineering and delivery I have led delivery of at least three large AI oriented projects per year since 2018 including notable successes such as 12 IP disclosure submissions with one successful patent covering 32 features for automating prior auth determinations using decision trees and AI, also serving as a patent mentor with 3 Patents in Artificial Intelligence and Clinical Healthcare Process.
 
+# Notable ML Models & AI Solution Development:
+1. In 2018 I led a team to create and deliver a SNF predictor in ICUE application with >60k users.  Completed in 30 days.
+2. In 2019 I helped design and develop python AIML based Outpatient ML model.  Completed auto approval automation for OP prior authorization decisions.
+3. In 2020-2022 I developed AIIP, an Inpatient chart educated ML pipeline that reads large PDF charts (200+ pages), and Inpatient prior authorization case history assisting Medical Director Review process.
+4. In 2020-2024 I developed multiple AI/ML pipelines using Docker, Azure, ACAE, ACR, Kubernetes, Github and KEDA developing over 6 apps per year.
+5. In 2025 I am designing and developing ML models for Inpatient using DistillKit, MergeKit, Spectrum, torch, transformers, python, Azure, CosmosDB NoSQL, streamlit, gradio, and Docker.
 
 # Work Experience
 
