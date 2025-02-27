@@ -1,5 +1,10 @@
 # Aaron Wacker - Curriculum Vitae (CV)
 
+| Badges of Recognition - Optum / UHG - Leadership and Collaboration AI/ML Teaching and Invention |                                                                                               |
+|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/15ad671c-816c-4b32-b2e8-4aede0a32491)     | ![image](https://github.com/AaronCWacker/CV/assets/30595158/64e3dbd7-6921-478b-9917-b52a82bb7a7c) |
+
+
 Badges of Recognition - Optum / UHG - Leadership and Collaboration AI/ML Teaching and Invention
 ![image](https://github.com/user-attachments/assets/15ad671c-816c-4b32-b2e8-4aede0a32491)
 
