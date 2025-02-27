@@ -21,8 +21,8 @@ As an **AI teacher** with my "AI Zero to Hero" course and annual global Hackatho
 **
 
 # Expert Skills in AI Design and Development, Optum Technology University (OTU) Teacher & Contributor:
-1. 🔧 Systems Infrastructure: Hardware, OS, and cloud HPC deployments using GPU, CUDA, Python, RL, and M-LLMs for ML training and inference.  Automated triage, workflow design and integration with ServiceNow and Qualtrics for customer evals.
-2. 💻 Software Cloud Dev & MLOps: Cloud infrastructure, ML frameworks, and automation using MS Azure, GCP, AWS, HuggingFace, and Github, Deep Research and Reasoning pipeline development.  Azure ACR, ACAE, Cosmos, App Insights, Kubernetes, KEDA, DAPR, Docker.
+1. 🔧 Systems Infrastructure & IaaS: Hardware, OS, and cloud HPC deployments using GPU, CUDA, Python, RL, and M-LLMs for ML training and inference.  Automated triage, workflow design and integration with ServiceNow and Qualtrics for customer evals.
+2. 💻 Software Cloud Engineering & MLOps: Cloud infrastructure, ML frameworks, and automation using MS Azure, GCP, AWS, HuggingFace, and Github, Deep Research and Reasoning pipeline development.  Azure ACR, ACAE, Cosmos, App Insights, Kubernetes, KEDA, DAPR, Docker.
 3. 🤖 Machine Learning AI: Large–scale architectures, distributed training, and inference using torch, transformers, tensorflow, RLHF, reward and regret modeling and evals, performance metrics, transformers, RAG and diffusers, streamlit and gradio.
 4. 📊 Data & Knowledge Engineering: Data processing, analytics, and governance using Azure CosmosDB, vector search, pandas, arrow, warehousing, BI tools, Airflow, Spark, Kafka, python async IO, visualization, anomaly detection and streaming.
 5. 🔒 Security & Compliance: Security operations, compliance, and system hardening, attack detection, simulation, python automation, incident response, AI ServiceNow Incidents and Problems, risk assessment, vulnerability mgmt, security architecture for ML, privacy and compliance.
