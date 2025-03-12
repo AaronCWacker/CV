@@ -6,6 +6,7 @@
 # Systems Infrastructure Low Level Engineering
 
 ```mermaid
+```mermaid
 graph TB
     R[Systems Infrastructure<br>Low-Level Engineering]
 
@@ -21,7 +22,7 @@ graph TB
     subgraph "HPC Setup"
         R --> HS[🖥️ HPC Setup]
         HS --> S15[🖥️ **HPC** or large-batch<br>evaluations]
-        S15 --> S11[🖥️ GPU cluster configuration<br>and job **scheduling**]
+        HS --> S11[🖥️ GPU cluster configuration<br>and job **scheduling**]
         S11 --> S12[🖥️ **HPC** provisioning and<br>GPU cluster orchestration]
         S12 --> S13[🖥️ **HPC** training pipeline<br>and multi-GPU scheduling]
         S13 --> S14[🖥️ **HPC** scheduling and<br>multi-node debugging]
@@ -30,7 +31,7 @@ graph TB
     subgraph "HPC Advanced"
         R --> HA[📈 HPC Adv]
         HA --> S16[🖥️ Hybrid on-premise and<br>cloud **HPC** setups]
-        HA --> S17[🖧 Large-scale **distributed**<br>computing and HPC performance]
+        S16 --> S17[🖧 Large-scale **distributed**<br>computing and HPC performance]
         S17 --> S21[🖥️ Overseeing **HPC** infrastructure<br>for RL reasoning tasks]
         S21 --> S22[⚙️ **Performance** modeling for<br>large GPU fleets]
         S22 --> S24[💻 Python Cplusplus **tooling**<br>for robust model tests]
