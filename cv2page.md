@@ -5,115 +5,65 @@
 
 # Systems Infrastructure Low Level Engineering
 ```mermaid
-graph LR
-    R[🔧 Systems Infrastructure<br>Low-Level Engineering]
+graph TB
+    R[🔧 Systems Infra<br>Low-Level Eng]
 
-    %% Subgraph for Distributed Systems
-    subgraph Distributed Systems
-        R --> SILE26[🔧🔧 Building & optimizing<br>distributed backend]
-        R --> SILE27[🔧🔧 Distributed system<br>debugging & optimization]
-        R --> SILE31[🔧🔧 Load balancing &<br>high-availability]
-        R --> SILE37[🔧🔧 Distributed systems<br>design & scalability]
-        R --> S28[🔧 Distributed system<br>design & MLOps]
-    end
+    %% Chain 1: Distributed Systems
+    R --> DS[🔧 Distributed Systems]
+    DS --> SILE26[🔧🔧 Build & optimize<br>distributed backend]
+    DS --> SILE27[🔧🔧 Debug & optimize<br>distributed systems]
+    DS --> SILE31[🔧🔧 Load balancing<br>& high-availability]
+    DS --> SILE37[🔧🔧 Design & scalable<br>architectures]
+    DS --> S28[🔧 Design & MLOps<br>best practices]
 
-    %% Subgraph for HPC (High-Performance Computing)
-    subgraph HPC
-        R --> SILE15[🔧🔧 HPC or large-batch<br>evaluations]
-        R --> S11[🔧 GPU cluster config<br>& job scheduling]
-        R --> S12[🔧 HPC provisioning<br>& GPU orchestration]
-        R --> S13[🔧 HPC training pipeline<br>& multi-GPU]
-        R --> S14[🔧 HPC scheduling<br>& multi-node debug]
-        R --> S16[🔧 Hybrid HPC setups]
-        R --> S17[🔧 Large-scale HPC<br>performance]
-        R --> S21[🔧 HPC infra for RL<br>reasoning tasks]
-    end
+    %% Chain 2: HPC
+    R --> HPC[🔧 HPC]
+    HPC --> SILE15[🔧🔧 Large-batch<br>evaluations]
+    HPC --> S11[🔧 GPU cluster config<br>& scheduling]
+    HPC --> S12[🔧 Provisioning &<br>GPU orchestration]
+    HPC --> S13[🔧 Training pipeline<br>& multi-GPU]
+    HPC --> S14[🔧 Scheduling &<br>multi-node debug]
+    HPC --> S16[🔧 Hybrid setups]
+    HPC --> S17[🔧 Large-scale<br>performance]
+    HPC --> S21[🔧 Infra for RL<br>reasoning]
 
-    %% Subgraph for ML & Performance Optimization
-    subgraph ML & Optimization
-        R --> SILE7[🔧🔧 Cross-layer<br>performance tuning]
-        R --> SILE8[🔧🔧 Data-center scale<br>HPC/ML deployment]
-        R --> SILE30[🔧🔧 Quantitative models<br>of throughput]
-        R --> S4[🔧 Accelerating ML<br>training/inference]
-        R --> S20[🔧 Multi-GPU training<br>& HPC acceleration]
-        R --> S29[🔧 High-perf optimization<br>for ML]
-        R --> S32[🔧 Optimizing under<br>heavy ML loads]
-        R --> S33[🔧 Perf optimization<br>for LLM inference]
-        R --> S35[🔧 Throughput &<br>perf optimization]
-    end
+    %% Chain 3: ML & Optimization
+    R --> ML[🔧 ML & Optimization]
+    ML --> SILE7[🔧🔧 Cross-layer<br>tuning]
+    ML --> SILE8[🔧🔧 Data-center<br>HPC/ML deploy]
+    ML --> SILE30[🔧🔧 Throughput<br>models]
+    ML --> S4[🔧 Accelerate ML<br>train/infer]
+    ML --> S20[🔧 Multi-GPU<br>training]
+    ML --> S29[🔧 High-perf ML<br>optimization]
+    ML --> S32[🔧 Optimize under<br>ML loads]
+    ML --> S33[🔧 LLM inference<br>optimization]
+    ML --> S35[🔧 Throughput<br>optimization]
 
-    %% Subgraph for Low-Level & Hardware
-    subgraph Low-Level & Hardware
-        R --> SILE2[🔧🔧 Linux/embedded<br>systems]
-        R --> S1[🔧 Low-level integrations<br>C++ compilers]
-        R --> S3[🔧 Hardware acceleration]
-        R --> S5[🔧 CUDA kernels]
-        R --> S6[🔧 AI hardware<br>integration]
-        R --> S9[🔧 GPU accelerator<br>& CUDA optimization]
-        R --> S10[🔧 GPU kernel design<br>& HPC concurrency]
-        R --> S18[🔧 Low-level HPC code<br>C++/Triton]
-        R --> S19[🔧 Driver optimizations<br>CUDA/RDMA]
-        R --> S23[🔧 Python & custom<br>CUDA kernels]
-    end
+    %% Chain 4: Low-Level & Hardware
+    R --> LL[🔧 Low-Level & Hardware]
+    LL --> SILE2[🔧🔧 Linux/embedded<br>systems]
+    LL --> S1[🔧 Low-level<br>C++ integrations]
+    LL --> S3[🔧 Hardware<br>acceleration]
+    LL --> S5[🔧 CUDA kernels]
+    LL --> S6[🔧 AI hardware<br>integration]
+    LL --> S9[🔧 GPU accel &<br>CUDA opt]
+    LL --> S10[🔧 GPU kernel<br>& concurrency]
+    LL --> S18[🔧 HPC code<br>C++/Triton]
+    LL --> S19[🔧 Driver opts<br>CUDA/RDMA]
+    LL --> S23[🔧 Python &<br>custom CUDA]
 
-    %% Subgraph for AIOps & Automation
-    subgraph AIOps & Automation
-        R --> SILE34[🔧🔧 Python-driven<br>training pipelines]
-        R --> SILE36[🔧🔧 Cross-team ML<br>innovation]
-        R --> SILE38[🔧🔧 Observability &<br>AIOps Python Go]
-        R --> SILE39[🔧🔧 ServiceNow<br>AIOps & AI]
-        R --> SILE40[🔧🔧 User-centric<br>IT workflows]
-    end
+    %% Chain 5: AIOps & Automation
+    R --> AIO[🔧 AIOps & Automation]
+    AIO --> SILE34[🔧🔧 Python-driven<br>pipelines]
+    AIO --> SILE36[🔧🔧 Cross-team<br>ML innovation]
+    AIO --> SILE38[🔧🔧 Observability<br>& AIOps Python Go]
+    AIO --> SILE39[🔧🔧 ServiceNow<br>AIOps & AI]
+    AIO --> SILE40[🔧🔧 User-centric<br>IT workflows]
 
-    %% Remaining Nodes
-    R --> S22[🔧 Perf modeling<br>for GPU fleets]
-    R --> S24[🔧 Python/C++ tooling<br>for model tests]
-    R --> S25[🔧 Stress-testing<br>LLMs & misuse]
-```
-
-```mermaid
-graph LR
-    R[🔧 Systems Infrastructure LowLevel Engineering]
-    R --> SILE2[🔧🔧 Linux or embedded systems experience]
-    R --> SILE7[🔧🔧 Cross-layer performance tuning hardware plus software]
-    R --> SILE8[🔧🔧 Data-center scale HPC or ML deployment]
-    R --> SILE15[🔧🔧 HPC or large-batch evaluations]
-    R --> SILE26[🔧🔧 Building and optimizing distributed backend systems]
-    R --> SILE27[🔧🔧 Distributed system debugging and optimization]
-    R --> SILE30[🔧🔧 Implementing quantitative models of system throughput]
-    R --> SILE31[🔧🔧 Load balancing and high-availability design]
-    R --> SILE34[🔧🔧 Python-driven distributed training pipelines]
-    R --> SILE36[🔧🔧 Cross-team platform innovation and proactive ML based resolution]
-    R --> SILE37[🔧🔧 Distributed systems design and scalable architectures]
-    R --> SILE38[🔧🔧 Observability anomaly detection and automated triage AIOps Python Go]
-    R --> SILE39[🔧🔧 ServiceNow expansions AIOps and AI automation]
-    R --> SILE40[🔧🔧 User-centric IT workflows and design integration]
-    R --> S1[🔧 Low-level system integrations compilers Cplusplus]
-    R --> S3[🔧 Hardware acceleration]
-    R --> S4[🔧 Accelerating ML training inference across AI hardware]
-    R --> S5[🔧 CUDA kernels]
-    R --> S6[🔧 Optimum integration for specialized AI hardware]
-    R --> S9[🔧 GPU accelerator architecture and CUDA kernel optimization]
-    R --> S10[🔧 GPU kernel design and HPC concurrency]
-    R --> S11[🔧 GPU cluster configuration and job scheduling]
-    R --> S12[🔧 HPC provisioning and GPU cluster orchestration]
-    R --> S13[🔧 HPC training pipeline and multi-GPU scheduling]
-    R --> S14[🔧 HPC scheduling and multi-node debugging]
-    R --> S16[🔧 Hybrid on-premise and cloud HPC setups]
-    R --> S17[🔧 Large-scale distributed computing and HPC performance]
-    R --> S18[🔧 Low-level HPC code Cplusplus Triton and parallel programming]
-    R --> S19[🔧 Low-level driver optimizations CUDA RDMA etc]
-    R --> S20[🔧 Multi-GPU training and HPC acceleration]
-    R --> S21[🔧 Overseeing HPC infrastructure for RL reasoning tasks]
-    R --> S22[🔧 Performance modeling for large GPU fleets]
-    R --> S23[🔧 Python and low-level matrix operations custom CUDA kernels]
-    R --> S24[🔧 Python Cplusplus tooling for robust model tests]
-    R --> S25[🔧 Stress-testing frontier LLMs and misuse detection]
-    R --> S28[🔧 Distributed system design and MLOps best practices]
-    R --> S29[🔧 High-performance optimization for ML training and inference]
-    R --> S32[🔧 Optimizing system performance under heavy ML loads]
-    R --> S33[🔧 Performance optimization for LLM inference]
-    R --> S35[🔧 Throughput and performance optimization]
+    %% Remaining nodes
+    R --> S22[🔧 Perf modeling<br>GPU fleets]
+    R --> S24[🔧 Python/C++<br>model test tools]
+    R --> S25[🔧 Stress-test<br>LLMs & misuse]
 ```
 
 ```mermaid
