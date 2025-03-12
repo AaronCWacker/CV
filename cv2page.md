@@ -5,60 +5,68 @@
 
 # Systems Infrastructure Low Level Engineering
 ```mermaid
-gantt
-    title Systems Infrastructure Low-Level Engineering Tasks
-    dateFormat  YYYY-MM-DD
-    axisFormat  %m-%d
+graph TB
+    R[🔧 Systems Infra<br>Low-Level Eng]
 
-    section Foundational Systems
-    Linux/embedded systems       :f1, 2025-03-12, 10d
-    Low-level C++ integrations   :f2, after f1, 15d
-    Hardware acceleration        :f3, after f2, 10d
-    AI HW integration            :f4, after f3, 12d
+    %% Row 1: Foundational Systems
+    R --> F1[🔧🔧 Linux/embedded<br>systems]
+    R --> F2[🔧 Low-level<br>C++ integrations]
+    R --> F3[🔧 Hardware<br>acceleration]
+    R --> F4[🔧 AI hardware<br>integration]
 
-    section Hardware Optimization
-    CUDA kernels                 :h1, after f4, 15d
-    GPU accel & CUDA opt         :h2, after h1, 10d
-    GPU kernel concurrency       :h3, after h2, 12d
-    HPC code C++/Triton          :h4, after h3, 15d
-    Driver opts CUDA/RDMA        :h5, after h4, 10d
-    Py & custom CUDA             :h6, after h5, 12d
-    Py/C++ test tools            :h7, after h6, 10d
+    %% Row 2: Hardware Optimization (1)
+    R --> H1[🔧🔧 CUDA<br>kernels]
+    R --> H2[🔧 GPU accel<br>& CUDA opt]
+    R --> H3[🔧 GPU kernel<br>& concurrency]
+    R --> H4[🔧 HPC code<br>C++/Triton]
 
-    section HPC & Scale
-    Large-batch evals            :s1, after h7, 15d
-    GPU cluster & sched          :s2, after s1, 10d
-    GPU orch & provision         :s3, after s2, 12d
-    Train pipe multi-GPU         :s4, after s3, 15d
-    Multi-node sched             :s5, after s4, 10d
-    Hybrid HPC                   :s6, after s5, 12d
-    HPC perf large-scale         :s7, after s6, 15d
-    RL infra                     :s8, after s7, 10d
-    GPU fleet perf model         :s9, after s8, 12d
+    %% Row 3: Hardware Optimization (2)
+    R --> H5[🔧🔧 Driver opts<br>CUDA/RDMA]
+    R --> H6[🔧 Python &<br>custom CUDA]
+    R --> H7[🔧 Python/C++<br>tooling tests]
+    R --> H8[🔧 Stress-test<br>LLMs & misuse]
 
-    section Distributed Systems
-    Dist backend build & opt     :d1, after s9, 15d
-    Dist debug & opt             :d2, after d1, 10d
-    Load bal & high-avail        :d3, after d2, 12d
-    Dist design & scale          :d4, after d3, 15d
-    Dist & MLOps                 :d5, after d4, 10d
+    %% Row 4: HPC (1)
+    R --> P1[🔧🔧 Large-batch<br>evaluations]
+    R --> P2[🔧 GPU cluster<br>config & sched]
+    R --> P3[🔧 HPC provision<br>& GPU orch]
+    R --> P4[🔧 HPC train pipe<br>& multi-GPU]
 
-    section ML & AIOps
-    Cross-layer tune             :m1, after d5, 15d
-    HPC/ML deploy                :m2, after m1, 10d
-    Throughput models            :m3, after m2, 12d
-    ML train/infer accel         :m4, after m3, 15d
-    Multi-GPU train              :m5, after m4, 10d
-    ML high-perf opt             :m6, after m5, 12d
-    ML load opt                  :m7, after m6, 10d
-    LLM infer opt                :m8, after m7, 12d
-    Throughput opt               :m9, after m8, 15d
-    Py pipelines                 :m10, after m9, 10d
-    ML innov cross-team          :m11, after m10, 12d
-    Observ & AIOps Py Go         :m12, after m11, 15d
-    ServiceNow AIOps AI          :m13, after m12, 10d
-    User workflows               :m14, after m13, 12d
-    Stress-test LLMs             :m15, after m14, 15d
+    %% Row 5: HPC (2)
+    R --> P5[🔧🔧 HPC sched<br>& multi-node]
+    R --> P6[🔧 Hybrid HPC<br>setups]
+    R --> P7[🔧 Large-scale<br>HPC perf]
+    R --> P8[🔧 HPC infra<br>for RL tasks]
+
+    %% Row 6: HPC (3)
+    R --> P9[🔧 Perf modeling<br>GPU fleets]
+    R --> P10[🔧 Cross-layer<br>perf tuning]
+    R --> P11[🔧 Data-center<br>HPC/ML deploy]
+    R --> P12[🔧 Quantitative<br>throughput models]
+
+    %% Row 7: Distributed Systems (1)
+    R --> D1[🔧🔧 Build & opt<br>dist backend]
+    R --> D2[🔧 Dist system<br>debug & opt]
+    R --> D3[🔧 Load balance<br>& high-avail]
+    R --> D4[🔧 Dist design<br>& scale arch]
+
+    %% Row 8: Distributed Systems (2)
+    R --> D5[🔧🔧 Dist system<br>design & MLOps]
+    R --> D6[🔧 Python-driven<br>train pipelines]
+    R --> D7[🔧 Cross-team<br>ML innovation]
+    R --> D8[🔧 Observ & AIOps<br>Python Go]
+
+    %% Row 9: ML & AIOps
+    R --> M1[🔧🔧 ServiceNow<br>AIOps & AI]
+    R --> M2[🔧 User-centric<br>IT workflows]
+    R --> M3[🔧 ML train/infer<br>accel]
+    R --> M4[🔧 Multi-GPU<br>training & accel]
+
+    %% Row 10: ML Optimization
+    R --> M5[🔧🔧 High-perf<br>ML opt]
+    R --> M6[🔧 Opt under<br>heavy ML loads]
+    R --> M7[🔧 LLM inference<br>opt]
+    R --> M8[🔧 Throughput &<br>perf opt]
 ```
 
 # Systems Infrastructure Low Level Engineering
