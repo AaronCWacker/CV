@@ -4,7 +4,8 @@
 
 
 # Systems Infrastructure Low Level Engineering
-```mermaidgantt
+```mermaid
+gantt
     title Systems Infrastructure Low-Level Engineering Tasks
     dateFormat  YYYY-MM-DD
     axisFormat  %m-%d
