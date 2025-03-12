@@ -8,75 +8,85 @@
 graph TB
     R[🔧 Systems Infrastructure<br>Low-Level Engineering]
 
-    %% Column 1: Distributed Systems
-    subgraph Dist Systems
-        R --> SILE26[🔧🔧 Building and optimizing<br>distributed backend systems]
-        SILE26 --> SILE27[🔧🔧 Distributed system<br>debugging and optimization]
-        SILE27 --> SILE31[🔧🔧 Load balancing and<br>high-availability design]
-        SILE31 --> SILE37[🔧🔧 Distributed systems<br>design and scalable architectures]
-        SILE37 --> S28[🔧 Distributed system design<br>and MLOps best practices]
+    %% Column 1: Distributed Core
+    subgraph Dist Core
+        R --> DC[Dist Core]
+        SILE26[🔧🔧 Building and optimizing<br>distributed backend systems]
+        SILE27[🔧🔧 Distributed system<br>debugging and optimization]
+        SILE31[🔧🔧 Load balancing and<br>high-availability design]
+        SILE37[🔧🔧 Distributed systems<br>design and scalable architectures]
+        S28[🔧 Distributed system design<br>and MLOps best practices]
     end
 
-    %% Column 2: HPC Core
-    subgraph HPC Core
-        R --> SILE15[🔧🔧 HPC or large-batch<br>evaluations]
-        SILE15 --> S11[🔧 GPU cluster configuration<br>and job scheduling]
-        S11 --> S12[🔧 HPC provisioning and<br>GPU cluster orchestration]
-        S12 --> S13[🔧 HPC training pipeline<br>and multi-GPU scheduling]
-        S13 --> S14[🔧 HPC scheduling and<br>multi-node debugging]
-        S14 --> S16[🔧 Hybrid on-premise and<br>cloud HPC setups]
+    %% Column 2: HPC Setup
+    subgraph HPC Setup
+        R --> HS[HPC Setup]
+        SILE15[🔧🔧 HPC or large-batch<br>evaluations]
+        S11[🔧 GPU cluster configuration<br>and job scheduling]
+        S12[🔧 HPC provisioning and<br>GPU cluster orchestration]
+        S13[🔧 HPC training pipeline<br>and multi-GPU scheduling]
+        S14[🔧 HPC scheduling and<br>multi-node debugging]
     end
 
     %% Column 3: HPC Advanced
     subgraph HPC Adv
-        R --> S17[🔧 Large-scale distributed<br>computing and HPC performance]
-        S17 --> S21[🔧 Overseeing HPC infrastructure<br>for RL reasoning tasks]
-        S21 --> S22[🔧 Performance modeling for<br>large GPU fleets]
-        S22 --> S24[🔧 Python Cplusplus tooling<br>for robust model tests]
-        S24 --> S25[🔧 Stress-testing frontier<br>LLMs and misuse detection]
+        R --> HA[HPC Adv]
+        S16[🔧 Hybrid on-premise and<br>cloud HPC setups]
+        S17[🔧 Large-scale distributed<br>computing and HPC performance]
+        S21[🔧 Overseeing HPC infrastructure<br>for RL reasoning tasks]
+        S22[🔧 Performance modeling for<br>large GPU fleets]
+        S24[🔧 Python Cplusplus tooling<br>for robust model tests]
     end
 
-    %% Column 4: ML Optimization
-    subgraph ML Opt
-        R --> SILE7[🔧🔧 Cross-layer performance<br>tuning hardware plus software]
-        SILE7 --> SILE8[🔧🔧 Data-center scale HPC<br>or ML deployment]
-        SILE8 --> SILE30[🔧🔧 Implementing quantitative<br>models of system throughput]
-        SILE30 --> S29[🔧 High-performance optimization<br>for ML training and inference]
-        S29 --> S32[🔧 Optimizing system performance<br>under heavy ML loads]
-        S32 --> S33[🔧 Performance optimization<br>for LLM inference]
+    %% Column 4: ML Performance
+    subgraph ML Perf
+        R --> MP[ML Perf]
+        SILE7[🔧🔧 Cross-layer performance<br>tuning hardware plus software]
+        SILE8[🔧🔧 Data-center scale HPC<br>or ML deployment]
+        SILE30[🔧🔧 Implementing quantitative<br>models of system throughput]
+        S29[🔧 High-performance optimization<br>for ML training and inference]
+        S32[🔧 Optimizing system performance<br>under heavy ML loads]
     end
 
     %% Column 5: ML Training
     subgraph ML Train
-        R --> S4[🔧 Accelerating ML training<br>inference across AI hardware]
-        S4 --> S20[🔧 Multi-GPU training and<br>HPC acceleration]
-        S20 --> S35[🔧 Throughput and performance<br>optimization]
-        S35 --> S23[🔧 Python and low-level matrix<br>operations custom CUDA kernels]
-        S23 --> S5[🔧 CUDA kernels]
+        R --> MT[ML Train]
+        S4[🔧 Accelerating ML training<br>inference across AI hardware]
+        S20[🔧 Multi-GPU training and<br>HPC acceleration]
+        S33[🔧 Performance optimization<br>for LLM inference]
+        S35[🔧 Throughput and performance<br>optimization]
+        S25[🔧 Stress-testing frontier<br>LLMs and misuse detection]
     end
 
     %% Column 6: Low-Level Systems
     subgraph Low-Level Sys
-        R --> SILE2[🔧🔧 Linux or embedded<br>systems experience]
-        SILE2 --> S1[🔧 Low-level system integrations<br>compilers Cplusplus]
-        S1 --> S18[🔧 Low-level HPC code<br>Cplusplus Triton and parallel programming]
-        S18 --> S19[🔧 Low-level driver optimizations<br>CUDA RDMA etc]
-        S19 --> S3[🔧 Hardware acceleration]
+        R --> LS[Low-Level Sys]
+        SILE2[🔧🔧 Linux or embedded<br>systems experience]
+        S1[🔧 Low-level system integrations<br>compilers Cplusplus]
+        S3[🔧 Hardware acceleration]
+        S5[🔧 CUDA kernels]
+        S23[🔧 Python and low-level matrix<br>operations custom CUDA kernels]
     end
 
-    %% Column 7: Hardware & GPU Opt
-    subgraph HW & GPU
-        R --> S6[🔧 Optimum integration for<br>specialized AI hardware]
-        S6 --> S9[🔧 GPU accelerator architecture<br>and CUDA kernel optimization]
-        S9 --> S10[🔧 GPU kernel design and<br>HPC concurrency]
-        S10 --> SILE34[🔧🔧 Python-driven distributed<br>training pipelines]
-        SILE34 --> SILE36[🔧🔧 Cross-team platform<br>innovation and proactive ML based resolution]
-        SILE36 --> SILE38[🔧🔧 Observability anomaly<br>detection and automated triage AIOps Python Go]
+    %% Column 7: GPU Optimization
+    subgraph GPU Opt
+        R --> GO[GPU Opt]
+        S6[🔧 Optimum integration for<br>specialized AI hardware]
+        S9[🔧 GPU accelerator architecture<br>and CUDA kernel optimization]
+        S10[🔧 GPU kernel design and<br>HPC concurrency]
+        S18[🔧 Low-level HPC code<br>Cplusplus Triton and parallel programming]
+        S19[🔧 Low-level driver optimizations<br>CUDA RDMA etc]
     end
 
-    %% Direct connections for AIOps remainder
-    R --> SILE39[🔧🔧 ServiceNow expansions<br>AIOps and AI automation]
-    SILE39 --> SILE40[🔧🔧 User-centric IT<br>workflows and design integration]
+    %% Column 8: AIOps & Automation
+    subgraph AIOps
+        R --> AO[AIOps]
+        SILE34[🔧🔧 Python-driven distributed<br>training pipelines]
+        SILE36[🔧🔧 Cross-team platform<br>innovation and proactive ML based resolution]
+        SILE38[🔧🔧 Observability anomaly<br>detection and automated triage AIOps Python Go]
+        SILE39[🔧🔧 ServiceNow expansions<br>AIOps and AI automation]
+        SILE40[🔧🔧 User-centric IT<br>workflows and design integration]
+    end
 ```
 
 # Systems Infrastructure Low Level Engineering
