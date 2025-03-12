@@ -463,7 +463,39 @@ graph TB
     S38 --> S39[📊 S39: Designing modern search solutions combining semantic and lexical search dense bi-encoder models SPLADE BM25]
 ```
 
+# 9. 📢 Community, Open-Source & Communication
+```mermaid
+graph TB
+    R["Systems Infrastructure<br>Low-Level Engineering"] --> DC[🔩 Dist Core]
+    R --> ED[🖥️ Educate]
+    R --> MP[📈 ML Promo]
+    R --> OS[⚙️ Open Src]
+    R --> CM[🤖 Comm]
+    R --> LS[💾 Large Scale]
+    R --> GO[🛠️ Outreach]
+    R --> AO[🤝 Collab]
 
+    DC --> S2[🤝 S2: Working through strategic collaborations]
+
+    ED --> S1[📢 S1: Educating the ML community on accelerating training and inference workloads]
+    S1 --> S6[📢 S6: Communicating effectively in public speaking and technical education]
+
+    MP --> S4[📢 S4: Building and evangelizing demos and strategic partner conversations]
+    S4 --> S5[🐍 S5: Sharing fast **Python** AI development code samples and demos]
+
+    OS --> S9[📢 S9: Writing technical documentation examples and notebooks to demonstrate new features]
+    S9 --> S11[📢 S11: Contributing to open-source libraries Transformers Datasets Accelerate]
+
+    CM --> S3[📢 S3: Contributing documentation and code examples for technical and business audiences]
+    S3 --> S10[📢 S10: Writing clear documentation across the product lifecycle]
+
+    LS --> S7[📢 S7: Engaging on social platforms GitHub LinkedIn Twitter Reddit]
+
+    GO --> S12[📢 S12: Communicating via GitHub forums or Slack]
+    S12 --> S13[🌐 S13: Demonstrating creativity to make complex technology accessible]
+
+    AO --> S8[🤝 S8: Bringing fresh informed ideas while collaborating in a decentralized manner]
+```
 
 
 
