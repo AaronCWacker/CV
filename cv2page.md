@@ -4,64 +4,60 @@
 
 
 # Systems Infrastructure Low Level Engineering
-```mermaid
-graph TB
-    R[🔧 Systems Infra<br>Low-Level Eng]
+```mermaidgantt
+    title Systems Infrastructure Low-Level Engineering Tasks
+    dateFormat  YYYY-MM-DD
+    axisFormat  %m-%d
 
-    %% Column 1: Distributed & AIOps
-    subgraph Dist & AIOps
-        R --> SILE26[🔧🔧 Dist backend<br>build & opt]
-        SILE26 --> SILE27[🔧🔧 Dist debug<br>& opt]
-        SILE27 --> SILE31[🔧🔧 Load bal<br>& high-avail]
-        SILE31 --> SILE37[🔧🔧 Dist design<br>& scale]
-        SILE37 --> S28[🔧 Dist &<br>MLOps]
-        S28 --> SILE34[🔧🔧 Py pipelines]
-        SILE34 --> SILE36[🔧🔧 ML innov<br>cross-team]
-        SILE36 --> SILE38[🔧🔧 Observ &<br>AIOps Py Go]
-        SILE38 --> SILE39[🔧🔧 ServiceNow<br>AIOps AI]
-        SILE39 --> SILE40[🔧🔧 User workflows]
-        SILE40 --> S25[🔧 Stress-test<br>LLMs]
-    end
+    section Foundational Systems
+    Linux/embedded systems       :f1, 2025-03-12, 10d
+    Low-level C++ integrations   :f2, after f1, 15d
+    Hardware acceleration        :f3, after f2, 10d
+    AI HW integration            :f4, after f3, 12d
 
-    %% Column 2: HPC & ML
-    subgraph HPC & ML
-        R --> SILE15[🔧🔧 Large-batch<br>evals]
-        SILE15 --> S11[🔧 GPU cluster<br>& sched]
-        S11 --> S12[🔧 GPU orch<br>& provision]
-        S12 --> S13[🔧 Train pipe<br>multi-GPU]
-        S13 --> S14[🔧 Multi-node<br>sched]
-        S14 --> S16[🔧 Hybrid HPC]
-        S16 --> S17[🔧 HPC perf<br>large-scale]
-        S17 --> S21[🔧 RL infra]
-        S21 --> S22[🔧 GPU fleet<br>perf model]
-        S22 --> SILE7[🔧🔧 Cross-layer<br>tune]
-        SILE7 --> SILE8[🔧🔧 HPC/ML<br>deploy]
-    end
+    section Hardware Optimization
+    CUDA kernels                 :h1, after f4, 15d
+    GPU accel & CUDA opt         :h2, after h1, 10d
+    GPU kernel concurrency       :h3, after h2, 12d
+    HPC code C++/Triton          :h4, after h3, 15d
+    Driver opts CUDA/RDMA        :h5, after h4, 10d
+    Py & custom CUDA             :h6, after h5, 12d
+    Py/C++ test tools            :h7, after h6, 10d
 
-    %% Column 3: Low-Level & Optimization
-    subgraph Low-Level & Opt
-        R --> SILE2[🔧🔧 Linux/<br>embedded]
-        SILE2 --> S1[🔧 C++ low-level]
-        S1 --> S3[🔧 HW accel]
-        S3 --> S5[🔧 CUDA kernels]
-        S5 --> S6[🔧 AI HW integ]
-        S6 --> S9[🔧 GPU accel<br>& CUDA]
-        S9 --> S10[🔧 GPU kernel<br>concur]
-        S10 --> S18[🔧 HPC code<br>C++/Triton]
-        S18 --> S19[🔧 CUDA/RDMA<br>opts]
-        S19 --> S23[🔧 Py & custom<br>CUDA]
-        S23 --> S24[🔧 Py/C++<br>test tools]
-        S24 --> SILE30[🔧🔧 Throughput<br>models]
-    end
+    section HPC & Scale
+    Large-batch evals            :s1, after h7, 15d
+    GPU cluster & sched          :s2, after s1, 10d
+    GPU orch & provision         :s3, after s2, 12d
+    Train pipe multi-GPU         :s4, after s3, 15d
+    Multi-node sched             :s5, after s4, 10d
+    Hybrid HPC                   :s6, after s5, 12d
+    HPC perf large-scale         :s7, after s6, 15d
+    RL infra                     :s8, after s7, 10d
+    GPU fleet perf model         :s9, after s8, 12d
 
-    %% Direct connections for remaining ML/Opt nodes
-    R --> S4[🔧 ML train/infer<br>accel]
-    S4 --> S20[🔧 Multi-GPU<br>train]
-    S20 --> S29[🔧 ML high-perf<br>opt]
-    S29 --> S32[🔧 ML load<br>opt]
-    S32 --> S33[🔧 LLM infer<br>opt]
-    S33 --> S35[🔧 Throughput<br>opt]
+    section Distributed Systems
+    Dist backend build & opt     :d1, after s9, 15d
+    Dist debug & opt             :d2, after d1, 10d
+    Load bal & high-avail        :d3, after d2, 12d
+    Dist design & scale          :d4, after d3, 15d
+    Dist & MLOps                 :d5, after d4, 10d
 
+    section ML & AIOps
+    Cross-layer tune             :m1, after d5, 15d
+    HPC/ML deploy                :m2, after m1, 10d
+    Throughput models            :m3, after m2, 12d
+    ML train/infer accel         :m4, after m3, 15d
+    Multi-GPU train              :m5, after m4, 10d
+    ML high-perf opt             :m6, after m5, 12d
+    ML load opt                  :m7, after m6, 10d
+    LLM infer opt                :m8, after m7, 12d
+    Throughput opt               :m9, after m8, 15d
+    Py pipelines                 :m10, after m9, 10d
+    ML innov cross-team          :m11, after m10, 12d
+    Observ & AIOps Py Go         :m12, after m11, 15d
+    ServiceNow AIOps AI          :m13, after m12, 10d
+    User workflows               :m14, after m13, 12d
+    Stress-test LLMs             :m15, after m14, 15d
 ```
 
 # Systems Infrastructure Low Level Engineering
