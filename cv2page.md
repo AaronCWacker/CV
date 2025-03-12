@@ -2,6 +2,522 @@
 
 # Mermaid Graph Models - ML State of Art
 
+# 1. 🔧 Systems, Infrastructure & Low-Level Engineering
+```mermaid
+graph TB
+    R["Systems Infrastructure<br>Low-Level Engineering"] --> DC[🔩 Dist Core]
+    R --> HS[🖥️ HPC Setup]
+    R --> HT[📈 HPC Tuning]
+    R --> MP[⚙️ ML Perf]
+    R --> MT[🤖 ML Training]
+    R --> LS[💾 Low-Level Sys]
+    R --> GO[🛠️ GPU Opt]
+    R --> AO[🤝 AIOps]
+
+    DC --> S26[🖧 S26: Building and optimizing **distributed** backend systems]
+    S26 --> S27[🖧 S27: **Distributed** system debugging and optimization]
+    S27 --> S28[🖧 S28: **Distributed** system design and MLOps best practices]
+    S28 --> S31[⚖️ S31: **Load balancing** and high-availability design]
+    S31 --> S37[🖧 S37: **Distributed** systems design and scalable architectures]
+
+    HS --> S8[🖥️ S8: Data-center scale **HPC** or ML deployment]
+    S8 --> S11[🖥️ S11: GPU cluster configuration and **job scheduling**]
+    S11 --> S12[🖥️ S12: **HPC** provisioning and GPU cluster orchestration]
+    S12 --> S13[🖥️ S13: **HPC** training pipeline and multi-GPU scheduling]
+    S13 --> S16[🖥️ S16: Hybrid on-premise and cloud **HPC** setups]
+
+    HT --> S14[🖥️ S14: **HPC** scheduling and multi-node debugging]
+    S14 --> S15[🖥️ S15: **HPC** or large-batch evaluations]
+    S15 --> S17[🖥️ S17: Large-scale distributed computing and **HPC** performance]
+    S17 --> S20[🖥️ S20: Multi-GPU training and **HPC** acceleration]
+    S20 --> S21[🖥️ S21: Overseeing **HPC** infrastructure for RL reasoning tasks]
+
+    MP --> S7[⚙️ S7: Cross-layer **performance** tuning hardware plus software]
+    S7 --> S22[⚙️ S22: **Performance** modeling for large GPU fleets]
+    S22 --> S29[⚙️ S29: High-**performance** optimization for ML training and inference]
+    S29 --> S32[⚙️ S32: Optimizing system **performance** under heavy ML loads]
+    S32 --> S33[⚙️ S33: **Performance** optimization for LLM inference]
+
+    MT --> S4[🤖 S4: Accelerating **ML** training inference across AI hardware]
+    S4 --> S6[🔌 S6: Optimum **integration** for specialized AI hardware]
+    S6 --> S25[🧪 S25: **Stress-testing** frontier LLMs and misuse detection]
+    S25 --> S30[📊 S30: Implementing quantitative models of system **throughput**]
+    S30 --> S35[📊 S35: **Throughput** and performance optimization]
+
+    LS --> S1[💾 S1: **Low-level** system integrations compilers Cplusplus]
+    S1 --> S2[💾 S2: Linux or embedded systems experience]
+    S2 --> S18[💾 S18: **Low-level** HPC code Cplusplus Triton and parallel programming]
+    S18 --> S19[💾 S19: **Low-level** driver optimizations CUDA RDMA etc]
+    S19 --> S3[🚀 S3: **Hardware** acceleration]
+
+    GO --> S5[🛠️ S5: CUDA kernels]
+    S5 --> S9[🛠️ S9: GPU accelerator architecture and CUDA kernel optimization]
+    S9 --> S10[🛠️ S10: GPU kernel design and **HPC** concurrency]
+    S10 --> S23[🛠️ S23: Python and **low-level** matrix operations custom CUDA kernels]
+    S23 --> S24[🐍 S24: Python Cplusplus **tooling** for robust model tests]
+
+    AO --> S34[🐍 S34: **Python**-driven distributed training pipelines]
+    S34 --> S36[🌐 S36: Cross-team platform **innovation** and proactive ML based resolution]
+    S36 --> S38[🤝 S38: Observability anomaly detection and automated triage **AIOps** Python Go]
+    S38 --> S39[🤝 S39: ServiceNow expansions **AIOps** and AI automation]
+    S39 --> S40[👤 S40: **User-centric** IT workflows and design integration]
+```
+
+
+# 2. 💻 Software, Cloud, MLOps & Infrastructure    
+```mermaid
+graph TB
+    R["Systems Infrastructure<br>Low-Level Engineering"] --> DC[🔩 Dist Core]
+    R --> CI[🖥️ Cloud Infra]
+    R --> MO[📈 MLOps]
+    R --> DP[⚙️ Data Pipes]
+    R --> MT[🤖 ML Tools]
+    R --> IA[💾 Infra Auto]
+    R --> GO[🛠️ GPU Ops]
+    R --> AO[🤝 AIOps]
+
+    DC --> S14[🖧 S14: **Distributed** data processing]
+    S14 --> S24[🖧 S24: Model and pipeline parallel strategies]
+    S24 --> S26[🖧 S26: **Python**-based **distributed** frameworks Ray Horovod]
+    S26 --> S33[🖧 S33: Designing cloud-native architectures for AI services]
+    S33 --> S38[🖧 S38: Python and **distributed** computing frameworks Spark]
+
+    CI --> S12[🔌 S12: **Integrating** with major cloud platforms AWS GCP Azure]
+    S12 --> S16[💻 S16: Cloud infrastructure provisioning Terraform Helm]
+    S16 --> S22[💻 S22: Infrastructure as Code Terraform Kubernetes]
+    S22 --> S31[💻 S31: Cloud infrastructure optimization and **integration** AWS GCP]
+    S31 --> S39[💻 S39: Python automation and container orchestration Kubernetes]
+
+    MO --> S13[🤖 S13: Containerization with Docker and **MLOps** pipelines]
+    S13 --> S20[🤖 S20: End-to-end **MLOps** and DevOps practices]
+    S20 --> S23[🛠️ S23: Managing GPU infrastructure at scale K8s orchestration]
+    S23 --> S36[🤖 S36: Infrastructure design for large-scale **ML** systems]
+    S36 --> S45[🤖 S45: Building **MLOps** pipelines for containerizing models with Docker TypeScript Rust MongoDB Svelte TailwindCSS Kubernetes]
+
+    DP --> S18[💻 S18: Data pipeline **tooling** Spark Airflow]
+    S18 --> S30[💻 S30: Building scalable data pipelines for language model training]
+    S30 --> S32[📊 S32: Data quality assurance and validation systems]
+    S32 --> S37[🔌 S37: **Integration** with ML frameworks]
+    S37 --> S40[🐍 S40: Python for automation and infrastructure monitoring]
+
+    MT --> S1[🐍 S1: **Python** APIs and framework optimizations tokenizers datasets]
+    S1 --> S4[🤖 S4: PyTorch and Keras development]
+    S4 --> S15[💻 S15: Building essential **tooling** for ML hubs]
+    S15 --> S19[⚙️ S19: Deep learning systems **performance** profiling and tuning]
+    S19 --> S25[🐍 S25: **Python** and Golang for infrastructure automation]
+
+    IA --> S2[🐍 S2: **Python** programming]
+    S2 --> S7[💻 S7: Kubernetes orchestration]
+    S7 --> S17[💻 S17: Coordination of concurrency frameworks Kubernetes etc]
+    S17 --> S27[⚙️ S27: Reliability and **performance** scaling of infrastructure]
+    S27 --> S41[🐍 S41: **Python** scripting for deployment automation]
+
+    GO --> S21[🛠️ S21: GPU-based microservices and DevOps]
+    S21 --> S28[🤝 S28: System reliability and SRE best practices]
+    S28 --> S34[⚖️ S34: Ensuring system resilience and **scalability**]
+    S34 --> S35[⚖️ S35: High-availability and scalable system design]
+    S35 --> S42[⚖️ S42: Scalable system architecture]
+
+    AO --> S8[💻 S8: Building secure and robust developer experiences and APIs]
+    S8 --> S29[🤝 S29: Building observability and debugging tools for crawlers]
+    S29 --> S43[⚙️ S43: Enhancing reliability quality and time-to-market through **performance** optimization]
+    S43 --> S44[💻 S44: Managing production environments using Azure VSCode Datadog Qualtrics ServiceNow]
+```
+
+
+# 3. 🤖 Machine Learning, AI & Model Development
+```mermaid
+graph TB
+    R["Systems Infrastructure<br>Low-Level Engineering"] --> DC[🔩 Dist Core]
+    R --> HT[🖥️ HPC Tech]
+    R --> MP[📈 ML Perf]
+    R --> MT[⚙️ ML Tune]
+    R --> MD[🤖 ML Dev]
+    R --> LS[💾 LLM Scale]
+    R --> GO[🛠️ GPU Opt]
+    R --> AO[🤝 AI Ops]
+
+    DC --> S22[🖧 S22: **Distributed** training frameworks for large models]
+    S22 --> S33[🖧 S33: Advanced **distributed** training techniques]
+    S33 --> S46[🖧 S46: Full-stack AI shipping with parallel and **distributed** training]
+    S46 --> S54[🖧 S54: Parallel and **distributed** training architectures and reinforcement learning methods PPO SAC QLearning]
+    S54 --> S56[🛠️ S56: Scaling AI inference on hundreds of GPUs]
+
+    HT --> S47[🛠️ S47: GPU kernel **integration** with CUDA TensorRT and roadmap alignment]
+    S47 --> S52[📊 S52: Mixed-precision and HPC algorithm development]
+    S52 --> S66[🚀 S66: Addressing **hardware** acceleration and numerical precision challenges for scalable software]
+
+    MP --> S1[⚙️ S1: **Performance** tuning for Transformers in NLP CV and Speech]
+    S1 --> S3[⚙️ S3: Optimizing and scaling real-world ML services]
+    S3 --> S4[⚙️ S4: Reliability and **performance** monitoring for ML systems]
+    S4 --> S19[🤖 S19: Building massive training sets for **LLMs**]
+    S19 --> S25[📊 S25: Large-scale retrieval optimization RAG etc]
+    S25 --> S48[⚙️ S48: Large-language model inference and microservices design]
+
+    MT --> S2[🤖 S2: Industrial-level **ML** for text generation inference]
+    S2 --> S5[🤖 S5: Ablation and training small models for data-quality analysis]
+    S5 --> S6[🤖 S6: Reducing model size and complexity via quantization]
+    S6 --> S7[🤖 S7: Neural sparse models and semantic dense retrieval SPLADE BM25]
+    S7 --> S9[⚙️ S9: Energy efficiency and carbon footprint analysis in **ML**]
+    S9 --> S10[🤖 S10: Post-training methods for LLMs RLHF PPO DPO instruction tuning]
+    S10 --> S65[🤖 S65: Leveraging chain-of-thought techniques in small models to outperform larger models]
+
+    MD --> S8[🤖 S8: **LLM** usage and fine-tuning with chain-of-thought prompting]
+    S8 --> S11[🤖 S11: Building **LLM** agents with external tool usage]
+    S11 --> S12[🤖 S12: Creating **LLM** agents that control GUIs via screen recordings]
+    S12 --> S13[🤖 S13: Building web-scale high-quality **LLM** training datasets]
+    S13 --> S14[🤖 S14: **LLM**-based code suggestions in Gradio Playground]
+    S14 --> S15[🤖 S15: Speech-to-text text-to-speech and speaker diarization]
+    S15 --> S16[🧪 S16: Abuse detection and **ML**-based risk scoring]
+    S16 --> S17[🤖 S17: AI safety and alignment methodologies RLHF reward models]
+    S17 --> S18[🤖 S18: Building **ML**-driven products using Python and PyTorch]
+
+    LS --> S20[🤖 S20: Developing next-generation AI capabilities]
+    S20 --> S23[🤖 S23: Experimental large-model prototypes]
+    S23 --> S24[🤖 S24: Exploratory **ML** research with LLMs and RL]
+    S24 --> S26[🤖 S26: Managing large **ML** architectures using Transformers]
+    S26 --> S27[🤖 S27: NLP pipelines using PyTorch and Transformers]
+    S27 --> S29[🤖 S29: **Python**-based **LLM** experimentation]
+    S29 --> S30[🤖 S30: Transformer-based **LLM** development and fine-tuning]
+    S30 --> S31[🤖 S31: Transformer modeling and novel architecture prototyping GPTlike]
+    S31 --> S32[🤖 S32: Vector databases and semantic search FAISS etc]
+
+    GO --> S42[🤖 S42: Utilizing AI frameworks PyTorch JAX TensorFlow TorchDynamo]
+    S42 --> S43[🤖 S43: Building AI inference APIs and **MLOps** solutions with Python]
+    S43 --> S53[🤖 S53: Optimizing open-source DL frameworks PyTorch TensorFlow]
+    S53 --> S55[🐍 S55: **Python** development for large-scale MLOps deployment]
+    S55 --> S58[🤖 S58: Developing generative AI solutions with **Python** Streamlit Gradio and Torch]
+    S58 --> S62[🤖 S62: Driving forward quantization in the open-source ecosystem Accelerate PEFT Diffusers Bitsandbytes AWQ AutoGPTQ]
+
+    AO --> S34[🐍 S34: Coordinating experimental design using **Python**]
+    S34 --> S35[🤖 S35: Designing experiments to probe **LLM** inner workings]
+    S35 --> S36[🤖 S36: Empirical AI research and reinforcement learning experiments]
+    S36 --> S37[🐍 S37: Leveraging **Python** for ML experiment pipelines]
+    S37 --> S38[🤖 S38: Reverse-engineering neural network mechanisms]
+    S38 --> S39[🤖 S39: Strategic roadmap for safe **LLM** development]
+    S39 --> S40[🤖 S40: Transformer-based **LLM** interpretability and fine-tuning]
+    S40 --> S41[🤖 S41: AI DL model productization using established frameworks]
+    S41 --> S44[🤖 S44: Developing agentic AI RAG and generative AI solutions LangChain AutoGen]
+```
+
+# 4. 📊 Data Engineering, Analytics & Data Governance
+```mermaid
+graph TB
+    R["Systems Infrastructure<br>Low-Level Engineering"] --> DC[🔩 Dist Core]
+    R --> DW[🖥️ Data Ware]
+    R --> DP[📈 Data Pipes]
+    R --> DA[⚙️ Data Anal]
+    R --> RT[🤖 Real-Time]
+    R --> LS[💾 Large Scale]
+    R --> GO[🛠️ Opt Tools]
+    R --> AO[🤝 Collab]
+
+    DC --> S7[🖧 S7: **Distributed** compute frameworks Spark Flink]
+    S7 --> S8[💻 S8: ETL pipelines using Airflow and Spark]
+
+    DW --> S4[💻 S4: Data modeling and warehousing]
+    S4 --> S6[💻 S6: Data warehousing and BI tools Looker etc]
+    S6 --> S11[💻 S11: Managing data lakes and warehousing]
+
+    DP --> S12[🐍 S12: **Python** and SQL based data pipelines for finance]
+    S12 --> S15[🐍 S15: SQL and **Python** workflows for data visualization]
+    S15 --> S18[📊 S18: Large-scale data ingestion transformation and curation]
+
+    DA --> S1[📊 S1: Advanced analytics and forecasting using **Python** R]
+    S1 --> S5[📊 S5: Data storytelling and stakeholder communications]
+    S5 --> S16[📊 S16: Product analytics and funnel insights]
+
+    RT --> S2[📊 S2: Alerting systems and dashboards Grafana etc]
+    S2 --> S13[📊 S13: Real-time anomaly detection using **Python** and streaming]
+    S13 --> S14[📊 S14: Root-cause analysis and incident response]
+
+    LS --> S10[📊 S10: Handling large event data Kafka S3]
+    S10 --> S17[🖥️ S17: Complex data pipelines and **HPC** optimization techniques]
+    S17 --> S19[📊 S19: Multi-modal data processing for diverse inputs]
+
+    GO --> S9[📊 S9: Experiment design and user behavior modeling]
+
+    AO --> S3[🤝 S3: Collaboration with data science teams]
+```
+
+
+
+# 5. 🔒 Security, Compliance & Reliability
+```mermaid
+graph TB
+    R["Systems Infrastructure<br>Low-Level Engineering"] --> DC[🔩 Dist Core]
+    R --> SR[🖥️ Sec Resp]
+    R --> MP[📈 Mon Perf]
+    R --> SC[⚙️ Sec Comp]
+    R --> RT[🤖 Rel Tools]
+    R --> LS[💾 Low-Level]
+    R --> GO[🛠️ Opt Sec]
+    R --> AO[🤝 AIOps]
+
+    DC --> S10[🖥️ S10: Secure architecture for **HPC** and ML pipelines]
+    S10 --> S13[⚖️ S13: Designing fault-tolerant high-availability **LLM** serving systems]
+    S13 --> S14[⚖️ S14: Designing resilient and scalable architectures]
+
+    SR --> S1[🧪 S1: Attack simulations and detection pipelines]
+    S1 --> S3[🤝 S3: Cross-team incident response orchestration]
+    S3 --> S8[🔒 S8: Security audits and penetration testing]
+
+    MP --> S18[⚙️ S18: **Performance** tuning for LLM serving systems]
+    S18 --> S20[🐍 S20: **Python** for reliability monitoring and automation]
+    S20 --> S21[🐍 S21: **Python**-based monitoring and fault-tolerance solutions]
+    S21 --> S23[💻 S23: Cost optimization and reliability in cloud environments]
+
+    SC --> S4[🔒 S4: IAM solutions AzureAD Okta]
+    S4 --> S7[🔒 S7: Risk assessment and vulnerability management]
+    S7 --> S11[🔒 S11: Security privacy and compliance in data management]
+    S11 --> S15[🔒 S15: Ensuring compliance and secure transactions]
+
+    RT --> S2[🐍 S2: Automation with **Python** and Bash]
+    S2 --> S9[🔒 S9: Security best practices for AI products appsec devsecops]
+    S9 --> S16[💻 S16: Familiarity with technical operations tools for security]
+    S16 --> S22[🔒 S22: Risk management and compliance strategies]
+
+    LS --> S5[🔒 S5: MacOS and iOS endpoint security frameworks]
+    S5 --> S6[🔒 S6: ML system vulnerability management]
+    S6 --> S17[🔒 S17: Managing security processes for AI systems]
+
+    GO --> S19[⚙️ S19: Process optimization and rapid troubleshooting for security]
+    S19 --> S24[🔒 S24: Data quality standards and compliance Informatica Collibra Alation]
+    S24 --> S25[🔒 S25: Enterprise-wide data governance and policies for security]
+
+    AO --> S12[🤝 S12: Coordinating with security and compliance teams]
+    S12 --> S26[🔌 S26: Hybrid cloud **integration** for secure operations]
+    S26 --> S27[🔒 S27: Identity management MFA ActiveDirectory AzureAD SSO ZeroTrust]
+    S27 --> S28[🔒 S28: Scalable database security MySQL PostgreSQL MongoDB Oracle]
+```
+
+# 6. 👥 Leadership, Management & Collaboration
+```mermaid
+graph TB
+    R["Systems Infrastructure<br>Low-Level Engineering"] --> DC[🔩 Dist Core]
+    R --> TL[🖥️ Team Lead]
+    R --> MP[📈 Mgmt Perf]
+    R --> CT[⚙️ Cross-Team]
+    R --> RL[🤖 RL Lead]
+    R --> LS[💾 Lead Scale]
+    R --> GO[🛠️ Opt Collab]
+    R --> AO[🤝 Align Ops]
+
+    DC --> S1[🤝 S1: Coordinating engineering design and research teams]
+    S1 --> S4[🤝 S4: Cross-team collaboration and project leadership]
+    S4 --> S15[🤝 S15: Collaboration across diverse technology teams]
+
+    TL --> S8[👥 S8: People and team management for data teams]
+    S8 --> S11[👥 S11: Team leadership and project delivery]
+    S11 --> S19[👥 S19: Cross-functional team coaching and agile processes]
+    S19 --> S27[👥 S27: Leading high-impact zero-to-one ML development teams]
+
+    MP --> S5[📊 S5: Data-driven product management AB testing and analytics]
+    S5 --> S9[👥 S9: Stakeholder management and vendor oversight]
+    S9 --> S10[👥 S10: Team-building and product strategy]
+    S10 --> S25[👥 S25: Detailed project planning and stakeholder coordination]
+
+    CT --> S2[👥 S2: Cross-functional leadership for platform roadmaps]
+    S2 --> S3[👥 S3: Cross-functional leadership across finance and engineering]
+    S3 --> S7[👥 S7: Driving cross-team alignment on HPC resources]
+    S7 --> S20[👥 S20: Cross-functional stakeholder management]
+
+    RL --> S16[🤖 S16: Coordinating reinforcement learning experiments]
+    S16 --> S29[👥 S29: Leading teams building reinforcement learning systems]
+    S29 --> S30[👥 S30: Leading teams in ML interpretability research]
+
+    LS --> S12[⚖️ S12: Balancing innovative research with product delivery]
+    S12 --> S13[⚖️ S13: Balancing rapid product delivery with AI safety standards]
+    S13 --> S18[⚖️ S18: Cross-functional agile collaboration for ML **scalability**]
+    S18 --> S31[🐍 S31: Overseeing **Python**-driven ML infrastructure]
+
+    GO --> S14[👤 S14: Bridging customer requirements with technical development]
+    S14 --> S23[📊 S23: Data-driven growth strategies for AI products]
+    S23 --> S24[📊 S24: Data-driven strategy implementation]
+    S24 --> S28[👥 S28: Leading interdisciplinary ML research initiatives]
+
+    AO --> S17[🤝 S17: Coordinating with security and compliance teams]
+    S17 --> S21[👥 S21: Cross-regional team alignment]
+    S21 --> S22[🤝 S22: Cross-team collaboration for ML deployment]
+    S22 --> S26[👥 S26: Driving execution of global market entry strategies]
+    S26 --> S32[🤝 S32: Vendor and cross-team coordination]
+```
+
+# 7. 📱 Full-Stack, UI, Mobile & Product Development
+```mermaid
+graph TB
+    R["Systems Infrastructure<br>Low-Level Engineering"] --> DC[🔩 Dist Core]
+    R --> FS[🖥️ Full Stack]
+    R --> MP[📈 Mobile Perf]
+    R --> UI[⚙️ UI Dev]
+    R --> MT[🤖 ML Tools]
+    R --> LS[💾 Large Scale]
+    R --> GO[🛠️ Opt Dev]
+    R --> AO[🤝 Auto Ops]
+
+    DC --> S3[💻 S3: Cloud-based microservices and REST GraphQL APIs]
+    S3 --> S4[💻 S4: GraphQL or REST based data fetching]
+    S4 --> S20[💻 S20: API design for scalable **LLM** interactions]
+    S20 --> S36[🐍 S36: **Python** based API and data pipeline creation]
+
+    FS --> S12[🐍 S12: **Python** Node backend development for AI features]
+    S12 --> S14[💻 S14: React Nextjs with Python for web services]
+    S14 --> S15[💻 S15: React TypeScript front-end development]
+    S15 --> S17[💻 S17: TypeScript React and **Python** backend development]
+    S17 --> S31[💻 S31: Full-stack development for **ML** driven products]
+
+    MP --> S5[📱 S5: Integrating AI chat features in mobile applications]
+    S5 --> S9[📱 S9: Native Android development Kotlin Java]
+    S9 --> S11[⚙️ S11: **Performance** tuning and enhancing user experience for mobile]
+    S11 --> S34[📱 S34: Mobile app development incorporating AI features]
+
+    UI --> S6[🤖 S6: **LLM** integration for user support flows]
+    S6 --> S24[👤 S24: Building intuitive UIs integrated with **Python** backed ML]
+    S24 --> S26[👤 S26: Crafting **user-centric** designs for AI interfaces]
+    S26 --> S32[💻 S32: Integrating robust UIs with backend ML models]
+    S32 --> S33[👤 S33: Iterative design based on user feedback]
+
+    MT --> S1[🤝 S1: Building internal AI automation tools]
+    S1 --> S13[🌐 S13: Rapid prototyping of AI based internal apps]
+    S13 --> S22[🤖 S22: Bridging **Python** based ML models with frontend tooling]
+    S22 --> S23[💻 S23: Building internal tools to boost productivity in ML teams]
+    S23 --> S27[💻 S27: Developer tools for prompt engineering and model testing]
+
+    LS --> S16[🤖 S16: Integrating with GPT and other **LLM** endpoints]
+    S16 --> S21[📱 S21: Bridging native mobile frontends with Python backends]
+    S21 --> S28[🌐 S28: End-to-end product delivery in software development]
+    S28 --> S37[🤖 S37: Senior engineering for practical AI and **ML** solutions]
+    S37 --> S41[🐍 S41: Writing apps using **Python** Rust CUDA Transformers Keras]
+
+    GO --> S2[💻 S2: CI CD automation and testing frameworks]
+    S2 --> S10[🤝 S10: Observability and robust logging tracing]
+    S10 --> S18[💻 S18: Zero-touch deployment and patching]
+    S18 --> S35[💻 S35: Optimizing TypeScript Node build systems]
+    S35 --> S43[💻 S43: Designing and developing secure robust apps and APIs using Streamlit and Gradio]
+
+    AO --> S7[📱 S7: MacOS iOS fleet management and security]
+    S7 --> S8[📱 S8: MDM solutions and iOS provisioning]
+    S8 --> S19[🌐 S19: Active engagement with open-source communities]
+    S8 --> S29[🔒 S29: Enhancing secure workflows and enterprise integrations]
+    S29 --> S30[🌐 S30: Experimentation and iterative product development]
+    S30 --> S45[🤖 S45: Leveraging deep learning frameworks PyTorch XLA and cloud platforms]
+```
+
+# 8. 🎯 Specialized Domains & Emerging Technologies
+```mermaid
+graph TB
+    R["Systems Infrastructure<br>Low-Level Engineering"] --> DC[🔩 Dist Core]
+    R --> CV[🖥️ Comp Vision]
+    R --> RL[📈 Robotics]
+    R --> HW[⚙️ Hardware]
+    R --> NT[🤖 Networks]
+    R --> LS[💾 Large Scale]
+    R --> GO[🛠️ GPU Opt]
+    R --> AO[🤝 AI Ops]
+
+    DC --> S7[🤖 S7: Agent frameworks and **LLM** pipelines LangChain AutoGen]
+    S7 --> S15[🤖 S15: System design for multi-agent AI workflows]
+    S15 --> S23[🤖 S23: Domain randomization and sim-to-real transfer for reinforcement learning]
+    S23 --> S25[🤖 S25: Large-scale reinforcement learning methods PPO SAC QLearning]
+    S25 --> S27[🤖 S27: Reinforcement learning orchestration and simulation based training]
+
+    CV --> S1[🎯 S1: 3D computer vision and neural rendering radiance fields]
+    S1 --> S2[🎯 S2: Advanced 3D reconstruction techniques Gaussian splatting NERF]
+    S2 --> S5[⚙️ S5: **Performance** optimized computer vision algorithms real-time tracking relighting]
+    S5 --> S6[🎯 S6: Semantic video search and 3D reconstruction services]
+
+    RL --> S16[🤖 S16: Advanced AI for self-driving software]
+    S16 --> S17[📊 S17: Autonomous vehicle data pipelines and debugging]
+    S17 --> S19[📊 S19: Large-scale multi-sensor data operations and calibration]
+    S19 --> S20[🤖 S20: Path planning and decision-making in robotics]
+    S20 --> S22[🔌 S22: Sensor fusion and HPC **integration** for perception systems]
+
+    HW --> S10[🚀 S10: EDA and transistor-level **performance** modeling SPICE BSIM STA]
+    S10 --> S11[🚀 S11: GPU and SoC modeling and SoC architecture SystemC TLM]
+    S11 --> S12[🚀 S12: Next-generation **hardware** bringup and system simulation]
+    S12 --> S30[🛠️ S30: GPU verification architecture techniques TLM SystemC modeling]
+    S30 --> S31[🚀 S31: **Hardware** prototyping and verification SDN SONiC P4 programmable hardware]
+
+    NT --> S14[🌐 S14: Advanced development for programmable networks SDN SONiC P4]
+    S14 --> S28[🔌 S28: Communication libraries NCCL NVSHMEM UCX]
+    S28 --> S29[🖥️ S29: **HPC** networking InfiniBand RoCE and distributed GPU programming]
+    S29 --> S32[🛠️ S32: GPU communications libraries management and **performance** tuning]
+    S32 --> S33[💻 S33: Senior software architecture for data centers EthernetIP design switch OS]
+
+    LS --> S8[🐍 S8: Concurrency in Cplusplus **Python** and vector database integration]
+    S8 --> S9[⚙️ S9: Cross-layer **performance** analysis and debugging techniques]
+    S9 --> S13[⚙️ S13: Parallel computing fundamentals and **performance** simulation]
+    S13 --> S18[💻 S18: Car fleet software updates OTA and telemetry management]
+    S18 --> S21[🐍 S21: Real-time embedded systems for robotics Cplusplus **Python**]
+
+    GO --> S3[🎯 S3: Graphics engines and deep learning for graphics Unreal Unity]
+    S3 --> S4[💾 S4: **Low-level** rendering pipelines DirectX Vulkan DX12]
+    S4 --> S24[🛠️ S24: GPU accelerated physics simulation Isaac Sim]
+    S24 --> S26[🤖 S26: Policy optimization for robotics at scale]
+
+    AO --> S34[🐍 S34: Developing Web AI solutions using **Python** Streamlit Gradio and Torch]
+    S34 --> S35[💻 S35: Developing Web AI solutions with Javascript TypeScript and HuggingFacejs]
+    S35 --> S36[💻 S36: Creating WebML applications for on-device model inference]
+    S36 --> S37[💻 S37: Building JSTS libraries for in-browser inference using ONNX and quantization with WebGPU WebNN and WASM]
+    S37 --> S38[🤖 S38: Driving forward quantization in the open-source ecosystem Accelerate PEFT Diffusers Bitsandbytes AWQ AutoGPTQ]
+    S38 --> S39[📊 S39: Designing modern search solutions combining semantic and lexical search dense bi-encoder models SPLADE BM25]
+```
+
+
+
+
+
+# Tree Builder Prompt
+```markdown
+I have a list of tasks in a Mermaid diagram that I want you to reformat according to these specific rules, matching the structure and style of a previous perfectly formatted version. Here’s what I need:
+
+1. **Diagram Type**: Use `graph TB` (top-to-bottom layout).
+2. **Root Node**: Set the root node as "Systems Infrastructure<br>Low-Level Engineering" with no emoji.
+3. **Clusters**: Organize the tasks into exactly 8 subgraphs (columns), each with ~5 nodes (adjust for even distribution of total tasks, aiming for 4-5 tasks per cluster plus a root box).
+4. **Cluster Structure**:
+   - Each subgraph has a single root box with a unique emoji and name, connected from the root node (e.g., `R --> DC[🔩 Dist Core]`).
+   - Name the clusters logically based on task themes (e.g., "Distributed Core," "HPC Setup," "ML Training") and assign these emojis:
+     - 🔩 for distributed systems
+     - 🖥️ for HPC-related tasks
+     - 📈 for advanced HPC
+     - ⚙️ for ML performance
+     - 🤖 for ML training
+     - 💾 for low-level systems
+     - 🛠️ for GPU optimization
+     - 🤝 for AIOps and automation
+   - Chain tasks within each subgraph from the root box in a single branch (e.g., `DC --> S26 --> S27 --> S31`), with no additional connections from `R` to tasks.
+5. **Node Names**: Standardize all task node names to `S#` (e.g., `SILE26` → `S26`, `S4` → `S4`), numbered sequentially from 1 to the total number of tasks based on their original order.
+6. **Task Formatting**:
+   - Boldface the most significant or common keyword in each task label using `**` (e.g., "**Distributed** system debugging"), determined by frequency or importance across the list.
+   - Add an emoji before each task label that matches the boldfaced keyword, using this mapping (consistent within columns where applicable):
+     - 🖧: "distributed"
+     - 🖥️: "HPC"
+     - ⚙️: "performance"
+     - 🛠️: "GPU"
+     - 🤖: "ML"
+     - 🤝: "AIOps"
+     - 📊: "throughput"
+     - 💾: "low-level"
+     - 🚀: "hardware"
+     - 🧪: "stress-testing"
+     - ⚖️: "load balancing"
+     - 💻: "tooling"
+     - 🔌: "integration"
+     - 🐍: "Python"
+     - 🌐: "innovation"
+     - 👤: "user-centric"
+   - Keep the full original text for each task, only adding boldface and emoji.
+7. **Screen Optimization**: Format for an 11" wide x 8.5" tall screen (1280x1024 resolution), aiming for ~1280-1600px wide (8 columns, ~160-200px each) and ~650-750px tall (5 nodes + root, ~120-150px each with spacing).
+8. **Output**: Provide the result in a ```mermaid ... ``` block, ready for copy-pasting into a GitHub README.md.
+
+Here’s my starting list:
+[Insert your list here, e.g., "SILE26: Building and optimizing distributed backend systems", "SILE27: Distributed system debugging and optimization", "S4: Accelerating ML training inference across AI hardware", etc. If no prefixes like `SILE#` are provided, assign `S1` to `S#` sequentially.]
+
+Please reformat this list into the specified structure, ensuring each cluster has a single branch and all formatting rules are applied consistently.  Do this for each of the headings below as a seperate mermaid diagram for each one.
+```
+
+
+
 
 # Systems Infrastructure Low Level Engineering
 
