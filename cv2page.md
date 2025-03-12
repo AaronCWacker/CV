@@ -10,20 +10,20 @@ graph TB
 
     subgraph "Distributed Core"
         R --> DC[🔩 Dist Core]
-        DC --> SILE26[🖧 Building and optimizing<br>**distributed** backend systems]
-        SILE26 --> SILE27[🖧 **Distributed** system<br>debugging and optimization]
-        SILE27 --> SILE37[🖧 **Distributed** systems<br>design and scalable architectures]
-        SILE37 --> S28[🖧 **Distributed** system design<br>and MLOps best practices]
-        S28 --> SILE31[⚖️ **Load balancing** and<br>high-availability design]
+        DC --> S26[🖧 Building and optimizing<br>**distributed** backend systems]
+        S26 --> S27[🖧 **Distributed** system<br>debugging and optimization]
+        S27 --> S37[🖧 **Distributed** systems<br>design and scalable architectures]
+        S37 --> S28[🖧 **Distributed** system design<br>and MLOps best practices]
+        S28 --> S31[⚖️ **Load balancing** and<br>high-availability design]
     end
 
     subgraph "HPC Setup"
         R --> HS[🖥️ HPC Setup]
-        HS --> SILE15[🖥️ **HPC** or large-batch<br>evaluations]
-        SILE15 --> S11[🖥️ GPU cluster configuration<br>and job **scheduling**]
-        S11 --> S12[🖥️ **HPC** provisioning and<br>GPU cluster orchestration]
+        HS --> S15[🖥️ **HPC** or large-batch<br>evaluations]
+        S15 --> S12[🖥️ **HPC** provisioning and<br>GPU cluster orchestration]
         S12 --> S13[🖥️ **HPC** training pipeline<br>and multi-GPU scheduling]
         S13 --> S14[🖥️ **HPC** scheduling and<br>multi-node debugging]
+        S14 --> S11[🖥️ GPU cluster configuration<br>and job **scheduling**]
     end
 
     subgraph "HPC Advanced"
@@ -38,10 +38,10 @@ graph TB
     subgraph "ML Performance"
         R --> MP[⚙️ ML Perf]
         MP --> S29[⚙️ High-**performance** optimization<br>for ML training and inference]
-        MP --> S32[⚙️ Optimizing system **performance**<br>under heavy ML loads]
-        S32 --> SILE7[⚙️ Cross-layer **performance**<br>tuning hardware plus software]
-        SILE7 --> SILE30[📊 Implementing quantitative<br>models of system **throughput**]
-        SILE30 --> SILE8[🖥️ Data-center scale **HPC**<br>or ML deployment]
+        S29 --> S32[⚙️ Optimizing system **performance**<br>under heavy ML loads]
+        S32 --> S7[⚙️ Cross-layer **performance**<br>tuning hardware plus software]
+        S7 --> S30[📊 Implementing quantitative<br>models of system **throughput**]
+        S30 --> S8[🖥️ Data-center scale **HPC**<br>or ML deployment]
     end
 
     subgraph "ML Training"
@@ -55,11 +55,11 @@ graph TB
 
     subgraph "Low-Level Systems"
         R --> LS[💾 Low-Level Sys]
-        LS --> SILE2[💾 Linux or **embedded**<br>systems experience]
-        SILE2 --> S1[💾 **Low-level** system integrations<br>compilers Cplusplus]
-        S1 --> S3[🚀 **Hardware** acceleration]
+        LS --> S2[💾 Linux or **embedded**<br>systems experience]
+        S2 --> S1[💾 **Low-level** system integrations<br>compilers Cplusplus]
+        S1 --> S23[💾 Python and **low-level** matrix<br>operations custom CUDA kernels]
+        S23 --> S3[🚀 **Hardware** acceleration]
         S3 --> S5[🛠️ **CUDA** kernels]
-        S5 --> S23[💻 Python and **low-level** matrix<br>operations custom CUDA kernels]
     end
 
     subgraph "GPU Optimization"
@@ -73,87 +73,11 @@ graph TB
 
     subgraph "AIOps & Automation"
         R --> AO[🤝 AIOps & Auto]
-        AO --> SILE38[🤝 Observability anomaly<br>detection and automated triage **AIOps** Python Go]
-        SILE38 --> SILE39[🤝 ServiceNow expansions<br>**AIOps** and AI automation]
-        SILE39 --> SILE34[🐍 **Python**-driven distributed<br>training pipelines]
-        SILE34 --> SILE36[🌐 Cross-team platform<br>**innovation** and proactive ML based resolution]
-        SILE36 --> SILE40[👤 **User-centric** IT<br>workflows and design integration]
-    end
-```
-```mermaid
-graph TB
-    R[🔧 Systems Infrastructure<br>Low-Level Engineering]
-
-    subgraph "Distributed Core"
-        R --> DC[🔩 Dist Core]
-        DC --> SILE26[🖧 Building and optimizing<br>**distributed** backend systems]
-        SILE26 --> SILE27[🖧 **Distributed** system<br>debugging and optimization]
-        SILE27 --> SILE37[🖧 **Distributed** systems<br>design and scalable architectures]
-        SILE37 --> S28[🖧 **Distributed** system design<br>and MLOps best practices]
-        S28 --> SILE31[⚖️ **Load balancing** and<br>high-availability design]
-    end
-
-    subgraph "HPC Setup"
-        R --> HS[🖥️ HPC Setup]
-        HS --> SILE15[🖥️ **HPC** or large-batch<br>evaluations]
-        SILE15 --> S11[🖥️ GPU cluster configuration<br>and job **scheduling**]
-        S11 --> S12[🖥️ **HPC** provisioning and<br>GPU cluster orchestration]
-        S12 --> S13[🖥️ **HPC** training pipeline<br>and multi-GPU scheduling]
-        S13 --> S14[🖥️ **HPC** scheduling and<br>multi-node debugging]
-    end
-
-    subgraph "HPC Advanced"
-        R --> HA[📈 HPC Adv]
-        HA --> S17[🖥️ Large-scale **distributed**<br>computing and HPC performance]
-        HA --> S16[🖥️ Hybrid on-premise and<br>cloud **HPC** setups]
-        S16 --> S21[🖥️ Overseeing **HPC** infrastructure<br>for RL reasoning tasks]
-        S21 --> S22[⚙️ **Performance** modeling for<br>large GPU fleets]
-        S22 --> S24[💻 Python Cplusplus **tooling**<br>for robust model tests]
-    end
-
-    subgraph "ML Performance"
-        R --> MP[⚙️ ML Perf]
-        MP --> S29[⚙️ High-**performance** optimization<br>for ML training and inference]
-        MP --> S32[⚙️ Optimizing system **performance**<br>under heavy ML loads]
-        S32 --> SILE7[⚙️ Cross-layer **performance**<br>tuning hardware plus software]
-        SILE7 --> SILE30[📊 Implementing quantitative<br>models of system **throughput**]
-        SILE30 --> SILE8[🖥️ Data-center scale **HPC**<br>or ML deployment]
-    end
-
-    subgraph "ML Training"
-        R --> MT[🤖 ML Train]
-        MT --> S4[🤖 Accelerating **ML** training<br>inference across AI hardware]
-        S4 --> S20[🤖 Multi-GPU **training** and<br>HPC acceleration]
-        S20 --> S33[⚙️ **Performance** optimization<br>for LLM inference]
-        S33 --> S35[⚙️ **Throughput** and performance<br>optimization]
-        S35 --> S25[🧪 **Stress-testing** frontier<br>LLMs and misuse detection]
-    end
-
-    subgraph "Low-Level Systems"
-        R --> LS[💾 Low-Level Sys]
-        LS --> SILE2[💾 Linux or **embedded**<br>systems experience]
-        SILE2 --> S1[💾 **Low-level** system integrations<br>compilers Cplusplus]
-        S1 --> S3[🚀 **Hardware** acceleration]
-        S3 --> S5[🛠️ **CUDA** kernels]
-        S5 --> S23[💻 Python and **low-level** matrix<br>operations custom CUDA kernels]
-    end
-
-    subgraph "GPU Optimization"
-        R --> GO[🛠️ GPU Opt]
-        GO --> S9[🛠️ **GPU** accelerator architecture<br>and CUDA kernel optimization]
-        S9 --> S10[🛠️ **GPU** kernel design and<br>HPC concurrency]
-        S10 --> S19[🛠️ Low-level driver **optimizations**<br>CUDA RDMA etc]
-        S19 --> S18[💻 **Low-level** HPC code<br>Cplusplus Triton and parallel programming]
-        S18 --> S6[🔌 Optimum **integration** for<br>specialized AI hardware]
-    end
-
-    subgraph "AIOps & Automation"
-        R --> AO[🤝 AIOps & Auto]
-        AO --> SILE38[🤝 Observability anomaly<br>detection and automated triage **AIOps** Python Go]
-        SILE38 --> SILE39[🤝 ServiceNow expansions<br>**AIOps** and AI automation]
-        SILE39 --> SILE34[🐍 **Python**-driven distributed<br>training pipelines]
-        SILE34 --> SILE36[🌐 Cross-team platform<br>**innovation** and proactive ML based resolution]
-        SILE36 --> SILE40[👤 **User-centric** IT<br>workflows and design integration]
+        AO --> S38[🤝 Observability anomaly<br>detection and automated triage **AIOps** Python Go]
+        S38 --> S39[🤝 ServiceNow expansions<br>**AIOps** and AI automation]
+        S39 --> S34[🐍 **Python**-driven distributed<br>training pipelines]
+        S34 --> S36[🌐 Cross-team platform<br>**innovation** and proactive ML based resolution]
+        S36 --> S40[👤 **User-centric** IT<br>workflows and design integration]
     end
 ```
 
