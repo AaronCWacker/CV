@@ -8,62 +8,67 @@
 graph TB
     R[🔧 Systems Infra<br>Low-Level Eng]
 
-    %% Chain 1: Distributed Systems
-    R --> DS[🔧 Distributed Systems]
-    DS --> SILE26[🔧🔧 Build & optimize<br>distributed backend]
-    DS --> SILE27[🔧🔧 Debug & optimize<br>distributed systems]
-    DS --> SILE31[🔧🔧 Load balancing<br>& high-availability]
-    DS --> SILE37[🔧🔧 Design & scalable<br>architectures]
-    DS --> S28[🔧 Design & MLOps<br>best practices]
+    %% Subgraph 1: Distributed Systems
+    subgraph Distributed
+        R --> SILE26[🔧🔧 Build & opt<br>dist backend]
+        R --> SILE27[🔧🔧 Debug & opt<br>dist systems]
+        R --> SILE31[🔧🔧 Load balance<br>& high-avail]
+        R --> SILE37[🔧🔧 Design &<br>scalable arch]
+        R --> S28[🔧 Design &<br>MLOps]
+    end
 
-    %% Chain 2: HPC
-    R --> HPC[🔧 HPC]
-    HPC --> SILE15[🔧🔧 Large-batch<br>evaluations]
-    HPC --> S11[🔧 GPU cluster config<br>& scheduling]
-    HPC --> S12[🔧 Provisioning &<br>GPU orchestration]
-    HPC --> S13[🔧 Training pipeline<br>& multi-GPU]
-    HPC --> S14[🔧 Scheduling &<br>multi-node debug]
-    HPC --> S16[🔧 Hybrid setups]
-    HPC --> S17[🔧 Large-scale<br>performance]
-    HPC --> S21[🔧 Infra for RL<br>reasoning]
+    %% Subgraph 2: HPC
+    subgraph HPC
+        R --> SILE15[🔧🔧 Large-batch<br>evals]
+        R --> S11[🔧 GPU cluster<br>& sched]
+        R --> S12[🔧 Provision<br>& GPU orch]
+        R --> S13[🔧 Train pipe<br>& multi-GPU]
+        R --> S14[🔧 Sched &<br>multi-node]
+        R --> S16[🔧 Hybrid<br>setups]
+        R --> S17[🔧 Large-scale<br>perf]
+        R --> S21[🔧 Infra for<br>RL tasks]
+    end
 
-    %% Chain 3: ML & Optimization
-    R --> ML[🔧 ML & Optimization]
-    ML --> SILE7[🔧🔧 Cross-layer<br>tuning]
-    ML --> SILE8[🔧🔧 Data-center<br>HPC/ML deploy]
-    ML --> SILE30[🔧🔧 Throughput<br>models]
-    ML --> S4[🔧 Accelerate ML<br>train/infer]
-    ML --> S20[🔧 Multi-GPU<br>training]
-    ML --> S29[🔧 High-perf ML<br>optimization]
-    ML --> S32[🔧 Optimize under<br>ML loads]
-    ML --> S33[🔧 LLM inference<br>optimization]
-    ML --> S35[🔧 Throughput<br>optimization]
+    %% Subgraph 3: ML & Optimization
+    subgraph ML & Opt
+        R --> SILE7[🔧🔧 Cross-layer<br>tuning]
+        R --> SILE8[🔧🔧 Data-center<br>HPC/ML]
+        R --> SILE30[🔧🔧 Throughput<br>models]
+        R --> S4[🔧 Accel ML<br>train/infer]
+        R --> S20[🔧 Multi-GPU<br>training]
+        R --> S29[🔧 High-perf<br>ML opt]
+        R --> S32[🔧 Opt under<br>ML loads]
+        R --> S33[🔧 LLM infer<br>opt]
+        R --> S35[🔧 Throughput<br>opt]
+    end
 
-    %% Chain 4: Low-Level & Hardware
-    R --> LL[🔧 Low-Level & Hardware]
-    LL --> SILE2[🔧🔧 Linux/embedded<br>systems]
-    LL --> S1[🔧 Low-level<br>C++ integrations]
-    LL --> S3[🔧 Hardware<br>acceleration]
-    LL --> S5[🔧 CUDA kernels]
-    LL --> S6[🔧 AI hardware<br>integration]
-    LL --> S9[🔧 GPU accel &<br>CUDA opt]
-    LL --> S10[🔧 GPU kernel<br>& concurrency]
-    LL --> S18[🔧 HPC code<br>C++/Triton]
-    LL --> S19[🔧 Driver opts<br>CUDA/RDMA]
-    LL --> S23[🔧 Python &<br>custom CUDA]
+    %% Subgraph 4: Low-Level & Hardware
+    subgraph Low-Level
+        R --> SILE2[🔧🔧 Linux/<br>embedded]
+        R --> S1[🔧 Low-level<br>C++]
+        R --> S3[🔧 HW accel]
+        R --> S5[🔧 CUDA<br>kernels]
+        R --> S6[🔧 AI HW<br>integ]
+        R --> S9[🔧 GPU accel<br>& CUDA]
+        R --> S10[🔧 GPU kernel<br>& concur]
+        R --> S18[🔧 HPC code<br>C++/Triton]
+        R --> S19[🔧 Driver opts<br>CUDA/RDMA]
+        R --> S23[🔧 Python &<br>custom CUDA]
+    end
 
-    %% Chain 5: AIOps & Automation
-    R --> AIO[🔧 AIOps & Automation]
-    AIO --> SILE34[🔧🔧 Python-driven<br>pipelines]
-    AIO --> SILE36[🔧🔧 Cross-team<br>ML innovation]
-    AIO --> SILE38[🔧🔧 Observability<br>& AIOps Python Go]
-    AIO --> SILE39[🔧🔧 ServiceNow<br>AIOps & AI]
-    AIO --> SILE40[🔧🔧 User-centric<br>IT workflows]
+    %% Subgraph 5: AIOps & Automation
+    subgraph AIOps
+        R --> SILE34[🔧🔧 Python<br>pipelines]
+        R --> SILE36[🔧🔧 Cross-team<br>ML innov]
+        R --> SILE38[🔧🔧 Observ &<br>AIOps Py Go]
+        R --> SILE39[🔧🔧 ServiceNow<br>AIOps AI]
+        R --> SILE40[🔧🔧 User-centric<br>workflows]
+    end
 
-    %% Remaining nodes
-    R --> S22[🔧 Perf modeling<br>GPU fleets]
-    R --> S24[🔧 Python/C++<br>model test tools]
-    R --> S25[🔧 Stress-test<br>LLMs & misuse]
+    %% Remaining
+    R --> S22[🔧 Perf model<br>GPU fleets]
+    R --> S24[🔧 Py/C++<br>test tools]
+    R --> S25[🔧 Stress-test<br>LLMs]
 ```
 
 ```mermaid
