@@ -4,7 +4,8 @@
 
 
 # Systems Infrastructure Low Level Engineering
-```mermaidgraph TB
+```mermaid
+graph TB
     R[🔧 Systems Infrastructure<br>Low-Level Engineering]
 
     %% Column 1: Distributed Systems
