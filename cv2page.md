@@ -8,67 +8,69 @@
 graph TB
     R[🔧 Systems Infra<br>Low-Level Eng]
 
-    %% Subgraph 1: Distributed Systems
-    subgraph Distributed
+    %% Column 1: Distributed Systems
+    subgraph Dist Systems
         R --> SILE26[🔧🔧 Build & opt<br>dist backend]
-        R --> SILE27[🔧🔧 Debug & opt<br>dist systems]
-        R --> SILE31[🔧🔧 Load balance<br>& high-avail]
-        R --> SILE37[🔧🔧 Design &<br>scalable arch]
-        R --> S28[🔧 Design &<br>MLOps]
+        SILE26 --> SILE27[🔧🔧 Debug & opt<br>dist systems]
+        SILE27 --> SILE31[🔧🔧 Load balance<br>& high-avail]
+        SILE31 --> SILE37[🔧🔧 Design &<br>scale arch]
+        SILE37 --> S28[🔧 Design &<br>MLOps]
     end
 
-    %% Subgraph 2: HPC
+    %% Column 2: HPC
     subgraph HPC
         R --> SILE15[🔧🔧 Large-batch<br>evals]
-        R --> S11[🔧 GPU cluster<br>& sched]
-        R --> S12[🔧 Provision<br>& GPU orch]
-        R --> S13[🔧 Train pipe<br>& multi-GPU]
-        R --> S14[🔧 Sched &<br>multi-node]
-        R --> S16[🔧 Hybrid<br>setups]
-        R --> S17[🔧 Large-scale<br>perf]
-        R --> S21[🔧 Infra for<br>RL tasks]
+        SILE15 --> S11[🔧 GPU cluster<br>& sched]
+        S11 --> S12[🔧 Provision<br>& GPU orch]
+        S12 --> S13[🔧 Train pipe<br>& multi-GPU]
+        S13 --> S14[🔧 Sched &<br>multi-node]
+        S14 --> S16[🔧 Hybrid<br>setups]
+        S16 --> S17[🔧 Large-scale<br>perf]
+        S17 --> S21[🔧 Infra for<br>RL tasks]
     end
 
-    %% Subgraph 3: ML & Optimization
+    %% Column 3: ML & Optimization
     subgraph ML & Opt
         R --> SILE7[🔧🔧 Cross-layer<br>tuning]
-        R --> SILE8[🔧🔧 Data-center<br>HPC/ML]
-        R --> SILE30[🔧🔧 Throughput<br>models]
-        R --> S4[🔧 Accel ML<br>train/infer]
-        R --> S20[🔧 Multi-GPU<br>training]
-        R --> S29[🔧 High-perf<br>ML opt]
-        R --> S32[🔧 Opt under<br>ML loads]
-        R --> S33[🔧 LLM infer<br>opt]
-        R --> S35[🔧 Throughput<br>opt]
+        SILE7 --> SILE8[🔧🔧 Data-center<br>HPC/ML]
+        SILE8 --> SILE30[🔧🔧 Throughput<br>models]
+        SILE30 --> S4[🔧 Accel ML<br>train/infer]
+        S4 --> S20[🔧 Multi-GPU<br>training]
+        S20 --> S29[🔧 High-perf<br>ML opt]
+        S29 --> S32[🔧 Opt under<br>ML loads]
+        S32 --> S33[🔧 LLM infer<br>opt]
+        S33 --> S35[🔧 Throughput<br>opt]
     end
 
-    %% Subgraph 4: Low-Level & Hardware
+    %% Column 4: Low-Level & Hardware
     subgraph Low-Level
         R --> SILE2[🔧🔧 Linux/<br>embedded]
-        R --> S1[🔧 Low-level<br>C++]
-        R --> S3[🔧 HW accel]
-        R --> S5[🔧 CUDA<br>kernels]
-        R --> S6[🔧 AI HW<br>integ]
-        R --> S9[🔧 GPU accel<br>& CUDA]
-        R --> S10[🔧 GPU kernel<br>& concur]
-        R --> S18[🔧 HPC code<br>C++/Triton]
-        R --> S19[🔧 Driver opts<br>CUDA/RDMA]
-        R --> S23[🔧 Python &<br>custom CUDA]
+        SILE2 --> S1[🔧 Low-level<br>C++]
+        S1 --> S3[🔧 HW accel]
+        S3 --> S5[🔧 CUDA<br>kernels]
+        S5 --> S6[🔧 AI HW<br>integ]
+        S6 --> S9[🔧 GPU accel<br>& CUDA]
+        S9 --> S10[🔧 GPU kernel<br>& concur]
+        S10 --> S18[🔧 HPC code<br>C++/Triton]
+        S18 --> S19[🔧 Driver opts<br>CUDA/RDMA]
+        S19 --> S23[🔧 Python &<br>custom CUDA]
     end
 
-    %% Subgraph 5: AIOps & Automation
+    %% Column 5: AIOps & Automation
     subgraph AIOps
         R --> SILE34[🔧🔧 Python<br>pipelines]
-        R --> SILE36[🔧🔧 Cross-team<br>ML innov]
-        R --> SILE38[🔧🔧 Observ &<br>AIOps Py Go]
-        R --> SILE39[🔧🔧 ServiceNow<br>AIOps AI]
-        R --> SILE40[🔧🔧 User-centric<br>workflows]
+        SILE34 --> SILE36[🔧🔧 Cross-team<br>ML innov]
+        SILE36 --> SILE38[🔧🔧 Observ &<br>AIOps Py Go]
+        SILE38 --> SILE39[🔧🔧 ServiceNow<br>AIOps AI]
+        SILE39 --> SILE40[🔧🔧 User-centric<br>workflows]
     end
 
-    %% Remaining
-    R --> S22[🔧 Perf model<br>GPU fleets]
-    R --> S24[🔧 Py/C++<br>test tools]
-    R --> S25[🔧 Stress-test<br>LLMs]
+    %% Column 6: Remaining
+    subgraph Misc
+        R --> S22[🔧 Perf model<br>GPU fleets]
+        S22 --> S24[🔧 Py/C++<br>test tools]
+        S24 --> S25[🔧 Stress-test<br>LLMs]
+    end
 ```
 
 ```mermaid
