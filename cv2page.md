@@ -6,7 +6,6 @@
 # Systems Infrastructure Low Level Engineering
 
 ```mermaid
-```mermaid
 graph TB
     R[Systems Infrastructure<br>Low-Level Engineering]
 
