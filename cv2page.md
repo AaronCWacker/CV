@@ -60,7 +60,7 @@ graph LR
     subgraph AIOps & Automation
         R --> SILE34[🔧🔧 Python-driven<br>training pipelines]
         R --> SILE36[🔧🔧 Cross-team ML<br>innovation]
-        R --> SILE38[🔧🔧 Observability &<br>AIOps (Python/Go)]
+        R --> SILE38[🔧🔧 Observability &<br>AIOps Python Go]
         R --> SILE39[🔧🔧 ServiceNow<br>AIOps & AI]
         R --> SILE40[🔧🔧 User-centric<br>IT workflows]
     end
