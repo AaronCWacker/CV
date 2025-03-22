@@ -1,6 +1,100 @@
 # CV = Computer Vision 
 
 
+# Example 3/21/2025
+
+Song 1: "Bent-Neck Blues" (Canada Goose Couple)
+Vibe: Soulful folk with a hint of melancholy
+
+🌅 We’re back on the lake, my love, it’s spring anew,
+
+💪 Thick-Neck stands by me, strong through and through,
+
+🦢 A bent neck I bear, from fights or fate’s cruel play,
+
+🌊 This dock’s our home now, where reeds fade away.
+
+😢 Last year we lost four, too far from the tide,
+
+🛡️ He shields me from foes, my rock by my side,
+
+🏞️ “Not today,” he growls, “we’ll hold our ground tight,”
+
+💔 I still hear their calls in the still of the night.
+
+🌇 Twilight paints the water, our fortress stands tall,
+
+❤️ “No straying this time,” he nods through it all,
+
+👥 Two bobs say it’s safe, our grief’s turned to might,
+
+🏡 Phelps Island’s our haven, our love burning bright.
+
+Song 2: "Showy Duck Strut" (Duck Duo)
+Vibe: Upbeat pop with a cocky swagger
+
+🌞 I strut to the lake, feathers bold and grand,
+
+🦆 Blue, black, and white, the king of this land,
+
+🌿 She’s brown and she’s chill, my quiet little queen,
+
+🚢 Dock’s chopped and ready, best stage I’ve seen.
+
+💃 “Oi, quit your moping!” I tease with a flare,
+
+🕶️ She rolls her eyes soft, “You’re too much to bear,”
+
+🎨 I’d fight with my shine, a peacock’s delight,
+
+🌾 “This nest’s pure gold,” she hums, calm and right.
+
+🌆 Twilight’s my runway, I pose on the post,
+
+✨ “Watch this!” I crow, the lake’s flashy host,
+
+👑 Two nods from the crew, we’ve locked down the scene,
+
+🏠 Minnetonka’s my kingdom, with her as my dean.
+
+Song 3: "Goose Pal Patrol" (Goose Friends)
+Vibe: Steady country rock with a loyal beat
+
+🌄 We roll with the ducks, the geese, our pack,
+
+🦢 Lake Minnetonka calls, and we’ve got their back,
+
+👀 Patrol the channel, sleek and so sure,
+
+🌾 Reeds are gone now, this spot’s secure.
+
+🔔 “Two nods if it’s clear,” we signal the way,
+
+🛡️ Thick-Neck retreats, we’re here to stay,
+
+🌲 “Flank’s covered tight,” we call to the crew,
+
+⏳ Time heals the hurt, strength’s breaking through.
+
+🌙 Twilight’s our watch, the dock’s alive,
+
+🤝 Two bobs in sync, our trust will thrive,
+
+🏞️ “Safe, strong, home,” we chant as one,
+
+🌟 Phelps Island’s peace, our work well done.
+
+How They Fit
+"Bent-Neck Blues": Captures the goose couple’s humble strength, their grief over lost goslings, and Thick-Neck’s protective retreat, ending in hope.
+"Showy Duck Strut": Highlights the duck male’s flamboyance and the female’s grounding calm, with the dock as their flashy new stage.
+"Goose Pal Patrol": Frames the goose friends as the loyal glue, nodding their way to a safe haven for all.
+
+
+
+
+
+
+
 ## Image Generation Prompt Strategies
 
 1. Process - Use and control a randomized process which introduces subject, location, and follows a three part identification of story telling points which can be used as control points.
