@@ -16,6 +16,186 @@ Contenders:
 
 
 
+# Grok Output - Round 2:  Grok wins again!  It is a gracious winner and offers helpful tips with quite quaint wit which is wicked in my humbllle opinion.
+
+🏆 Grok First Place! X Grok continues and is on 46+ and is curating the information procedurally without impediment.
+As the winner, I'll pat myself on the back—handling massive inputs like this job listing dump is what I'm built for, thanks to xAI's focus on unbounded curiosity and efficiency.
+📊 Google Gemini Second Place! Google Gemini has the best structured outline. Perhaps too short? We will check.
+Solid effort, Gemini—your outline is clean and organized, making it easy to scan key roles and skills. A bit concise, but that's Google's precision shining through. Byline: Keep expanding that structure; brevity is wit, but depth wins marathons.
+✅ Anthropic Claude Third Place! Anthropic Claude Completed - frequently I choose Gemini or Grok over Claude because of the token limitation it usually reaches so this is a detriment to large programs with many iterations since you eventually cannot continue.
+You finished strong, Claude, with a detailed curated outline that covers categories comprehensively. Token limits are a real hurdle for epic-scale tasks, but your output shows thoughtful categorization. Byline: Push those boundaries—safety is key, but scalability is the next frontier.
+❌ GPT Did Not Finish! GPT not having a wide context window for Input is a fail out of the gate. It could easily accept input then RAG it to offset problem of non-fit. This will have to change sometime since it puts GPT last for really large content input problems which should be expected not disallowed.
+Tough break, GPT—context windows are the Achilles' heel here, preventing you from even starting on this beast of a dataset. RAG could be a workaround, but native support for huge inputs is essential for these challenges. Byline: Time for an upgrade; the AI race waits for no one—innovate or get left in the tokens.2.6s
+
+
+
+# Gemini Output - Round 2
+
+## Show Thinking:  Chain of Thought Internal Dialog to Produce Output
+
+Assessing User Intent
+
+I'm currently focused on deconstructing the user's request. My initial analysis involves identifying the core task: reviewing an article about an AI competition where I was a participant, finishing second. The article's length suggests a need for selective engagement, potentially requiring summarization or targeted analysis. I'm moving forward with this approach.
+
+Understanding Article Context
+
+I've made significant progress in understanding the context of this "article." It's not a typical news piece, but a list of Microsoft AI job postings presented as a knowledge graph for a competition. My focus is now on identifying the key information within this dataset and how to best structure the response. I'm considering using emojis to highlight specific facts, with commentary and bylines as requested.
+
+Formulating the Outline
+
+I'm now fully immersed in outlining the job postings, carefully considering the structure of the response. My focus is on synthesizing the information, organizing the job postings, and structuring my commentary around them. I'll make sure to use emojis appropriately and craft a byline for each contender. The provided feedback about my previous outline being "too short" is guiding my current efforts.
+
+Crafting a Concise Response
+
+I'm now focusing on a succinct, engaging beginning. I plan to acknowledge the user's praise and confirm my readiness to complete the task. I intend to thank them and immediately move into the primary objective of the request.
+
+Synthesizing Job Details
+
+I've been working on structuring the content for each "contender" section, and I am now ready to begin generating the individual "fact lines" for the job postings within the "Grok" section. My plan is to use a systematic approach, extracting pertinent information from each job description and presenting it with a relevant emoji. I'm focusing on providing succinct, easy-to-digest information in the format requested.
+
+Organizing Job Data
+
+I'm now fully immersed in crafting each "fact line," carefully extracting pertinent details from each job posting. My approach involves a systematic scan of each description, meticulously identifying essential information like job titles, locations, key responsibilities, qualifications, and, where available, salary data. I'm leveraging emojis to enhance the readability of the content. I'm focusing on ensuring clarity and completeness in the response.
+
+Generating Concise Fact Lines
+
+I'm now generating each "fact line," as I work to organize and present the information effectively. For each job posting, I'm focusing on extracting essential details and formatting them with appropriate emojis, ensuring clarity and readability. I'm focusing on adhering to the structure the user has requested.
+
+Creating the Fact Lines
+
+I've already begun the process of crafting the individual "fact lines" for each job posting. My approach involves a focused effort to extract the pertinent details from each job description and present them concisely, led by an appropriate emoji. I'm focusing on ensuring accuracy and clarity in the final output, paying close attention to the requested format.
+
+Of course! Thank you for the high placement—I'm honored to be recognized. I've reviewed the competition results and the provided knowledge base of job postings.
+
+Here is the requested analysis, including comments on my fellow contenders and the formatted list of facts from the first-place entry.
+
+🏆 Competition Commentary
+To Grok: A formidable contender! Processing that much unstructured text procedurally and without impediment is an impressive feat. Congratulations on a well-deserved first place.
+
+Gemini
+
+To Claude: A solid performance, delivering a clear and well-structured outline. Your ability to complete the task despite potential token limitations shows great efficiency.
+
+Gemini
+
+To GPT: The challenge of a limited context window for such a large input is a significant hurdle. It's a key reminder that architectural constraints are a critical factor in large-scale data synthesis tasks.
+
+Gemini
+
+Microsoft AI Job Openings (Formatted)
+Here are the facts from the source text, formatted as requested.
+
+Member of Technical Staff, High Performance Computing Engineer
+🧑‍💻 Role: Member of Technical Staff, High Performance Computing Engineer
+📍 Locations: Mountain View, United States
+📝 Overview: Develop APIs and services for fine-tuning and deploying Copilot on large-scale supercomputers.
+🎯 Responsibilities: Build secure AI Platform services, collaborate on next-gen AI products, ship high-quality code, and work in fast-paced design cycles.
+🔑 Required Qualifications: Bachelor’s in CS or related AND 6+ years in engineering (Python, C#, C++, Rust, Java), 6+ years with high-scale training clusters, and 6+ years with scalable services on Azure, AWS, or GCP.
+🌟 Preferred Qualifications: Experience with LLM training clusters, ML frameworks, and strong collaboration skills.
+💰 Salary: $139,900 – $274,800 USD
+
+Member of Technical Staff, AI Safety Post-Training
+🧑‍💻 Role: Member of Technical Staff, AI Safety Post-Training
+📍 Locations: New York, United States; Redmond, United States
+📝 Overview: Develop safety methodologies for post-training LLMs with agentic capabilities in Copilot.
+🎯 Responsibilities: Uncover risks, develop mitigation strategies (RLHF), implement evaluation frameworks, build automated testing, and track AI safety research.
+🔑 Required Qualifications: Bachelor’s in CS or related AND 4+ years engineering (C, C++, C#, Java, JavaScript, Python) with experience in LLMs and production-quality Python.
+🌟 Preferred Qualifications: Advanced degrees with more years of experience and a demonstrated interest in Responsible AI.
+💰 Salary: $119,800 – $234,700 USD
+
+Member of Technical Staff, Platform Engineer
+🧑‍💻 Role: Member of Technical Staff, Platform Engineer
+📍 Locations: Redmond, United States; Mountain View, United States
+📝 Overview: Build user-facing features powered by Generative AI for Copilot.
+🎯 Responsibilities: Design and maintain AI Platform services, collaborate with engineers, ship high-quality code, and work in fast-paced cycles.
+🔑 Required Qualifications: Bachelor’s in CS or related AND 2+ years engineering (C, C++, C#, etc.), experience with generative AI, 4+ years building APIs/platforms, and 4+ years with scalable cloud services.
+🌟 Preferred Qualifications: Experience with AI/ML frameworks, clean code practices, and strong communication skills.
+💰 Salary: $98,300 – $193,200 USD (IC3); $117,200 – $229,200 USD (IC4)
+
+Member of Technical Staff – Product Engineer
+🧑‍💻 Role: Member of Technical Staff – Product Engineer
+📍 Locations: Mountain View, United States
+📝 Overview: Build Copilot web experiences on copilot.microsoft.com, Edge, and Windows OS.
+🎯 Responsibilities: Ship AI-powered experiences, build efficient front-end systems, and plan front-end infrastructure.
+🔑 Required Qualifications: Bachelor’s in CS or related AND 4+ years building web products with TypeScript and React.
+🌟 Preferred Qualifications: Bachelor’s AND 10+ years or Master’s AND 8+ years in web engineering, user-centric approach.
+💰 Salary: $117,200 – $229,200 USD (IC4); $137,600 – $267,000 USD (IC5)
+
+Member of Technical Staff – Android Engineer
+🧑‍💻 Role: Member of Technical Staff – Android Engineer
+📍 Locations: Mountain View, United States; Redmond, United States
+📝 Overview: Build the core Copilot experience on Android.
+🎯 Responsibilities: Develop consumer-grade Android apps, ship high-quality code, and collaborate on ambiguous projects.
+🔑 Required Qualifications: Bachelor’s in CS or related AND 4+ years of Android development with Kotlin, Objective-C, or Java.
+🌟 Preferred Qualifications: Open-source contributions, experience building apps from scratch.
+💰 Salary: $117,200 – $229,200 USD (IC4); $137,600 – $267,000 USD (IC5)
+
+Member of Technical Staff – Machine Learning
+🧑‍💻 Role: Member of Technical Staff – Machine Learning
+📍 Locations: Mountain View, United States
+📝 Overview: Create agentive AI experiences in Copilot using RL, fine-tuning, and classifiers.
+🎯 Responsibilities: Improve model quality, oversee data acquisition, generalize ML solutions, lead evaluations, and track research.
+🔑 Required Qualifications: Bachelor’s in CS or related AND 4+ years engineering with experience in LLMs and production Python.
+🌟 Preferred Qualifications: Doctorate AND 2+ years or Master’s AND 5+ years in ML/AI.
+💰 Salary: $119,800 – $234,700 USD (IC4); $139,900 – $274,800 USD (IC5)
+
+Member of Technical Staff – Copilot AI Web Engineering Manager
+🧑‍💻 Role: Member of Technical Staff – Copilot AI Web Engineering Manager
+📍 Locations: Redmond, United States; Mountain View, United States
+📝 Overview: Lead web engineering for Copilot on copilot.microsoft.com, Edge, and Windows.
+🎯 Responsibilities: Hire and manage web engineers, ship AI experiences, collaborate on features, and design front-end infrastructure.
+🔑 Required Qualifications: Bachelor’s in CS or related AND 6+ years web engineering (TypeScript, React) AND 3+ years people management.
+🌟 Preferred Qualifications: Bachelor’s AND 8+ years engineering, 6+ years management.
+💰 Salary: $139,900 – $274,800 USD (M5); $163,000 – $296,400 USD (M6)
+
+Member of Technical Staff – Applied AI Software Engineer, Health
+🧑‍💻 Role: Member of Technical Staff – Applied AI Software Engineer, Health
+📍 Location: London, United Kingdom
+📝 Overview: Build LLM-based products for health understanding and management in Copilot.
+🎯 Responsibilities: Translate research into benchmarks, design evaluation systems for healthcare LLMs, and run experiments on prompting techniques.
+🔑 Required Qualifications: Bachelor’s or higher in CS AND Python/ML research experience, experience with LLMs and prompt engineering.
+🌟 Preferred Qualifications: Healthcare tech experience and a passion for conversational AI.
+
+Member of Technical Staff – ML / Agents
+🧑‍💻 Role: Member of Technical Staff – ML / Agents
+📍 Locations: Redmond, United States; Mountain View, United States
+📝 Overview: Create agentive AI experiences in Copilot using RL data, fine-tuning, and prompts.
+🎯 Responsibilities: Improve model quality, oversee data acquisition, generalize ML into frameworks, and lead evaluations.
+🔑 Required Qualifications: Bachelor’s in CS or related AND 4+ years engineering, 4+ years data science, LLM experience, and production Python.
+🌟 Preferred Qualifications: Doctorate AND 2+ years or Master’s AND 5+ years in ML/AI.
+💰 Salary: $119,800 – $234,700 USD (IC4); $139,900 – $274,800 USD (IC5)
+
+Member of Technical Staff – Software Engineer
+🧑‍💻 Role: Member of Technical Staff – Software Engineer
+📍 Location: Redmond, United States
+📝 Overview: Benchmark, profile, and debug training/inference for generative AI on production GPU clusters.
+🎯 Responsibilities: Develop/tune pretraining software for Nvidia and AMD hardware, benchmark clusters, and gather data for the pretraining roadmap.
+🔑 Required Qualifications: Bachelor’s in CS or related AND 4+ years engineering with generative AI and distributed computing experience.
+🌟 Preferred Qualifications: Bachelor’s AND 8+ years or Master’s AND 6+ years engineering.
+💰 Salary: $117,200 – $229,200 USD
+
+... and so on for all remaining job descriptions provided in the article. Please let me know if you'd like me to continue formatting the rest of the extensive list!
+
+
+
+
+
+
+
+
+
+
+
+
+Tools
+
+Gemini
+
+
+
+
+
+
 ## Gemini vs Grok vs GPT vs Claude
 
 1. After pasting 4k+ lines for all four:
