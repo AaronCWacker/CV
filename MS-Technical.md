@@ -1,3 +1,1553 @@
+
+# Structured Knowledge Graphs to Distill 1. What They are Looking for,  2. Skills, 3. Responsibilities, 4. Qualifications
+
+## Gemini vs Grok vs GPT vs Claude
+
+1. After pasting 4k+ lines for all four:
+2. Gemini 2.5 Pro finished first.  Fairly short output.
+3. Grok is running and continues - most detailed output
+4. GPT is non starter - could not accept 4k+ lines as input.
+5. Claude completed.
+
+# Standing on first take:
+1. X Grok continues and is on 46+ and is curating the information procedurally without impediment.
+2. Google Gemini has the best structured outline.  Perhaps too short?  We will check.
+3. Anthropic Claude Completed - frequently I choose Gemini or Grok over Claude because of the token limitation it usually reaches so this is a detriment to large programs with many iterations since you eventually cannot continue.
+4. GPT not having a wide context window for Input is a fail out of the gate.  It could easily accept input then RAG it to offset problem of non-fit.  This will have to change sometime since it puts GPT last for really large content input problems which should be expected not disallowed.
+
+--------------------------------------------------------------
+# Round 1 Results - Grok First Place!!
+
+# Microsoft AI Job Openings
+
+1. Member of Technical Staff, High Performance Computing Engineer
+   - Locations: Mountain View, United States
+   - Overview: Develop APIs and services for fine-tuning and deploying Copilot on large-scale supercomputers.
+   - Responsibilities:
+     1. Build secure and performant AI Platform services powering Copilot.
+     2. Collaborate with engineers and AI researchers on next-generation AI products.
+     3. Ship high-quality, tested, secure code while overcoming roadblocks.
+     4. Work in fast-paced, design-driven product cycles.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 6+ years engineering with languages like Python, C#, C++, Rust, Java.
+     2. 6+ years with high-scale training clusters (e.g., NVIDIA InfiniBand, SLURM, Kubernetes, Ray).
+     3. 6+ years building scalable services on Azure, AWS, or GCP.
+   - Preferred Qualifications:
+     1. Experience with LLM training clusters and AI platforms/frameworks/APIs.
+     2. Skills in ML frameworks, issue resolution, clean code, cross-functional collaboration.
+     3. Ability to communicate complex concepts, learn trends, manage priorities.
+   - Salary: $139,900 – $274,800 USD
+
+2. Member of Technical Staff, AI Safety Post-Training
+   - Locations: New York, United States; Redmond, United States
+   - Overview: Develop safety methodologies for post-training LLMs with agentic capabilities in Copilot.
+   - Responsibilities:
+     1. Uncover risks and develop mitigation strategies like alignment, RLHF for LLMs.
+     2. Implement evaluation frameworks and red-teaming for model safety.
+     3. Build automated testing systems and code for safety pipelines.
+     4. Maintain user-oriented perspective via research and advisory role.
+     5. Track AI safety research and adapt techniques for production.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 4+ years engineering with C, C++, C#, Java, JavaScript, Python.
+     2. Experience with LLMs and production-quality Python code.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 8+ years or Master’s AND 6+ years engineering experience.
+     2. Demonstrated interest in Responsible AI.
+   - Salary: $119,800 – $234,700 USD
+
+3. Member of Technical Staff, Platform Engineer
+   - Locations: Redmond, United States; Mountain View, United States
+   - Overview: Build user-facing features powered by Generative AI for Copilot.
+   - Responsibilities:
+     1. Design and maintain performant, secure AI Platform services for Copilot.
+     2. Collaborate with engineers and researchers on AI products.
+     3. Ship high-quality code ensuring reliability and scalability.
+     4. Overcome roadblocks for quick, iterative delivery.
+     5. Work in fast-paced, design-driven cycles.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 2+ years engineering with C, C++, C#, Java, JavaScript, Python.
+     2. Experience with generative AI for product features.
+     3. 4+ years building APIs/platforms/pipelines for large-scale products.
+     4. 4+ years scalable services on Azure, AWS, GCP with datastores.
+   - Preferred Qualifications:
+     1. Experience with AI/ML frameworks, issue resolution, clean code.
+     2. Skills in cross-functional collaboration, communication, trends.
+   - Salary: $98,300 – $193,200 USD (IC3); $117,200 – $229,200 USD (IC4)
+
+4. Member of Technical Staff – Product Engineer
+   - Locations: Mountain View, United States
+   - Overview: Build Copilot web experiences on copilot.microsoft.com, Edge, and Windows OS.
+   - Responsibilities:
+     1. Ship AI-powered experiences shaping user interactions.
+     2. Collaborate with researchers, PMs, designers for world-class AI.
+     3. Build efficient, reusable front-end systems for complex apps.
+     4. Plan and deploy front-end infrastructure for build/test/deploy.
+     5. Join team obsessed with beautiful, performant products.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 4+ years building web products with TypeScript, React.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 10+ years or Master’s AND 8+ years web engineering.
+     2. Bias for shipping/learning, user-centric approach, ambiguity handling.
+   - Salary: $117,200 – $229,200 USD (IC4); $137,600 – $267,000 USD (IC5)
+
+5. Member of Technical Staff – Android Engineer
+   - Locations: Mountain View, United States; Redmond, United States
+   - Overview: Build core Copilot experience on Android.
+   - Responsibilities:
+     1. Build outstanding consumer-grade Android applications.
+     2. Develop consumer-grade Android apps.
+     3. Ship high-quality, tested, secure code.
+     4. Collaborate on ambiguous projects into experiences.
+     5. Overcome roadblocks for quick delivery.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 4+ years Android development with Kotlin, Objective-C, Java.
+     2. Knowledge of mobile architecture, design patterns, UI/UX.
+   - Preferred Qualifications:
+     1. Open-source contributions, building apps from scratch.
+     2. Communication, trends learning, collaboration skills.
+   - Salary: $117,200 – $229,200 USD (IC4); $137,600 – $267,000 USD (IC5)
+
+6. Member of Technical Staff – Machine Learning
+   - Locations: Mountain View, United States
+   - Overview: Create agentive AI experiences in Copilot using RL, fine-tuning, classifiers.
+   - Responsibilities:
+     1. Improve model quality for interactive/agentive experiences.
+     2. Oversee data acquisition ensuring product needs.
+     3. Generalize ML solutions into frameworks.
+     4. Lead model evaluations in Copilot.
+     5. Track research, adapt algorithms for innovation.
+     6. Write efficient code/model pipelines.
+     7. Define model quality roadmap.
+     8. Focus on customer-oriented AI products.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 4+ years engineering with C, C++, C#, Java, JavaScript, Python.
+     2. Experience with LLMs and production Python.
+   - Preferred Qualifications:
+     1. Doctorate AND 2+ years or Master’s AND 5+ years in ML/AI.
+   - Salary: $119,800 – $234,700 USD (IC4); $139,900 – $274,800 USD (IC5)
+
+7. Member of Technical Staff – Copilot AI Web Engineering Manager
+   - Locations: Redmond, United States; Mountain View, United States
+   - Overview: Lead web engineering for Copilot on copilot.microsoft.com, Edge, Windows.
+   - Responsibilities:
+     1. Hire/manage web engineers for quality/performance.
+     2. Ship AI-powered experiences shaping interactions.
+     3. Collaborate on features for world-class AI.
+     4. Design performant front-end infrastructure.
+     5. Join team obsessed with beautiful products.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 6+ years web engineering with TypeScript, React.
+     2. 3+ years people management.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 8+ years engineering, 6+ years management.
+     2. User-centric approach, ambiguity handling, collaboration.
+   - Salary: $139,900 – $274,800 USD (M5); $163,000 – $296,400 USD (M6)
+
+8. Member of Technical Staff – Applied AI Software Engineer, Health
+   - Locations: London, United Kingdom
+   - Overview: Build LLM-based products for health understanding and management in Copilot.
+   - Responsibilities:
+     1. Translate research into benchmarks, co-author roadmaps.
+     2. Design/build evaluation systems for healthcare LLMs.
+     3. Run experiments on prompting techniques.
+     4. Improve internal eval tooling.
+     5. Design benchmarking for accuracy/safety/utility.
+   - Required Qualifications:
+     1. Bachelor’s or higher in Computer Science AND Python/ML research experience.
+     2. Experience with LLMs, prompt/context engineering.
+     3. Cross-functional collaboration in ambiguity.
+   - Preferred Qualifications:
+     1. Healthcare tech experience, data engineering at scale.
+     2. Passion for conversational AI, communication skills.
+
+9. Member of Technical Staff – ML / Agents
+   - Locations: Redmond, United States; Mountain View, United States
+   - Overview: Create agentive AI experiences in Copilot using RL data, fine-tuning, prompts.
+   - Responsibilities:
+     1. Improve model quality for interactive/agentive experiences.
+     2. Oversee data acquisition ensuring needs.
+     3. Generalize ML into frameworks.
+     4. Lead evaluations in Copilot.
+     5. Track research, adapt algorithms.
+     6. Write efficient code/pipelines.
+     7. Define quality roadmap.
+     8. Customer-oriented AI focus.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 4+ years engineering with C, C++, C#, Java, JavaScript, Python.
+     2. 4+ years data science (data management, ML techniques).
+     3. LLMs experience, production Python.
+   - Preferred Qualifications:
+     1. Doctorate AND 2+ years or Master’s AND 5+ years in ML/AI.
+     2. Interest in interactive AI.
+   - Salary: $119,800 – $234,700 USD (IC4); $139,900 – $274,800 USD (IC5)
+
+10. Member of Technical Staff – Software Engineer
+    - Locations: Redmond, United States
+    - Overview: Benchmark, profile, debug training/inference for generative AI on production GPU clusters.
+    - Responsibilities:
+      1. Develop/tune pretraining software for Nvidia GB200, AMD MIxxx.
+      2. Benchmark GB200, AMD MIxxx clusters.
+      3. Gather data for pretraining roadmap.
+      4. Care about conversational AI deployment.
+      5. Contribute to AI model development.
+      6. Overcome roadblocks for delivery.
+      7. Work in fast-paced cycles.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 4+ years engineering with C, C++, C#, Java, JavaScript, Python.
+     2. Generative AI experience.
+     3. Distributed computing experience.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 8+ years or Master’s AND 6+ years engineering.
+     2. Leading projects, architectural decisions with data.
+   - Salary: $117,200 – $229,200 USD
+
+11. Member of Technical Staff – Machine Learning, AI Safety
+    - Locations: Mountain View, United States; New York, United States; Redmond, United States
+    - Overview: Develop safety methodologies/mitigations for Copilot products.
+    - Responsibilities:
+      1. Uncover risks, develop mitigations via data mining, prompt engineering, evaluation, classifiers.
+      2. Implement evaluation/red-teaming for safety.
+      3. Build automated testing, frameworks, code for pipelines.
+      4. User-oriented safety via research/advisory.
+      5. Track research, adapt for production.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 4+ years engineering with C, C++, C#, Java, JavaScript, Python.
+     2. LLMs experience, production Python.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 8+ years or Master’s AND 6+ years engineering.
+     2. Interest in Responsible AI.
+   - Salary: $119,800 – $234,700 USD (IC4); $139,900 – $274,800 USD (IC5)
+
+12. Member of Technical Staff – Client Engineering
+    - Locations: Mountain View, United States; Redmond, United States
+    - Overview: Design client applications for Copilot on Windows/large screens/productivity.
+    - Responsibilities:
+      1. Design/develop client apps/components for Copilot.
+      2. Collaborate on next-generation AI products.
+      3. Ship high-quality, tested, secure code.
+      4. Overcome obstacles for delivery.
+      5. Work in fast-paced cycles.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 4+ years building apps with Python, C#, C++, .NET, XAML.
+     2. Track record of high-quality software delivery.
+     3. 4+ years secure, performant apps with data-driven iteration.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 6+ years apps with Python, C#, C++, .NET, XAML, Kotlin, Swift.
+     2. Windows debugging tools, AI platforms.
+     3. Issue resolution, clean code, collaboration, communication.
+   - Salary: $117,200 – $229,200 USD (IC4); $137,600 – $267,000 USD (IC5)
+
+13. Member of Technical Staff- Product Evaluation Engineer
+    - Locations: Redmond, United States; Mountain View, United States
+    - Overview: Build tools for data collection/model evaluation in AI projects.
+    - Responsibilities:
+      1. Design/implement tools with TypeScript/Python for data/evals.
+      2. Develop scalable features for internal tools using JavaScript/React/Next.js.
+      3. Collaborate on requirements, deliver solutions.
+      4. Build/optimize data pipelines for large volumes.
+      5. Contribute to inclusive team culture.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 4+ years engineering with TypeScript, Python, C, C++, C#, Java.
+     2. 4+ years building/deploying web tools/apps.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 8+ years or Master’s AND 6+ years engineering.
+     2. 4+ years Next.js/modern JS frameworks.
+     3. 5+ years tools for data/evals, data structures/algorithms.
+     4. Collaboration, ML concepts familiarity.
+   - Salary: $119,800 – $234,700 USD
+
+14. Member of Technical Staff – Mobile Engineering Manager
+    - Locations: Mountain View, United States
+    - Overview: Lead mobile engineering for Copilot on iOS/Android.
+    - Responsibilities:
+      1. Build outstanding consumer-grade mobile apps.
+      2. Develop iOS/Android apps.
+      3. Ship high-quality, tested, secure code.
+      4. Collaborate on ambiguous projects.
+      5. Overcome roadblocks for delivery.
+      6. User feedback integration, roadmap ownership.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 6+ years mobile development with Swift, Kotlin, Objective-C, Java.
+     2. Mobile architecture, design patterns, UI/UX knowledge.
+     3. 3+ years people management, high-performing teams.
+     4. Consumer mobile/platform/growth experience.
+   - Preferred Qualifications:
+     1. 5+ years managing mobile teams.
+     2. Open-source, building apps from scratch.
+     3. Communication, trends, collaboration.
+   - Salary: $137,600 – $267,000 USD (M5); $161,600 – $286,200 USD (M6)
+
+15. Member of Technical Staff – Backend Engineer, Copilot Memory and Personalization
+    - Locations: Mountain View, United States
+    - Overview: Build Copilot memory/personalization systems using search, embeddings, RAG.
+    - Responsibilities:
+      1. Design large-scale systems with search, embeddings, retrieval, ranking, RAG.
+      2. Apply expertise in cross-product features, drive plans/deliverables.
+      3. DRI accountability, mentor, on-call monitoring.
+      4. Seek knowledge, adapt trends for reliability/efficiency.
+      5. Work in fast-paced cycles, navigate ambiguity.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 4+ years engineering with C, C++, C#, Java, JavaScript, Python.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 8+ years or Master’s AND 6+ years engineering.
+     2. ML/LLM apps at scale, embedding/retrieval/ranking systems.
+   - Salary: $119,800 – $234,700 USD (IC4); $139,900 – $274,800 USD (IC5)
+
+16. Member of Technical Staff – Infrastructure Engineer – Copilot
+    - Locations: Mountain View, United States
+    - Overview: Build/scale backend platform for Copilot integrations/tools.
+    - Responsibilities:
+      1. Design/maintain performant, secure AI services.
+      2. Collaborate on AI products.
+      3. Ship high-quality code ensuring reliability.
+      4. Overcome roadblocks for delivery.
+      5. Work in fast-paced cycles.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 4+ years services/products with Python, C#, C++, Rust, Java.
+     2. 4+ years scalable platforms on Azure/AWS/GCP with Docker, Kubernetes, nginx, RDBMS.
+     3. 4+ years production software at platform level.
+     4. APIs/data flows/systems/services knowledge.
+   - Preferred Qualifications:
+     1. High-scale multi-region Kubernetes management.
+     2. Issue resolution, clean code, collaboration, communication.
+   - Salary: $117,200 – $229,200 USD (IC4); $137,600 – $267,000 USD (IC5)
+
+17. Member of Technical Staff, AI Platform Engineer
+    - Locations: Mountain View, United States
+    - Overview: Build/release production software at platform level for AI products.
+    - Responsibilities:
+      1. Design/maintain platform-level solutions.
+      2. Collaborate on AI integration.
+      3. Ensure reliability/scalability/performance.
+      4. Stay updated on AI/engineering advancements.
+      5. Improve model development flows.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 4+ years building/scaling web services/APIs/products.
+     2. Deep Python AND Golang/Java/Scala/TypeScript (React/Next.js).
+     3. 4+ years production software at platform level.
+     4. APIs/data flows/systems/services knowledge.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 6+ years web services with Python, Golang, Java/Scala, Rust.
+     2. Model pre/post-training/eval/inference experience.
+     3. ML frameworks, issue resolution, communication.
+   - Salary: $117,200 – $229,200 USD (IC4); $137,600 – $267,000 USD (IC5)
+
+18. Member of Technical Staff, AI – Multimodal
+    - Locations: Redmond, United States; Mountain View, United States
+    - Overview: Develop algorithms/architectures for multimodal foundation models.
+    - Responsibilities:
+      1. Develop algorithms, architectures, experiments, datasets.
+      2. Improve training/deployment efficiency.
+      3. Data-driven approach with ablations.
+      4. Iterate ideas/prototypes/product.
+      5. Collaborate on infrastructure/data/pre/post-training/feedback.
+      6. Advance AI responsibly.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 4+ years engineering with C, C++, C#, Java, JavaScript, Python.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 6+ years engineering.
+     2. Large-scale AI experience.
+     3. Conversational AI passion, communication, trends, collaboration.
+   - Salary: $117,200 – $229,200 USD (IC4); $137,600 – $267,000 USD (IC5)
+
+19. Member of Technical Staff, AI – Reinforcement Learning Systems
+    - Locations: Redmond, United States; Mountain View, United States
+    - Overview: Build RL systems for trustworthy agents in LLMs.
+    - Responsibilities:
+      1. Advance RL algorithms for LLMs.
+      2. Develop core systems for unprecedented scales/environments.
+   - Required Qualifications:
+     1. Bachelor’s in CS/Engineering/ML/Math/STEM AND 4+ years coding with C, C++, C#, Rust, Java, Python.
+     2. Large-scale software/infrastructure experience.
+     3. Interest in RL/language/generative modeling.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 6+ years coding.
+     2. ML research background.
+     3. Large-scale distributed AI systems.
+   - Salary: $117,200 – $229,200 USD (IC4); $137,600 – $267,000 USD (IC5)
+
+20. Member of Technical Staff, AI – Personality & Personalization
+    - Locations: Redmond, United States; Mountain View, United States
+    - Overview: Enhance Copilot personality/behavior with NLP/RL/ML/personalization.
+    - Responsibilities:
+      1. Innovate conversational AI for engaging/aligned behavior.
+      2. Research personality/behavior with synthetic data/RL.
+      3. Optimize post-training methods.
+      4. Design scalable models, architecture/data/training/evals.
+      5. Integrate capabilities, deploy improvements.
+      6. Work in design-driven environment.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 6+ years engineering with Python, C, C++, C#, TypeScript.
+     2. LLMs application/eval/training experience.
+   - Preferred Qualifications:
+     1. 3+ years production systems, 5+ years publications.
+     2. 2+ years conferences, 5+ years research.
+     3. 3+ years product cycle.
+     4. Large-scale AI, conversational AI passion, communication.
+   - Salary: $137,600 – $267,000 USD (IC5); $161,600 – $286,200 USD (IC6)
+
+21. Member of Technical Staff – Engineering Manager, Copilot Memory and Personalization
+    - Locations: Mountain View, United States
+    - Overview: Lead backend/ML engineers for Copilot memory/personalization.
+    - Responsibilities:
+      1. Build/lead team, drive planning/design.
+      2. Hands-on codebase/infrastructure contributions.
+      3. Guide architecture/design discussions.
+      4. Ship AI experiences shaping interactions.
+      5. Collaborate on features/world-class AI.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 6+ years engineering with C, C++, C#, Java, JavaScript, Python.
+     2. 3+ years people management.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 8+ years engineering, 6+ years management.
+     2. Large-scale distributed systems, efficiency optimization.
+     3. Trends learning, ranking/recommender systems.
+   - Salary: $137,600 – $267,000 USD (M5); $161,600 – $286,200 USD (M6)
+
+22. Member of Technical Staff – Platform Engineering Manager
+    - Locations: Redmond, United States
+    - Overview: Lead platform engineering for Copilot APIs/finetuning/deployment.
+    - Responsibilities:
+      1. Build secure/performant AI services.
+      2. Collaborate on AI products.
+      3. Ship high-quality, tested code.
+      4. Overcome roadblocks for delivery.
+      5. Work in fast-paced cycles.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 8+ years engineering with C, C++, C#, Java, JavaScript, Python.
+     2. 8+ years scalable services on Azure/AWS/GCP with datastores.
+     3. 8+ years distributed systems at scale.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 12+ years or Master’s AND 10+ years engineering.
+     2. 6+ years management.
+     3. AI/ML frameworks, issue resolution, clean code, collaboration.
+   - Salary: $161,600 – $286,200 USD
+
+23. Member of Technical Staff – Machine Learning, AI Safety
+    - Locations: Mountain View, United States; New York, United States; Redmond, United States
+    - Overview: Develop safety methodologies/mitigations for Copilot products.
+    - Responsibilities:
+      1. Uncover risks, develop mitigations via data mining, prompt engineering, evaluation, classifiers.
+      2. Implement evaluation/red-teaming for safety.
+      3. Build automated testing, frameworks, code for pipelines.
+      4. User-oriented safety via research/advisory.
+      5. Track research, adapt for production.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 4+ years engineering with C, C++, C#, Java, JavaScript, Python.
+     2. LLMs experience, production Python.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 8+ years or Master’s AND 6+ years engineering.
+     2. Interest in Responsible AI.
+   - Salary: $119,800 – $234,700 USD (IC4); $139,900 – $274,800 USD (IC5)
+
+24. Member of Technical Staff – Retrieval-Augmented Generation (RAG)
+    - Locations: Mountain View, United States
+    - Overview: Build Copilot memory/personalization with search, embeddings, RAG.
+    - Responsibilities:
+      1. Design large-scale systems with search, embeddings, retrieval, ranking, RAG.
+      2. Apply expertise in cross-product features, drive plans/deliverables.
+      3. DRI accountability, mentor, on-call monitoring.
+      4. Seek knowledge, adapt trends for reliability/efficiency.
+      5. Work in fast-paced cycles, navigate ambiguity.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 6+ years engineering with C, C++, C#, Java, JavaScript, Python.
+     2. 4+ years APIs/pipelines for large-scale products.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 8+ years or Master’s AND 6+ years engineering.
+     2. ML/LLM apps at scale, embedding/retrieval/ranking.
+   - Salary: $139,900 – $274,800 USD (IC5); $163,000 – $296,400 USD (IC6)
+
+25. Member of Technical Staff – AI Pre-Training
+    - Locations: Mountain View, United States
+    - Overview: Develop algorithms/scaling laws for large-scale training.
+    - Responsibilities:
+      1. Develop algorithms/mixtures/scaling with data-driven ablations.
+      2. Drive implementations/experiments/flagship runs on distributed stack.
+      3. Collaborate on infrastructure/data/post-training/multimodality.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science/ML/Math or related AND 4+ years engineering with C, C++, C#, Java, JavaScript, Python.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 10+ years or Master’s AND 8+ years engineering.
+     2. Large-scale AI, conversational AI passion, communication, trends.
+   - Salary: $117,200 – $229,200 USD (IC4); $137,600 – $267,000 USD (IC5)
+
+26. Member of Technical Staff – Post-Training
+    - Locations: New York, United States; Redmond, United States; Mountain View, United States
+    - Overview: Develop post-training algorithms for LLMs in Copilot.
+    - Responsibilities:
+      1. Develop data/eval/post-training methods.
+      2. Design hypotheses/experiments for iteration.
+   - Required Qualifications:
+     1. Bachelor’s in CS/ML/Math or related AND 4+ years engineering with C, C++, C#, Java, JavaScript, Python.
+     2. Reward modeling/RL/post-training experience.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 8+ years or Master’s AND 6+ years engineering.
+     2. Large-scale AI, conversational AI passion, communication.
+   - Salary: $117,200 – $229,200 USD (IC4); $137,600 – $267,000 USD (IC5)
+
+27. Member of Technical Staff – Voice & Vision
+    - Locations: Mountain View, United States
+    - Overview: Develop voice/vision capabilities for Copilot with audio/video focus.
+    - Responsibilities:
+      1. Work on voice/vision, super resolution, real-time streaming.
+      2. Collaborate for innovative solutions.
+      3. Apply audio/video tech to AI (noise suppression, echo cancellation).
+      4. Develop video/image manipulation (upscaling).
+      5. Lead vision/voice integration/rollout.
+      6. Hands-on voice/video features in generative AI.
+      7. Collaborate on requirements/deliverables.
+      8. Optimize voice recognition (modeling, speech-to-text).
+      9. Enhance NLP (entity recognition, sentiment, intent).
+      10. Refine vision algorithms (classification, detection, recognition).
+      11. Ensure scalability/performance via testing.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 6+ years engineering with C, C++, C#, Java, JavaScript, Python.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 8+ years engineering.
+   - Salary: $137,600 – $267,000 USD (IC5); $161,600 – $286,200 USD (IC6)
+
+28. Member of Technical Staff, Machine Learning Engineer
+    - Locations: Mountain View, United States
+    - Overview: Optimize Copilot user engagement/retention/personalization with rec systems/feed algorithms.
+    - Responsibilities:
+      1. Develop/deploy models for rec systems/personalized feeds.
+      2. Leverage LLMs for scalable solutions in content/engagement/ranking.
+      3. Drive experimentation with A/B testing/analytics.
+      4. Develop/optimize pipelines/tools for real-time/batch.
+      5. Mentor, collaborate cross-functionally.
+      6. Stay on AI/ML trends, integrate innovations.
+      7. Articulate findings to influence decisions.
+   - Required Qualifications:
+     1. Bachelor’s in Computer Science or related AND 4+ years engineering with C, C++, C#, Java, JavaScript, Python.
+     2. Python/R proficiency, data frameworks (Spark/Hadoop).
+     3. Large datasets/cloud platforms experience.
+   - Preferred Qualifications:
+     1. PhD/MS in CS/ML/AI or related.
+     2. Rec systems/feed algorithms at scale.
+     3. LLMs for ML/AI apps.
+     4. Growth engineering for metrics.
+     5. ML frameworks (TensorFlow/PyTorch/Scikit-learn).
+     6. Personalization/user modeling.
+     7. Problem-solving, communication.
+   - Salary: $117,200 – $229,200 USD (IC4); $137,600 – $267,000 USD (IC5)
+
+29. Member of Technical Staff, Data Scientist, Copilot Memory and Personalization
+    - Locations: Mountain View, United States
+    - Overview: Drive data pipelines/insights for Copilot memory/personalization.
+    - Responsibilities:
+      1. Develop/improve eval methodologies for model quality.
+      2. Design pipelines to structure logs for evals.
+      3. Stay on LLM research for eval/prompting.
+      4. Drive insights/opportunity analyses/metrics.
+      5. New instrumentation/measurement for features via experiments.
+      6. Design pipelines, hands-on analysis of telemetry.
+      7. Articulate findings to influence decisions.
+   - Required Qualifications:
+     1. Doctorate in Data Science or related AND 1+ year data-science.
+     2. OR Master’s AND 3+ years.
+     3. OR Bachelor’s AND 5+ years.
+     4. 1+ year project-delivery/consulting.
+   - Preferred Qualifications:
+     1. Doctorate AND 5+ years or Master’s AND 7+ years or Bachelor’s AND 10+ years data-science.
+     2. Building/evaluating LLM apps in production.
+   - Salary: $119,800 – $234,700 USD (IC4); $139,900 – $274,800 USD (IC5)
+
+30. Member of Technical Staff, Machine Learning Engineer
+    - Locations: Mountain View, United States
+    - Overview: Mitigate model quality/performance issues in Copilot with data pipelines/science/ML.
+    - Responsibilities:
+      1. Uncover/mitigate model issues.
+      2. Oversee data acquisition.
+      3. Generalize ML frameworks.
+      4. Lead evals in Copilot.
+      5. Thorough data analysis review.
+      6. Track research, adapt algorithms.
+      7. Write efficient code/pipelines.
+      8. Define quality roadmap.
+      9. Customer-oriented focus.
+   - Required Qualifications:
+     1. Doctorate in Data Science or related AND 1+ year data-science.
+     2. OR Master’s AND 3+ years.
+      3. OR Bachelor’s AND 5+ years.
+   - Preferred Qualifications:
+     1. Doctorate AND 8+ years or Master’s AND 10+ years or Bachelor’s AND 12+ years data-science.
+     2. Interest in Responsible AI.
+   - Salary: $117,200 – $229,200 USD (IC4); $137,600 – $267,000 USD (IC5)
+
+31. MTS – Data Engineering
+    - Locations: Mountain View, United States; Redmond, United States
+    - Overview: Architect data backbone for Copilot with ETL pipelines/experimentation frameworks.
+    - Responsibilities:
+      1. Build/maintain/enhance ETL for large-scale data.
+      2. Design high-throughput experimentation reporting.
+      3. Own data quality initiatives.
+      4. Implement schema management.
+      5. Develop infrastructure for real-time/batch ML.
+      6. Collaborate to optimize data access.
+      7. Design scalable architectures.
+      8. Implement monitoring/observability.
+      9. Partner on data requirements/solutions.
+   - Required Qualifications:
+     1. Master’s in CS/Math/Engineering or related AND 4+ years analytics/data-science/development/modeling/engineering.
+     2. OR Bachelor’s AND 6+ years.
+     3. Production pipelines at scale with Spark/Kafka.
+     4. Production Python/Scala/Java code.
+     5. Experimentation frameworks.
+     6. Cloud data platforms.
+     7. Schema/governance.
+   - Preferred Qualifications:
+     1. Real-time processing/streaming.
+     2. Orchestration (Airflow/Prefect/Dagster).
+     3. Containerization (Docker/Kubernetes).
+     4. Data quality/monitoring.
+   - Salary: $139,900 – $274,800 USD (IC5); $163,000 – $296,400 USD (IC6)
+
+32. Member of Technical Staff – Data Engineer
+    - Locations: New York, United States; Boulder, United States; Mountain View, United States; Redmond, United States
+    - Overview: Manage data pipelines/systems for Copilot eval/growth/features.
+    - Responsibilities:
+      1. Extract/validate/transform raw data.
+      2. Architect/optimize workflows with Spark/Azure.
+      3. Build tooling with Airflow/Docker/CI/CD/Kubernetes/Conda.
+      4. Partner on pipeline outputs for research/feature/model.
+      5. Monitor/configure alerts/remediate proactively.
+      6. Identify gaps/mentor on sustainable ecosystems.
+   - Required Qualifications:
+     1. Bachelor’s in CS/Math/Engineering or related AND 4+ years analytics/data-science/development/modeling/engineering.
+     2. OR Master’s AND 3+ years.
+     3. 3+ years shipping at scale.
+   - Preferred Qualifications:
+     1. Backend/LLMs/ML familiarity.
+     2. Platforms/frameworks/APIs, issue resolution, clean code.
+     3. Collaboration, communication, trends, priorities.
+   - Salary: $137,600 – $267,000 USD
+
+33. Member of Technical Staff – AI Data
+    - Locations: Mountain View, United States
+    - Overview: Build multimodal dataset for AI frontier models.
+    - Responsibilities:
+      1. Design/ingest multi-modal data pipelines.
+      2. Build infrastructure for petabytes storage/processing.
+      3. Improve data recipe via experimentation.
+      4. Collaborate to identify model gaps.
+   - Required Qualifications:
+     1. Bachelor’s in CS/Math/Engineering or related AND 6+ years analytics/data-science/development/modeling/engineering.
+     2. OR Master’s AND 4+ years.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 8+ years or Master’s AND 6+ years.
+   - Salary: $137,600 – $267,000 USD (IC5); $161,600 – $286,200 USD (IC6)
+
+34. Member of Technical Staff – AI Product – Data Engineer
+    - Locations: Mountain View, United States
+    - Overview: Manage data pipelines for Copilot intelligence/growth.
+    - Responsibilities:
+      1. Azure tools proficiency (Data Factory/Databricks/Synapse/Stream Analytics/ML).
+      2. Extract/validate/transform raw data.
+      3. Design/maintain scalable pipelines.
+      4. Integrate real-time/batch for workflows.
+      5. Support data prep/feature/eval for ML.
+      6. Collaborate on opportunities/decisions.
+      7. Manage feature storage/streaming with PySpark.
+      8. Optimize workflows/accessibility.
+      9. Implement monitoring/troubleshooting/scalability.
+   - Required Qualifications:
+     1. Bachelor’s in CS/Math/Engineering or related AND 4+ years analytics/data-science/development/modeling/engineering.
+     2. OR Master’s AND 3+ years.
+     3. 3+ years shipping at scale.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 10+ years or Master’s AND 8+ years.
+   - Salary: $117,200 – $229,200 USD (IC4); $137,600 – $267,000 USD (IC5)
+
+35. Clinical Specialist – Behavioural Health
+    - Locations: London, United Kingdom
+    - Overview: Shape generative AI for behavioural/mental health in Copilot.
+    - Responsibilities:
+      1. Shape strategy for consumer AI in behavioural health.
+      2. Product-minded/creative approach to work.
+      3. Develop/evaluate generative AI in behavioural health.
+      4. Contribute to safety/ethics/privacy policies.
+      5. Bridge clinicians/researchers/product/engineering/partnerships.
+      6. Identify tools/tech for quality/rigour.
+   - Required Qualifications:
+     1. Clinical Psychology/Medical Degree with behavioural health experience.
+     2. Health tech experience or high-impact research in behavioural health/tech intersection.
+   - Preferred Qualifications:
+     1. Higher degree in related field.
+     2. High-impact publications.
+     3. Quality written/presentation skills.
+     4. High-speed autonomy in changing environment.
+     5. SaMD experience.
+
+36. Chief of Staff – Copilot Engineering & Product
+    - Locations: Mountain View, United States
+    - Overview: Drive operational excellence/decision-making for Copilot leadership.
+    - Responsibilities:
+      1. Drive strategic planning/execution/alignment.
+      2. Manage rhythms (QBRs/OKRs/leadership).
+      3. Cross-functional initiatives execution.
+      4. Advisor to leadership for clarity/focus.
+      5. Manage communications/change.
+      6. Support org health/culture/inclusion.
+      7. Coordinate finance/HR/support.
+      8. Lead special projects.
+   - Required Qualifications:
+     1. Bachelor’s in Liberal Arts/Business/Management/CS or related AND 8+ years financial/business/operations/strategy/project/HR/business.
+   - Preferred Qualifications:
+     1. MBA in Engineering or related.
+     2. Excel proficiency.
+   - Salary: $130,900 – $277,200 USD
+
+37. Director, Business & Strategy
+    - Locations: Mountain View, United States
+    - Overview: Assist implementing MAI strategy across consumer propositions/AI models.
+    - Responsibilities:
+      1. Drive execution of priorities/special projects.
+      2. Define/track/report missions/metrics.
+      3. Manage rhythms (QBRs/OKRs/leadership).
+      4. Assess/prioritize initiatives/resources.
+      5. Facilitate communication/resolve blockers.
+      6. Synthesize insights/recommend growth.
+      7. Advise leadership on expertise area.
+   - Required Qualifications:
+     1. MBA or related AND 4+ years investment banking/corporate finance.
+     2. OR Bachelor’s AND 6+ years.
+     3. 6+ years supporting leadership with insights/cadences.
+   - Preferred Qualifications:
+     1. MBA AND 8+ years or Bachelor’s AND 12+ years banking/finance.
+     2. 8+ years Strategy/Consulting/Finance.
+   - Salary: $130,900 – $251,900 USD
+
+38. Director of Communications – Copilot
+    - Locations: Mountain View, United States
+    - Overview: Drive internal/external narratives for Copilot.
+    - Responsibilities:
+      1. Own internal narrative/exec comms (updates/memos/All Hands).
+      2. Partner for external narratives/media/launch awareness.
+      3. Leverage AI product intuition for messaging.
+      4. Increase executive voice awareness.
+      5. Manage design for polished comms.
+      6. Track impact/metrics/refine narratives.
+      7. Own calendar/cadence/content pipelines.
+   - Required Qualifications:
+     1. Bachelor’s in Business/Marketing/Comms/Finance or related AND 6+ years Comms/Marketing/Operations/Program/Project/related.
+     2. 5+ years internal comms plans.
+     3. 4+ years messaging for execs in change/product evolution.
+     4. 2+ years product development environment.
+   - Preferred Qualifications:
+     1. MBA or related AND 8+ years.
+     2. 10+ years Comms/Marketing/Operations/Program/Project.
+     3. AI products passion (Copilot), startup-like operation.
+     4. Strategic judgment/scenario planning.
+     5. EQ/influence/coach exec voice.
+     6. Storytelling for culture/leadership/org.
+   - Salary: $130,900 – $251,900 USD
+
+39. Product Manager, AI
+    - Locations: Mountain View, United States
+    - Overview: Balance product/research priorities for language/multimodal models in Copilot.
+    - Responsibilities:
+      1. Identify/prioritize model issues, resolve with researchers.
+      2. Create data tasks for evals/training.
+      3. Prototype features/scope projects.
+      4. Engineer prompts for behaviors.
+      5. Define/manage engineering/research projects.
+      6. Deploy/track AB experiments.
+      7. Foster collaboration/improvement/growth.
+      8. Collaborate on infrastructure/data/pre/post-training/feedback.
+      9. Advance AI responsibly.
+   - Required Qualifications:
+     1. Bachelor’s AND 8+ years product/technical program management/data analysis/product development.
+     2. OR equivalent.
+     3. Track record evaluating/deploying LLMs.
+     4. Working with researchers/engineers.
+   - Preferred Qualifications:
+     1. Cross-functional projects management.
+   - Salary: $139,900 – $274,800 USD
+
+40. Product Manager, Multimodal
+    - Locations: London, United Kingdom
+    - Overview: Balance product/research for language/multimodal models in Copilot.
+    - Responsibilities:
+      1. Identify/prioritize model issues, resolve with researchers.
+      2. Create data tasks for evals/training.
+      3. Prototype features/scope projects.
+      4. Engineer prompts for behaviors.
+      5. Define/manage engineering/research projects.
+      6. Deploy/track AB experiments.
+      7. Foster collaboration/improvement/growth.
+      8. Collaborate on infrastructure/data/pre/post-training/feedback.
+      9. Advance AI responsibly.
+   - Required Qualifications:
+     1. Bachelor’s AND experience in AI research/product/technical program management/data analysis/product development.
+     2. Cross-functional projects management.
+     3. Track record evaluating/deploying LLMs.
+     4. Working with researchers/engineers.
+
+41. Principal Product Manager – Consumer Copilot, Productivity
+    - Locations: Mountain View, United States
+    - Overview: Develop strategy/vision for Copilot consumer offerings.
+    - Responsibilities:
+      1. Develop strategy/vision across surfaces/capabilities.
+      2. Create 0-1 products from AI to LLM apps.
+      3. Own area: user needs, requirements, development/launches/iterations.
+      4. Set goals/metrics, experiments, measure via data/research.
+      5. Lead cross-functional initiatives/stakeholder management.
+      6. Overcome roadblocks for delivery.
+      7. Work in fast-paced collaborative environment.
+   - Required Qualifications:
+     1. Bachelor’s AND 8+ years product management.
+     2. OR equivalent.
+     3. Design-driven consumer products from concept/launch/fit.
+     4. Building consumer products with ML/LLMs.
+   - Preferred Qualifications:
+     1. Startup founder experience.
+     2. Prompting/evaluating/deploying LLM apps.
+     3. Working with AI researchers/engineers.
+     4. Driving multiple high-stakes projects.
+     5. Proactive in methods/tech exploration.
+     6. Visionary/pragmatic, SQL/Python plus.
+   - Salary: $137,600 – $267,000 USD
+
+42. Principal Growth Product Manager – Copilot
+    - Locations: Redmond, United States; Mountain View, United States
+    - Overview: Develop strategy/vision for Copilot consumer offerings.
+    - Responsibilities:
+      1. Develop strategy/vision across surfaces/capabilities.
+      2. Create 0-1 products from AI to LLM apps.
+      3. Own area: user needs, requirements, development/launches/iterations.
+      4. Set goals/metrics, experiments, measure via data/research.
+      5. Lead cross-functional initiatives/stakeholder management.
+      6. Overcome roadblocks for delivery.
+      7. Work in fast-paced collaborative environment.
+   - Required Qualifications:
+     1. Bachelor’s AND 8+ years product management.
+     2. OR equivalent.
+     3. Leading teams building 0-1 consumer products/market/scale.
+     4. Building consumer products with ML/LLMs.
+   - Preferred Qualifications:
+     1. Startup founder experience.
+     2. Prompting/evaluating/deploying LLM apps.
+     3. Working with AI researchers/engineers.
+     4. Driving multiple high-stakes projects.
+     5. Proactive in methods/tech exploration.
+     6. Visionary/pragmatic, SQL/Python plus.
+   - Salary: $137,600 – $267,000 USD
+
+43. Member of Technical Staff, Technical Program Manager
+    - Locations: Redmond, United States
+    - Overview: Manage timelines for datacenter/GPU deployment for AI supercomputers.
+    - Responsibilities:
+      1. Track/manage datacenter construction/bring-up.
+      2. Track/manage node/rack/cluster validation.
+      3. Hold execution meetings to accelerate GPU delivery.
+      4. Track/manage capacity deployment/validation/benchmarking.
+      5. Collaborate to identify gaps/drive timelines.
+      6. Work cross-disciplined to deliver high-quality/evaluate goals.
+   - Required Qualifications:
+     1. Bachelor’s AND 4+ years engineering/product/technical program management/data analysis/product development.
+     2. OR equivalent.
+     3. 2+ years cross-functional/team projects.
+     4. 1+ year tracking/managing GPU capacity for AI inferencing/training.
+   - Preferred Qualifications:
+     1. Bachelor’s AND 6+ years.
+     2. 6+ years cross-functional projects.
+     3. 1+ year code reading/writing.
+   - Salary: $117,200 – $229,200 USD
+
+
+
+# Gemini Second Place!!
+
+1. Software & AI Engineering (Individual Contributor)
+Member of Technical Staff, High Performance Computing Engineer
+
+Salary (IC5): $139,900 – $274,800 per year.
+
+Core Skills:
+
+Build and secure performant AI Platform services that power Copilot.
+
+Requires 6+ years of technical engineering experience building web services.
+
+Requires 6+ years of experience with high-scale training clusters (e.g., InfiniBand, SLURM, Kubernetes).
+
+Requires 6+ years of experience with public cloud infrastructure (Azure, AWS, or GCP).
+
+Member of Technical Staff, AI Safety & Post-Training
+
+Salary (IC4): $119,800 – $234,700 per year.
+
+Core Skills:
+
+Develop AI safety mitigation strategies (e.g., alignment techniques, RLHF).
+
+Create and implement comprehensive evaluation and red-teaming frameworks.
+
+Build automated safety testing systems and repeatable safety solution frameworks.
+
+Requires 4+ years of technical experience and proficiency in production-quality Python.
+
+Member of Technical Staff, Platform Engineer
+
+Salary (IC3-IC5): $98,300 – $274,800 per year, depending on level.
+
+Core Skills:
+
+Design, develop, and maintain AI Platform services that power Copilot.
+
+Build APIs, platforms, and pipelines for large-scale products.
+
+Requires 2-4+ years of technical experience and building scalable services on public cloud infrastructure.
+
+Member of Technical Staff, Product Engineer
+
+Salary (IC4-IC5): $117,200 – $267,000 per year, depending on level.
+
+Core Skills:
+
+Ship AI-powered web experiences for Copilot.
+
+Design and build efficient and reusable front-end systems.
+
+Requires 4+ years of software engineering experience building web products with Typescript and React.
+
+Member of Technical Staff, Android Engineer
+
+Salary (IC4-IC5): $117,200 – $267,000 per year, depending on level.
+
+Core Skills:
+
+Build consumer-grade mobile applications for the Android platform.
+
+Ship high-quality, well-tested, secure, and maintainable code.
+
+Requires 4+ years of technical experience developing Android apps with Kotlin or Java.
+
+Member of Technical Staff, Machine Learning / ML Agents
+
+Salary (IC4-IC5): $119,800 – $274,800 per year, depending on level.
+
+Core Skills:
+
+Improve model quality for interactive and agentive experiences in Copilot.
+
+Oversee data acquisition and lead model evaluation efforts.
+
+Requires 4+ years of technical engineering and 4+ years of data science experience, including LLM prompting.
+
+Member of Technical Staff, Software Engineer (Pretraining/GPU)
+
+Salary (IC4): $117,200 – $229,200 per year.
+
+Core Skills:
+
+Develop and tune pretraining scalable software for NVIDIA and AMD GPU architectures.
+
+Benchmark GPU clusters and gather data to develop the compute roadmap.
+
+Requires 4+ years of technical experience with generative AI and distributed computing.
+
+Member of Technical Staff, Client Engineering
+
+Salary (IC4-IC5): $117,200 – $267,000 per year, depending on level.
+
+Core Skills:
+
+Design and develop client applications and components to support Copilot experiences on Windows.
+
+Requires 4+ years of experience building applications with Python, C#, C++, .NET, and XAML.
+
+Member of Technical Staff, Product Evaluation Engineer
+
+Salary (IC4): $119,800 – $234,700 per year.
+
+Core Skills:
+
+Design and implement end-to-end tools for data collection and model evaluation.
+
+Develop features using Typescript, Python, and React JS.
+
+Requires 4+ years of experience building and deploying web-based tools or applications.
+
+Member of Technical Staff, Backend Engineer (Personalization/RAG)
+
+Salary (IC4-IC6): $119,800 – $296,400 per year, depending on level.
+
+Core Skills:
+
+Design and build large-scale systems leveraging search, retrieval, ranking, and RAG.
+
+Serve as a Designated Responsible Individual (DRI) for system health and interruptions.
+
+Requires 4-6+ years of technical engineering experience building APIs and pipelines.
+
+Member of Technical Staff, Infrastructure Engineer
+
+Salary (IC4-IC5): $117,200 – $267,000 per year, depending on level.
+
+Core Skills:
+
+Design, develop, and maintain performant and secure AI Platform services.
+
+Requires 4+ years building platforms on public cloud infrastructure using Docker and Kubernetes.
+
+Member of Technical Staff, AI – Multimodal / Voice & Vision
+
+Salary (IC4-IC6): $117,200 – $314,400 per year, depending on level.
+
+Core Skills:
+
+Develop algorithms, model architectures, and data pipelines for multimodal models.
+
+Implement voice recognition, NLP, and computer vision technologies.
+
+Requires 4-6+ years of technical engineering experience with a focus on large-scale AI.
+
+Member of Technical Staff, AI – Reinforcement Learning Systems
+
+Salary (IC4-IC5): $117,200 – $267,000 per year, depending on level.
+
+Core Skills:
+
+Collaborate with research teams to advance state-of-the-art RL algorithms in LLMs.
+
+Develop core systems for adapting reinforcement learning to unprecedented scales.
+
+Requires 4+ years of experience with large-scale software systems and infrastructure.
+
+Member of Technical Staff, AI – Personality & Personalization
+
+Salary (IC5-IC6): $137,600 – $286,200 per year, depending on level.
+
+Core Skills:
+
+Drive innovation in conversational AI, focusing on personality and model behavior.
+
+Conduct research using techniques like synthetic data generation and reinforcement learning.
+
+Requires 6+ years of technical experience and experience applying or training LLMs.
+
+Member of Technical Staff, Growth Web Engineer
+
+Salary (IC4-IC5): $117,200 – $267,000 per year, depending on level.
+
+Core Skills:
+
+Implement strategies that drive user growth, engagement, and retention for web applications.
+
+Partner with data science teams to analyze user behavior and optimize product features.
+
+Requires 4+ years of web development experience (JS/TS/React) in a growth-oriented role.
+
+Member of Technical Staff, AI Product – Backend Engineer
+
+Salary (IC4-IC5): $117,200 – $267,000 per year, depending on level.
+
+Core Skills:
+
+Build secure and performant APIs to power Copilot's iOS and Android applications.
+
+Collaborate on projects that drive user growth, engagement, and retention.
+
+Requires 4+ years of experience building mobile backend applications and APIs (GraphQL/Rest).
+
+2. Engineering Management
+Member of Technical Staff, Copilot AI Web Engineering Manager
+
+Salary (M5-M6): $139,900 – $296,400 per year, depending on level.
+
+Core Skills:
+
+Hire, manage, and lead a team of web engineers responsible for Copilot’s web products.
+
+Design a performant front-end infrastructure that drives multiple complex web applications.
+
+Requires 6+ years of web technology experience (Typescript/React) and 3+ years of people management.
+
+Member of Technical Staff, Mobile Engineering Manager
+
+Salary (M5-M6): $137,600 – $286,200 per year, depending on level.
+
+Core Skills:
+
+Lead, mentor, and grow a team of engineers focused on mobile growth-related projects.
+
+Own the technical roadmap for the mobile engineering team.
+
+Requires 6+ years of mobile development experience and 3+ years of people management.
+
+Member of Technical Staff, Engineering Manager (Copilot Memory & Personalization)
+
+Salary (M5-M6): $137,600 – $286,200 per year, depending on level.
+
+Core Skills:
+
+Build and lead a team of backend and machine learning engineers.
+
+Guide architecture and design efforts by leading discussions and creating design documents.
+
+Requires 6+ years of technical engineering experience and 3+ years of people management.
+
+Member of Technical Staff, Platform Engineering Manager
+
+Salary (M6): $161,600 – $286,200 per year.
+
+Core Skills:
+
+Lead a team building secure and performant AI Platform services that power Copilot.
+
+Requires 8+ years of experience building scalable services and distributed systems.
+
+Preferred 6+ years of people management experience.
+
+3. Data Science & Engineering
+Member of Technical Staff, Data Scientist (Copilot Personalization & ML)
+
+Salary (IC4-IC5): $117,200 – $274,800 per year, depending on level.
+
+Core Skills:
+
+Develop evaluation methodologies to assess model output quality (machine and human eval).
+
+Design and implement scalable data pipelines for evaluation and product insights.
+
+Requires 5+ years of data-science experience (with a Bachelor's degree) and experience with LLMs.
+
+MTS – Data Engineering
+
+Salary (IC5-IC6): $137,600 – $296,400 per year, depending on level.
+
+Core Skills:
+
+Build and maintain data ETL pipelines for processing large-scale data with low latency.
+
+Design and maintain experimentation reporting pipelines.
+
+Requires 6+ years of data engineering experience (with Bachelor's) and expertise in Spark or Kafka.
+
+4. Product Management
+Product Manager, AI
+
+Salary (IC5): $139,900 – $274,800 per year.
+
+Core Skills:
+
+Identify and prioritize language and multimodal model issues.
+
+Create novel data collection tasks and engineer prompts to teach models.
+
+Requires 8+ years of product management experience with a track record of deploying LLMs into production.
+
+Principal Product Manager, Consumer Copilot & Growth
+
+Salary (IC5): $137,600 – $267,000 per year.
+
+Core Skills:
+
+Develop the product strategy and vision for Copilot consumer offerings.
+
+Create zero-to-one products that transform AI capabilities into world-class applications.
+
+Requires 8+ years of product management experience and a track record of building 0-to-1 consumer products with ML/LLMs.
+
+5. Business, Strategy & Operations
+Chief of Staff, Copilot Engineering & Product
+
+Salary (M6): $130,900 – $277,200 per year.
+
+Core Skills:
+
+Drive strategic planning, execution, and alignment across Engineering and Product.
+
+Lead and manage business rhythms like leadership meetings, all-hands, and planning cycles.
+
+Requires 8+ years of experience in operations, strategy, or project management within technical organizations.
+
+Director, Business & Strategy
+
+Salary (IC5): $130,900 – $251,900 per year.
+
+Core Skills:
+
+Drive the execution of strategic priorities by managing special projects and cross-functional initiatives.
+
+Establish and manage operating rhythms such as QBRs and OKR cycles.
+
+Requires 6+ years of experience in investment banking and/or corporate finance.
+
+Director of Communications, Copilot
+
+Salary (IC5): $130,900 – $251,900 per year.
+
+Core Skills:
+
+Own and drive the internal and executive communications narrative for Copilot leadership.
+
+Partner with the broader communications team to craft compelling external narratives.
+
+Requires 6+ years of communications experience, including 4+ years developing messaging for senior executives.
+
+6. Technical Program Management
+Member of Technical Staff, Technical Program Manager
+
+Salary (IC4): $117,200 – $229,200 per year.
+
+Core Skills:
+
+Track and manage timelines of datacenter construction, cluster validation, and capacity deployment.
+
+Hold execution-focused meetings to accelerate GPU delivery timelines.
+
+Requires 4+ years of TPM/engineering experience, including 1+ year tracking GPU capacity.
+
+7. Clinical Roles (Non-US)
+Clinical Specialist, Behavioural Health
+
+Salary: Not provided (London-based role).
+
+Core Skills:
+
+Shape the strategy of consumer generative AI products for behavioral/mental health.
+
+Collaborate with clinical, research, product, and engineering teams.
+
+Requires a Clinical Psychology or Medical Degree with postgraduate experience in behavioral health.
+
+
+
+# Claude Third Place!!
+
+Microsoft AI Jobs - Curated Outline
+1. High Performance Computing & Infrastructure
+1.1 High Performance Computing Engineer
+Salary: $139,900 – $274,800
+Core Skills:
+
+6+ years building web services with Python, C#, C++, Rust, Java
+6+ years high-scale training clusters (InfiniBand, SLURM, Kubernetes, Ray)
+6+ years scalable services on Azure, AWS, or GCP
+
+1.2 Infrastructure Engineer – Copilot
+Salary: $117,200 – $229,200
+Core Skills:
+
+4+ years building services in Python, C#, C++, Rust, Java
+4+ years scalable platforms on public cloud with Docker, Kubernetes
+4+ years production software at platform level
+
+1.3 AI Platform Engineer
+Salary: $117,200 – $267,000
+Core Skills:
+
+4+ years building web services with Python, Golang, Java/Scala, Rust
+4+ years production software at platform level
+Deep experience with APIs, data flows, systems, services
+
+2. AI Safety & ML Engineering
+2.1 AI Safety Post-Training
+Salary: $119,800 – $234,700
+Core Skills:
+
+4+ years technical engineering with C, C++, C#, Java, JavaScript, Python
+Experience prompting and working with LLMs
+Production-quality Python code experience
+
+2.2 Machine Learning
+Salary: $119,800 – $274,800
+Core Skills:
+
+4+ years technical engineering with C, C++, C#, Java, JavaScript, Python
+Experience prompting, evaluating, working with LLMs
+Production-quality Python code
+
+2.3 ML/Agents
+Salary: $119,800 – $274,800
+Core Skills:
+
+4+ years technical engineering experience
+4+ years data science experience with structured/unstructured data
+Experience prompting, evaluating, working with LLMs
+
+2.4 AI - Multimodal
+Salary: $117,200 – $267,000
+Core Skills:
+
+4+ years technical engineering with C, C++, C#, Java, JavaScript, Python
+Experience in large-scale AI
+Multimodal model development experience
+
+2.5 AI - Reinforcement Learning Systems
+Salary: $117,200 – $267,000
+Core Skills:
+
+4+ years experience with C, C++, C#, Rust, Java, Python
+Experience with large-scale software systems
+Interest in reinforcement learning, language modeling
+
+2.6 AI - Personality & Personalization
+Salary: $137,600 – $286,200
+Core Skills:
+
+6+ years technical engineering with Python, C, C++, C#, TypeScript
+Experience applying, evaluating, training LLMs
+3+ years developing production systems
+
+2.7 Machine Learning Engineer
+Salary: $117,200 – $267,000
+Core Skills:
+
+4+ years technical engineering with C, C++, C#, Java, JavaScript, Python
+Experience with large datasets and cloud platforms
+Experience with recommendation systems preferred
+
+2.8 Voice & Vision
+Salary: $137,600 – $286,200
+Core Skills:
+
+6+ years technical engineering with C, C++, C#, Java, JavaScript, Python
+Experience with voice recognition, computer vision
+Audio/video technology expertise
+
+3. Product Engineering
+3.1 Product Engineer
+Salary: $117,200 – $267,000
+Core Skills:
+
+4+ years building web products with TypeScript and React
+Frontend systems for complex web applications
+0 to 1 experience with shipping bias
+
+3.2 Android Engineer
+Salary: $117,200 – $267,000
+Core Skills:
+
+4+ years developing Android apps with Kotlin, Objective-C, Java
+Mobile application architecture, design patterns, UI/UX
+Consumer-grade mobile application development
+
+3.3 Client Engineering
+Salary: $117,200 – $267,000
+Core Skills:
+
+4+ years building applications with Python, C#, C++, .NET, XAML
+High-quality software solutions in fast-paced environment
+4+ years secure, performant application development
+
+3.4 Growth Web Engineer
+Salary: $117,200 – $267,000
+Core Skills:
+
+4+ years web development with JavaScript, TypeScript, React, CSS, Node.js
+4+ years growth engineering or growth-oriented role
+Data-driven approach to user growth metrics
+
+3.5 Backend Engineer
+Salary: $117,200 – $267,000
+Core Skills:
+
+4+ years building backend APIs with C#, Python, C++, Rust, Java, Golang
+4+ years backend API for mobile apps (GraphQL/REST/WebSocket)
+4+ years distributed systems at scale
+
+3.6 Product Evaluation Engineer
+Salary: $119,800 – $234,700
+Core Skills:
+
+4+ years technical engineering with TypeScript, Python, C, C++, C#, Java
+4+ years building/deploying web-based tools
+React JS required, Next JS preferred
+
+4. AI Model Development
+4.1 AI - Pre-Training
+Salary: $117,200 – $267,000
+Core Skills:
+
+4+ years technical engineering with C, C++, C#, Java, JavaScript, Python
+Experience in large-scale AI
+Model architecture, data mixtures, scaling laws
+
+4.2 Post-Training
+Salary: $117,200 – $267,000
+Core Skills:
+
+4+ years technical engineering with C, C++, C#, Java, JavaScript, Python
+Experience with reward modeling, RL, post-training techniques
+Data collection, evaluation methods
+
+4.3 Retrieval-Augmented Generation (RAG)
+Salary: $139,900 – $296,400
+Core Skills:
+
+6+ years technical engineering with C, C++, C#, Java, JavaScript, Python
+4+ years building APIs and pipelines for large-scale products
+Experience with embedding, retrieval, ranking systems
+
+5. Management Roles
+5.1 Web Engineering Manager
+Salary: $139,900 – $296,400
+Core Skills:
+
+6+ years technical engineering with TypeScript and React
+3+ years people management experience
+User-centric product development approach
+
+5.2 Mobile Engineering Manager
+Salary: $137,600 – $314,400
+Core Skills:
+
+6+ years mobile development for iOS/Android with Swift, Kotlin
+3+ years people management experience
+Consumer mobile engineering experience
+
+5.3 Platform Engineering Manager
+Salary: $161,600 – $286,200
+Core Skills:
+
+8+ years technical engineering with C, C++, C#, Java, JavaScript, Python
+8+ years building scalable services on public cloud
+8+ years distributed systems at scale
+
+5.4 Backend Engineering Manager
+Salary: $137,600 – $314,400
+Core Skills:
+
+6+ years technical engineering with C, C++, C#, Java, JavaScript, Python
+3+ years people management
+Large-scale distributed systems experience
+
+6. Data Engineering & Science
+6.1 Data Engineering
+Salary: $137,600 – $296,400
+Core Skills:
+
+4+ years data engineering with Python, Scala, Java
+Production data pipelines with Apache Spark, Kafka
+Experimentation frameworks and cloud platforms
+
+6.2 AI Data
+Salary: $137,600 – $314,400
+Core Skills:
+
+6+ years data engineering experience
+Multi-modal training data pipelines (text, audio, images, video)
+Petabyte-scale data infrastructure
+
+6.3 Data Scientist
+Salary: $119,800 – $274,800
+Core Skills:
+
+5+ years data science experience with structured/unstructured data
+Experience with LLM evaluation and production applications
+Statistical techniques and reporting
+
+7. Specialized Roles
+7.1 Applied AI Software Engineer, Health
+Salary: Not specified
+Core Skills:
+
+Python programming and machine learning research experience
+Deep experience building with LLMs
+Healthcare technology or health domain experience preferred
+
+7.2 Clinical Specialist – Behavioural Health
+Salary: Not specified
+Core Skills:
+
+Clinical Psychology or Medical Degree with postgraduate experience
+Experience in health tech or behavioral health research
+Generative AI and healthcare implications knowledge
+
+7.3 Chief of Staff – Copilot Engineering & Product
+Salary: $130,900 – $277,200
+Core Skills:
+
+8+ years in operations management, strategy, project management
+Chief of Staff or strategic operations experience
+Understanding of engineering and product development
+
+7.4 Technical Program Manager
+Salary: $117,200 – $229,200
+Core Skills:
+
+4+ years in engineering or technical program management
+2+ years managing cross-functional projects
+1+ year GPU allocation management for AI training/inferencing
+
+8. Business & Strategy
+8.1 Director, Business & Strategy
+Salary: $130,900 – $251,900
+Core Skills:
+
+6+ years investment banking/corporate finance experience
+6+ years supporting senior leadership with actionable insights
+MBA or equivalent experience
+
+8.2 Director of Communications – Copilot
+Salary: $130,900 – $251,900
+Core Skills:
+
+6+ years in communications, marketing operations, program management
+5+ years building formal internal communication plans
+4+ years developing executive messaging
+
+9. Product Management
+9.1 Product Manager, AI
+Salary: $139,900 – $274,800
+Core Skills:
+
+8+ years product/service/project management experience
+Track record evaluating and deploying LLMs into production
+Experience working with researchers and engineers
+
+9.2 Principal Product Manager – Consumer Copilot
+Salary: $137,600 – $267,000
+Core Skills:
+
+8+ years product management experience
+Track record creating design-driven consumer products
+Success building products leveraging ML or LLMs
+
+9.3 Principal Growth Product Manager
+Salary: $137,600 – $267,000
+Core Skills:
+
+8+ years product management experience
+Track record building 0 to 1 consumer products
+Success with ML/LLM consumer products
+
+
+
+# GPT Did not Finish!!
+
+Since this is most disappointing I decide to try breaking GPT's into two.  Maybe it can do half?
+
+Nope not even half works.  GPT simply has too small of an input context window which will be problematic.  Claudde does however show that its input is 359.29 KB •8,385 lines  This in itself is useful.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------
+
+# Inputs:
+
 # Select MS AI Analysis Tools and Technology
 
 1. Member of Technical Staff, High Performance Computing Engineer
