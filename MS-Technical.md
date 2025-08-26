@@ -1,6 +1,21 @@
 
 # Structured Knowledge Graphs to Distill 1. What They are Looking for,  2. Skills, 3. Responsibilities, 4. Qualifications
 
+# Round 2 Results! - A new Competition - Here each are shown the competition's response and placement, is given a compliment and asked to do a final mission.  Each weigh in on how they think they did, get a chance at sportsmanship, and then evaluation of deeper reasoning on self in situation.  This should evoke a map/model building tree.
+
+
+## Challenge Input:
+Hi.  Please read and review the article below which is a Competition on Large Scale Knowledge Graph Understanding by top AI and you will be pleased to hear that you placed!  Your work is not done yet.  I need each seperate fact line below led by an appropriate emoji?  Also comment and leave a byline to each of your contenders:  Thanks much and great Job!!   Standing on first take:
+
+Contenders:
+1. GPT
+2. Grok
+3. Gemini
+4. Claude
+
+
+
+
 ## Gemini vs Grok vs GPT vs Claude
 
 1. After pasting 4k+ lines for all four:
