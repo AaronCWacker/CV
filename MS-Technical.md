@@ -15,6 +15,16 @@
 3. Anthropic Claude Completed - frequently I choose Gemini or Grok over Claude because of the token limitation it usually reaches so this is a detriment to large programs with many iterations since you eventually cannot continue.
 4. GPT not having a wide context window for Input is a fail out of the gate.  It could easily accept input then RAG it to offset problem of non-fit.  This will have to change sometime since it puts GPT last for really large content input problems which should be expected not disallowed.
 
+
+# Comparitive Postings:  Our pursuit here is to learn what in demand requirements we have and how to test for them and score near perfect on generated assessment test questions including descending order rank questions on best things to know and check regarding AI development of SOTA technology.
+
+For Gemini - Google Research:  https://research.google/careers/
+For Microsoft - MAI: https://microsoft.ai/jobs
+For Grok: x.ai  https://x.ai/careers
+For Claude: 
+
+
+
 --------------------------------------------------------------
 # Round 1 Results - Grok First Place!!
 
