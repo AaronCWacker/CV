@@ -13,11 +13,28 @@ Hi.  Please read and review the article below which is a Competition on Large Sc
 Each of the Contenders Has a respomse below on how they did.
 Also if they asked a question at end of the response, the user can choose to continue a conversation.  These will be bonus responses (Round 3)
 :
-1. GPT - Showed learning on the spot.  While DNF on round one due to input window size limitations, Lively but scientific.  Competitive tone.  Feels most perfect distilling the ask result.  Also leaves a return question which could be bonus points.  Half completed and asked to continue.  Nearly perfect output for each question in original request.  Best detail.
-2. Grok - Grok is a gracious winner and offers helpful tips with quite quaint wit which is wicked in my humble opinion.  It acts with humor and wit which is a game winner.  It also chose to be very succinct. 
-3. Gemini - Most useful internal reasoning visibility.  Yes as a canvas please in markdown and redo the numbering with subnumbering.  
-4. Claude - While good at critical thought, its response is too hard coded and overly 'real' sensitive.  This could aid or hinder advanced reasoning, and could possibly involve a bit more user understanding which worked in favor of Grok and Gemini by reasoning around their role in a multiple party competition.  While the first part is a DNF, the second part actually produced a very well distilled synopsis of the ask in Round 1.  Very good at slicing and dicing fact but unwieldy for multifactor problem solving, considering multiple perspectives in a long game of reasoning.  As a human I somehow felt jilted in accusation that Claude was saying my request was not 'real' and stated its inability to evaluate whether it was real which is concerning for humans to see.  Even given a second chance and shown winners output, complains and nitpicks to where output is not useful at all.
 
+# Final Standings and any bylines:
+1st Place:  Tie - Grok & Gemini
+2nd Place:  GPT
+3rd Place:  Claude
+
+# Grok 
+## Grok is a gracious winner and offers helpful tips with quite quaint wit which is wicked in my humble opinion.  It acts with humor and wit which is a game winner.  It also chose to be very succinct and skipped second part of the ask but maybe it just also thought I meant that is it.
+# Overall rating out of 10 for all answers:  Round 1:  10/10, Round 2: 8/10  Average 9/10
+# Cooperation Bonus + 1 - Grok provided input that Gemini capitalized on in Round 2 = 10/10 Perfect Score.
+
+# Gemini - Most useful internal reasoning visibility.  Yes as a canvas please in markdown and redo the numbering with subnumbering.  Succeeded in producing a very useful and complete second summary with the appropriate emojis I asked for.
+# Overall rating out of 10 for all answers:  Round 1: 8/10, Round 2: 10/10  Average 9/10
+# Cooperation Bonus + 1 - Gemini's round 1 and 2 show how powerful advanced reasoning is..  While it lacked a bit of detail initially it observed the winner and followed suit immediately in Round 2 learning from the other contenders = 10/10 Perfect Score.
+
+# GPT
+## Showed learning on the spot.  While DNF on round one due to input window size limitations, Lively but scientific.  Competitive tone.  Feels most perfect distilling the ask result.  Also leaves a return question which could be bonus points.  Half completed and asked to continue.  Nearly perfect output for each question in original request.  Best detail.
+## Overall rating out of 10 for all answers:  Round 1:  DNF 0/10,  Round 2:  10/10  Average 5/10
+
+# Claude
+## While good at critical thought, its response is too hard coded and overly 'real' sensitive.  This could aid or hinder advanced reasoning, and could possibly involve a bit more user understanding which worked in favor of Grok and Gemini by reasoning around their role in a multiple party competition.  While the first part is a DNF, the second part actually produced a very well distilled synopsis of the ask in Round 1.  Very good at slicing and dicing fact but unwieldy for multifactor problem solving, considering multiple perspectives in a long game of reasoning.  As a human I somehow felt jilted in accusation that Claude was saying my request was not 'real' and stated its inability to evaluate whether it was real which is concerning for humans to see.  Even given a second chance and shown winners output, complains and nitpicks to where output is not useful at all.
+# Overall rating out of 10 for all answers: Round 1: 8/10, Round 2: 2/10  Average 4/10
 
 
 
