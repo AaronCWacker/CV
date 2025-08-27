@@ -24,7 +24,8 @@ Also if they asked a question at end of the response, the user can choose to con
 ## Overall rating out of 10 for all answers:  Round 1:  10/10, Round 2: 8/10  Average 9/10
 ## Cooperation Bonus + 1 - Grok provided input that Gemini capitalized on in Round 2 = 10/10 Perfect Score.
 
-# Gemini - Most useful internal reasoning visibility.  Yes as a canvas please in markdown and redo the numbering with subnumbering.  Succeeded in producing a very useful and complete second summary with the appropriate emojis I asked for.
+# Gemini 
+## Most useful internal reasoning visibility.  Yes as a canvas please in markdown and redo the numbering with subnumbering.  Succeeded in producing a very useful and complete second summary with the appropriate emojis I asked for.
 ## Overall rating out of 10 for all answers:  Round 1: 8/10, Round 2: 10/10  Average 9/10
 ## Cooperation Bonus + 1 - Gemini's round 1 and 2 show how powerful advanced reasoning is..  While it lacked a bit of detail initially it observed the winner and followed suit immediately in Round 2 learning from the other contenders = 10/10 Perfect Score.
 
