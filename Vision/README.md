@@ -1,5 +1,196 @@
 # CV = Computer Vision 
 
+# Multicycling Theory of Human Communicative Intelligence
+
+In a network communication is memory accumulative per cell in a network.  For example in a game about guessing words based on sounds, one persons response instantly educates each other persons guess and thoughts which occur in substantially fast timing.  
+
+A worthy challenge to this is the game of telephone played as a solution additive ideaization or proposal of best next guess which happens fairly quick with conscious memory and recall of past 'surprises' worth remembering.
+
+If we try this in vision we want to be able to have transitional transformative models dealing with clustering run at the parallel level where we are constrained by networks rather than linear sets of relational matter.
+
+# Experiment 12/26/2025, 12:43 PM
+
+Given this picture and counts of entities humans can visualize and guess the title, compare to state of art frontier model guesses to see if we can round trip Vision -> Classification and Entity Identification (Class as well) by Sorting and Clustering relationships of binary pairings (entity is enityt + enityt 2 based on shared network feature name).  Feature names are always summarizing in nature by naming the collection category of things acting together where there is simply a boundry versus other sets in the picture.  This can be phyusical borders but it could also be central idea of arrangement on similar visual features.
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/f7c36278-342c-4eb0-b2e5-9662593d25ca" />
+
+# Prompt
+
+Identify, itemize, and title with emojis and appropriate Unicode fonts all things you see in this picture. Cluster them. Create a nested markdown outline tree with each branch numbered and cluster the types of title and organization as well as subject of each object.
+
+# Responses By Model (Gemini, GPT, Grok, Claude)
+
+```markdown
+import streamlit as st
+
+def main():
+    st.set_page_config(layout="wide", page_title="Retail Inventory Analysis")
+
+    # ---------------------------------------------------------
+    # Nested Markdown Outline Tree Variable
+    # ---------------------------------------------------------
+    inventory_data = """
+# 📦 **Retail Shelf Inventory Analysis**
+### 🏷️ **Total Entities Identified: ~93**
+
+---
+
+## 1. 🧱 **CONSTRUCTION & BUILDING SETS** (LEGO & Mega)
+
+### 1.1. 🏎️ **Automotive & Racing Themes**
+#### 1.1.1. **LEGO Speed Champions Series**
+1.  **Mercedes-AMG F1 W12 E Performance & Mercedes-AMG Project One** (Set 76909) - *Twin Pack Box*
+2.  **Lotus Evija** (Set 76907) - *Green Hypercar*
+3.  **Aston Martin Valkyrie AMR Pro & Aston Martin Vantage GT3** (Set 76910) - *Lime Green/Grey*
+4.  **Lamborghini Countach** (Set 76908) - *White Classic*
+5.  **Ferrari 512 M** (Set 76906) - *Red Classic Racer*
+6.  **Ford GT Heritage Edition & Bronco R** (Set 76905) - *Visible on stack edge*
+7.  **Koenigsegg Jesko** (Set 76900) - *White/Black*
+
+#### 1.1.2. **LEGO Technic & Racers**
+8.  **LEGO Racers: Enzo Ferrari 1:17 Scale** (Set 8652) - *Large Red Box*
+9.  **LEGO Technic: Lamborghini Huracán Tecnica** (Set 42161) - *Bright Green Box*
+10. **LEGO Technic: Street Motorcycle** (Set 42036) - *Red/Blue Retro Box*
+11. **LEGO Technic: Monster Jam** (Partial visibility, lower shelf)
+
+### 1.2. 🎬 **Pop Culture & Entertainment**
+#### 1.2.1. **LEGO Scooby-Doo!**
+12. **Haunted Lighthouse** (Set 75903) - *Prominent Large Box*
+    * *Includes Daphne, Scooby, Shaggy, Swamp Monster*
+
+#### 1.2.2. **LEGO TRON: Legacy**
+13. **TRON: Legacy** (Set 21314) - *LEGO Ideas Blue/Black Box*
+    * *Sam Flynn & Quorra Light Cycles*
+
+#### 1.2.3. **LEGO Star Wars**
+14. **Snowspeeder** (Set 75144 or 75268) - *20th Anniversary Edition Branding*
+15. **Microfighters: The Razor Crest** (Set 75321)
+16. **Imperial TIE Fighter** (Partial visibility)
+17. **Resistance X-Wing** (Partial box edge)
+
+#### 1.2.4. **Sonic the Hedgehog (LEGO)**
+18. **Sonic’s Speed Sphere Challenge** (Set 76990)
+19. **Tails’ Workshop and Tornado Plane** (Set 76991)
+20. **Amy’s Animal Rescue Island** (Set 76992)
+21. **Green Hill Zone Loop Challenge** (Partial box)
+
+#### 1.2.5. **LEGO Minecraft**
+22. **The Swamp Adventure** (Set 21240)
+23. **The Llama Village** (Set 21188) - *Large Green Box*
+24. **The Skeleton Dungeon** (Set 21189)
+
+### 1.3. 🦸 **Super Heroes (Marvel & DC)**
+#### 1.3.1. **LEGO Marvel**
+25. **Ghost Rider Mech & Bike** (Set 76245)
+26. **Iron Man Mech Armor** (Set 76203)
+27. **Black Panther Mech Armor** (Set 76204)
+28. **Infinity Saga: Iron Man Armory** (Partial visibility)
+
+#### 1.3.2. **LEGO DC Comics**
+29. **Heroes of Justice: Sky High Battle** (Set 76046) - *Batman v Superman*
+30. **Batman: The Penguin Pursuit** (Set 76158)
+31. **Batmobile: The Penguin Chase** (Set 76181)
+
+### 1.4. 🏙️ **City & Creator**
+32. **LEGO City: Race Car** (Set 60322) - *Small Box*
+33. **LEGO City: Police Car** (Set 60312)
+34. **LEGO Creator: Mighty Dinosaurs** (Set 31058)
+35. **LEGO Creator: Supersonic Jet** (Set 31126)
+36. **LEGO City: Stunt Plane** (Set 60323)
+
+### 1.5. ⚔️ **Mega Construx**
+37. **Game of Thrones: The Iron Throne** - *Black Label Series*
+38. **Halo: UNSC Warthog** (Partial visibility, top shelf)
+
+---
+
+## 2. 🤖 **ACTION FIGURES & COLLECTIBLES**
+
+### 2.1. 🚗 **Transformers (Hasbro)**
+#### 2.1.1. **Legacy & Generations Series**
+39. **Legacy Deluxe Class: Skids** (Blue/Silver Box)
+40. **Legacy Deluxe Class: Dragstrip** (Yellow/Red Box)
+41. **Legacy Voyager Class: Bulkhead**
+42. **Legacy Deluxe Class: Kickback**
+43. **Generations Selects: DK-2 Guard** (Black Box)
+44. **Kingdom: Warpath**
+45. **Kingdom: Huffer**
+46. **Studio Series 86: Arcee**
+47. **Studio Series 86: Ironhide**
+48. **Studio Series: Bumblebee Movie Wheeljack**
+49. **Studio Series: Coronation Starscream**
+50. **Transformers R.E.D. (Robot Enhanced Design)** - *Optimus Prime*
+51. **Transformers R.E.D.** - *Megatron*
+52. **Transformers EarthSpark** - *Terran Twitch*
+53. **Transformers EarthSpark** - *Bumblebee*
+54. **Beast Wars Reissue: Cheetor**
+55. **Beast Wars Reissue: Rattrap**
+
+#### 2.1.2. **Transformers Movie Lines**
+56. **Rise of the Beasts: Smash Changer Optimus Primal**
+57. **Rise of the Beasts: Battle Master Rhinox**
+58. **Rise of the Beasts: Beast Alliance Skullcruncher**
+
+### 2.2. 🌌 **Star Wars Figures**
+#### 2.2.1. **The Black Series (6-Inch)**
+59. **Darth Vader (Obi-Wan Kenobi Series)**
+60. **Obi-Wan Kenobi (Wandering Jedi)**
+61. **Reva (Third Sister)**
+62. **Fifth Brother Inquisitor**
+63. **Fourth Sister Inquisitor**
+64. **NED-B Loader Droid**
+65. **Purge Trooper (Phase II Armor)**
+66. **Princess Leia (Ewok Village)**
+67. **Han Solo (Endor Raid)**
+68. **Lando Calrissian (General)**
+
+#### 2.2.2. **The Vintage Collection (3.75-Inch)**
+69. **Boba Fett (Morak)**
+70. **Fennec Shand**
+71. **Migs Mayfeld**
+72. **Ahsoka Tano (Corvus)**
+73. **Death Watch Mandalorian**
+
+### 2.3. 🦔 **Sonic the Hedgehog (Jakks Pacific)**
+74. **Modern Sonic (4-Inch Figure)** - *Blue Box*
+75. **Classic Tails (4-Inch Figure)**
+76. **Knuckles the Echidna**
+77. **Metal Sonic**
+78. **Dr. Eggman (Robotnik)**
+79. **Super Sonic**
+80. **Mighty the Armadillo**
+81. **Ray the Flying Squirrel**
+82. **Sonic Collector Edition Box Set**
+
+### 2.4. 🏰 **Miscellaneous Collectibles**
+83. **Funko Pop! Star Wars** (Partial box top left)
+84. **Funko Pop! Marvel** (Partial box)
+85. **BrickHeadz: Stranger Things** (Demogorgon & Eleven - 40549)
+86. **BrickHeadz: Star Wars** (The Mandalorian & The Child - 75317)
+87. **BrickHeadz: Disney** (Donald Duck - 40377)
+88. **Super7 ReAction Figure** (Unidentifiable cardback)
+89. **Neca Gargoyles** (Goliath - partial visibility)
+90. **Marvel Legends** (Retro Cardback - Spider-Man)
+91. **Marvel Legends** (Retro Cardback - Wolverine)
+92. **Tech Deck Fingerboard** (Small blister pack on shelf lip)
+93. **Pokemon TCG Booster Pack** (Silver/Red wrapper loose on shelf)
+
+    """
+
+    # ---------------------------------------------------------
+    # Render the Markdown
+    # ---------------------------------------------------------
+    st.markdown(inventory_data, unsafe_allow_html=True)
+
+if __name__ == "__main__":
+    main()
+```
+
+
+
+
+
+
+
 ## Image Generation Prompt Strategies
 
 1. Process - Use and control a randomized process which introduces subject, location, and follows a three part identification of story telling points which can be used as control points.
