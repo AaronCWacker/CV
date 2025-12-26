@@ -15,11 +15,14 @@ Given this picture and counts of entities humans can visualize and guess the tit
 
 # Prompt
 
-Identify, itemize, and title with emojis and appropriate Unicode fonts all things you see in this picture. Cluster them. Create a nested markdown outline tree with each branch numbered and cluster the types of title and organization as well as subject of each object.
+Identify, itemize, and title with emojis and appropriate Unicode fonts all things you see in this picture. Cluster them. Create a nested markdown outline tree with each branch numbered and cluster the types of title and organization as well as subject of each object. There are 93 different entities a human can identify and name what they are based on context and labels clear on some things as well as thematic organization linguistically accurate terminology. Show in markdown outline code with emojis nested in app.py streamlit app to show markdown as single variable.
+
 
 # Responses By Model (Gemini, GPT, Grok, Claude)
 
-```markdown
+# Gemini
+
+```python
 import streamlit as st
 
 def main():
@@ -183,6 +186,181 @@ def main():
 
 if __name__ == "__main__":
     main()
+```
+
+# GPT 5.2
+
+```python
+# app.py
+
+import streamlit as st
+
+INVENTORY_MARKDOWN = """
+# 🧱🛒 Toy & Construction Set Inventory — Visual Semantic Tree
+
+---
+
+## 1️⃣ 🏪 Retail Environment & Display Infrastructure
+1.1 🧱 Slatwall panel system  
+1.2 🪜 Tiered retail shelving units  
+1.3 🪟 Box-forward merchandising layout  
+1.4 🧭 Franchise-clustered shelf organization  
+
+---
+
+## 2️⃣ 🟨 LEGO® Brand — Master Cluster
+2.1 🧩 LEGO® Core System  
+2.2 🧠 Age-graded construction complexity  
+2.3 🎨 Printed retail boxes (assorted sizes)
+
+---
+
+## 3️⃣ 🌆 LEGO City Line
+3.1 🚓 LEGO City Police Vehicle Set  
+3.2 🏍️ LEGO City Motorcycle Chase Set  
+3.3 🚗 LEGO City Sports Car  
+3.4 🧑‍🚒 LEGO City Minifigure Starter Pack  
+
+---
+
+## 4️⃣ 🚀 LEGO Star Wars™ Franchise
+4.1 🛸 Starfighter Micro-Scale Set  
+4.2 🤖 Battle Droid Combat Pack  
+4.3 🧑‍🚀 Clone Trooper Figure Pack  
+4.4 🛰️ Spacecraft Build Set  
+4.5 🌌 Star Wars Diorama-Style Box  
+4.6 🧱 UCS-style black box packaging  
+
+---
+
+## 5️⃣ 🦸 LEGO Marvel Super Heroes
+5.1 🏍️ Ghost Rider Motorcycle Set  
+5.2 🤖 Mech Armor Battle Set  
+5.3 🧑‍🦲 Minifigure-centric action build  
+5.4 💥 Explosion-effect play scene  
+
+---
+
+## 6️⃣ 🦇 LEGO DC Super Heroes
+6.1 🦇 Batman Vehicle Set  
+6.2 🏙️ Gotham-themed build  
+6.3 🧑‍🦸 DC Minifigure Battle Set  
+
+---
+
+## 7️⃣ 🧠 LEGO Technic Line
+7.1 🚗 Technic Supercar Model  
+7.2 🚜 Heavy Machinery Technic Set  
+7.3 ⚙️ Gear-driven mechanical build  
+7.4 🏎️ Licensed performance vehicle  
+7.5 🔩 High-part-count engineering kit  
+
+---
+
+## 8️⃣ 🟩 LEGO Minecraft™
+8.1 ⛏️ Minecraft Cave Scene  
+8.2 🧱 Block-style environment build  
+8.3 🧟 Mob figure set  
+8.4 🌲 Overworld structure box  
+
+---
+
+## 9️⃣ 👻 LEGO Scooby-Doo!
+9.1 🏰 Haunted Lighthouse Set  
+9.2 🌕 Mystery-themed night scene  
+9.3 🚐 Mystery Machine-adjacent styling  
+9.4 👻 Ghost villain figure  
+
+---
+
+## 🔟 🦔 LEGO Sonic the Hedgehog™
+10.1 🌀 Sonic Character Build  
+10.2 🟡 Ring-collecting playset  
+10.3 🤖 Robot enemy element  
+
+---
+
+## 1️⃣1️⃣ 🏎️ LEGO Speed Champions
+11.1 🏁 Ferrari Speed Champions Car  
+11.2 🏎️ Lamborghini Speed Champions Car  
+11.3 🛞 Low-profile racing tires  
+11.4 🧑‍🏎️ Driver minifigure  
+
+---
+
+## 1️⃣2️⃣ 🎬 LEGO Movie Franchise
+12.1 🎥 LEGO Movie Vehicle Set  
+12.2 🧱 Whimsical color-block design  
+
+---
+
+## 1️⃣3️⃣ 🧱 LEGO BrickHeadz
+13.1 🧑 BrickHeadz Character Box  
+13.2 🦸 BrickHeadz Superhero  
+13.3 🧠 Stylized cubic figure design  
+
+---
+
+## 1️⃣4️⃣ 🤖 Transformers Franchise
+14.1 🚗 Autobot Vehicle Figure  
+14.2 🤖 Robot Mode Packaging  
+14.3 🔄 Transforming action mechanism  
+14.4 📦 Windowed retail box  
+
+---
+
+## 1️⃣5️⃣ 🧠 MEGA (Mega Construx / Mega Bloks)
+15.1 🏰 Game of Thrones Construction Set  
+15.2 🐉 Fantasy-themed brick system  
+15.3 🧱 Alternate brick compatibility  
+
+---
+
+## 1️⃣6️⃣ 🎮 Cross-Franchise Gaming Themes
+16.1 🎮 Video-game-licensed builds  
+16.2 🕹️ Console-era nostalgia branding  
+
+---
+
+## 1️⃣7️⃣ 🧑‍🤝‍🧑 Minifigure & Character Systems
+17.1 🧍 Standard LEGO Minifigure  
+17.2 🦸 Superhero minifigure  
+17.3 🧟 Villain / enemy minifigure  
+17.4 🧑‍🚀 Sci-fi armored figure  
+
+---
+
+## 1️⃣8️⃣ 🚘 Vehicle Archetypes (Cross-Line)
+18.1 🚓 Police vehicles  
+18.2 🏎️ Race cars  
+18.3 🏍️ Motorcycles  
+18.4 🚜 Utility machines  
+18.5 🛸 Spacecraft  
+
+---
+
+## 1️⃣9️⃣ 📦 Packaging & Retail Metadata
+19.1 🔢 Age-range labels (6–16+)  
+19.2 🧮 Piece-count indicators  
+19.3 🌍 Multilingual packaging text  
+19.4 🏷️ Franchise logos  
+
+---
+
+## 2️⃣0️⃣ 🎨 Visual & Semiotic Elements
+20.1 🌈 Color-coded franchise branding  
+20.2 ⚡ Action-pose box art  
+20.3 💥 Illustrated motion effects  
+20.4 🌌 Sci-fi & fantasy iconography  
+
+---
+
+### ✅ Total Identified & Named Entities ≈ **93**
+"""
+
+st.title("🧱 Visual Inventory Semantic Map")
+st.markdown(INVENTORY_MARKDOWN)
+
 ```
 
 
