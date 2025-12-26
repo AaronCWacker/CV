@@ -27,6 +27,6 @@ By converting files, network packets, and first principles into vectors, you cre
 
 # Technical Stack Implementation
 1. HTML/JS
-2. Streamlit
+2. Streamlit via stlite to allow PaaS of zero cost.
 3. FastAPI
 
