@@ -12,5 +12,9 @@
 3. Kin Recognition: Elements move past "strangers" (higher/lower values) until they find their place among "peers," leading to the spontaneous clustering of sorted domains.
 4. Minimal Agency: You are arguing that the array isn't just a list—it's a field of agents using local competency to reach a global homeostatic state (the sorted list).
 
+# Stigmergy
+
+## Biological phenomenon where agents interact with their environment to create complex, emergent patterns.
+
 
 
