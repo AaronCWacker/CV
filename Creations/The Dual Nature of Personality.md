@@ -70,6 +70,28 @@ Armed forces pioneered psychometric testing to identify promising officers, esta
 Armed Forces research revealed that individuals with IQ below 83 couldn't be trained productively affecting approximately 10% of population.
 
 
+50-year investigation that 10% of the population cannot be utilized in any productive manner whatsoever for
+34:12
+military enterprises. And so it doesn't take much thought about that to understand that something approximating
+34:19
+the same thing applies in the general world. Which means that the conservative
+34:25
+idea that everyone can get ahead merely as a consequence of diligent effort and
+34:30
+the liberal idea that everyone can be trained to do anything given enough
+34:35
+resources are both seriously wrong and nobody knows what to do about that. So
+34:42
+now the psychometricians also outlined the basic structure of personality
+34:48
+considered from a statistical perspective generating the now well-known so-called big five models.
+34:56
+
+
+# The Big Five Personality Model - Core Traints Structure
+Extraversion, neuroticism, agreeableness, conscientiousness and openness. Honesty, humility is sometimes
+added to that as is the dark tetrad which is a constellation of malevolent
+and counterproductive personality traits. We'll analyze all the five
 
 
 
