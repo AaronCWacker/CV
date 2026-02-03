@@ -378,4 +378,68 @@ After submitting your application, the team reviews your CV and statement of exc
 One-on-one discussion & coding interviews (three meetings total)
 Project deep-dive: Present your past exceptional work and your vision with xAI to a small audience.
 
+# MS
+
+Starting January 26, 2026, MAI employees are expected to work from a designated Microsoft office at least four days a week if they live within 50 miles (U.S.) or 25 miles (non-U.S., country-specific) of that location. This expectation is subject to local law and may vary by jurisdiction.
+
+Microsoft Superintelligence Team
+Microsoft Superintelligence team’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+This role is part of Microsoft AI’s Superintelligence Team. The MAIST is a startup-like team inside Microsoft AI, created to push the boundaries of AI toward Humanist Superintelligence—ultra-capable systems that remain controllable, safety-aligned, and anchored to human values. Our mission is to create AI that amplifies human potential while ensuring humanity remains firmly in control. We aim to deliver breakthroughs that benefit society—advancing science, education, and global well-being.
+
+We’re also fortunate to partner with incredible product teams giving our models the chance to reach billions of users and create immense positive impact. If you’re a brilliant, highly-ambitious and low ego individual, you’ll fit right in—come and join us as we work on our next generation of models! 
+
+
+
+Responsibilities
+Design and develop data pipelines that ingest enormous amounts of multi-modal training data (text, audio, images, video).
+
+Own and maintain critical data infrastructures, including spark, ray, vector databases, and others.
+
+Build and maintain cutting-edge infrastructure that can store and process the petabytes of data needed to power models.
+
+Partner with the pretraining and post-training teams to improve our data recipe by rigorous and careful experimentation.
+
+Microsoft Superintelligence Team
+Microsoft Superintelligence team’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+This role is part of Microsoft AI’s Superintelligence Team. The MAIST is a startup-like team inside Microsoft AI, created to push the boundaries of AI toward Humanist Superintelligence—ultra-capable systems that remain controllable, safety-aligned, and anchored to human values. Our mission is to create AI that amplifies human potential while ensuring humanity remains firmly in control. We aim to deliver breakthroughs that benefit society—advancing science, education, and global well-being.
+
+We’re also fortunate to partner with incredible product teams giving our models the chance to reach billions of users and create immense positive impact. If you’re a brilliant, highly-ambitious and low ego individual, you’ll fit right in—come and join us as we work on our next generation of models! 
+
+
+
+Responsibilities
+Design and develop data pipelines that ingest enormous amounts of multi-modal training data (text, audio, images, video).
+
+Own and maintain critical data infrastructures, including spark, ray, vector databases, and others.
+
+Build and maintain cutting-edge infrastructure that can store and process the petabytes of data needed to power models.
+
+Partner with the pretraining and post-training teams to improve our data recipe by rigorous and careful experimentation.
+
+Embody our culture and values.
+
+
+
+
+Microsoft Superintelligence Team
+Microsoft Superintelligence team’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+This role is part of Microsoft AI’s Superintelligence Team. The MAIST is a startup-like team inside Microsoft AI, created to push the boundaries of AI towardHumanist Superintelligence—ultra-capable systems that remain controllable, safety-aligned, and anchored to human values. Our mission is to create AI that amplifies human potential while ensuring humanity remains firmly in control. We aim to deliver breakthroughs that benefit society—advancing science, education, and global well-being.
+
+We’re also fortunate to partner with incredible product teams giving our models the chance to reach billions of users and create immense positive impact. If you’re a brilliant, highly-ambitious and low ego individual, you’ll fit right in—come and join us as we work on our next generation of models!
+
+
+
+Responsibilities
+Leverage subject matter expertise to improve model quality for interactive and agentive experiences.
+Oversee data acquisition or generation efforts, ensuring that the data meets the model needs.
+Generalize machine learning (ML) solutions into repeatable frameworks.
+Lead evaluation efforts of models, including those deployed within Microsoft products and the Cloud API.
+Track advances in industry and academia, identifies relevant state-of-the-art research, and adapts algorithms and/or techniques to drive innovation and develop new solutions.
+Independently write efficient, readable, extensible code and model pipelines.
+Commit to a customer-oriented focus by acknowledging customer needs and perspectives and building AI products that delight customers.
+
+
 
